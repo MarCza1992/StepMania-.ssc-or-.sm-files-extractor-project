@@ -472,4 +472,7 @@ int main()
 		default: cout << "wrong option, try again" << endl; break;
 		}
 	} while (option != 3);
+
+	cin.get();
+	cin.get();
 }
