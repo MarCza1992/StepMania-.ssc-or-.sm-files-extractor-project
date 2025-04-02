@@ -10,7 +10,7 @@ How to Use the Extractor
 
 To make the extraction program work, you need to place sample StepMania packs containing .ssc files into the Packs folder.
 For example:
-StepMania .ssc Files Extractor -> Packs -> example pack 1 -> song folder -> (this is where the .ssc file is located).
+bin -> x64 -> -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc file is located).
 Project Structure
 
     SQL Folder – .csv tables, data cleaning scripts, and SQL queries
