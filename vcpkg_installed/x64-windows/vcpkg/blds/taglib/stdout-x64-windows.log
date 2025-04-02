@@ -1,0 +1,49 @@
+-- Downloading https://github.com/taglib/taglib/archive/v2.0.tar.gz -> taglib-taglib-v2.0.tar.gz...
+-- Extracting source C:/Users/Tidek/AppData/Local/vcpkg/downloads/taglib-taglib-v2.0.tar.gz
+-- Applying patch disable-wchar-t-check-emscripten.patch
+-- Using source at C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/taglib/src/v2.0-2fb6cacda4.clean
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:116 (vcpkg_find_acquire_program)
+  C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/30f4f32ed1370c9c6f8249c1f3d40573c9c20c33/portfile.cmake:15 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:30 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:149 (z_vcpkg_find_acquire_program_find_external)
+  C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:116 (vcpkg_find_acquire_program)
+  C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/30f4f32ed1370c9c6f8249c1f3d40573c9c20c33/portfile.cmake:15 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/taglib_x64-windows/lib/pkgconfig/taglib.pc
+-- Fixing pkgconfig file: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/taglib_x64-windows/lib/pkgconfig/taglib_c.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/Tidek/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  scripts/cmake/vcpkg_fixup_pkgconfig.cmake:193 (vcpkg_find_acquire_program)
+  C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/30f4f32ed1370c9c6f8249c1f3d40573c9c20c33/portfile.cmake:23 (vcpkg_fixup_pkgconfig)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Fixing pkgconfig file: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/taglib_x64-windows/debug/lib/pkgconfig/taglib.pc
+-- Fixing pkgconfig file: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/taglib_x64-windows/debug/lib/pkgconfig/taglib_c.pc
+-- Performing post-build validation

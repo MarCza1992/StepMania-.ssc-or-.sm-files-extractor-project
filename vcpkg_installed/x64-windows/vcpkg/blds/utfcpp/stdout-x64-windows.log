@@ -1,0 +1,30 @@
+-- Downloading https://github.com/nemtrif/utfcpp/archive/v4.0.5.tar.gz -> nemtrif-utfcpp-v4.0.5.tar.gz...
+-- Extracting source C:/Users/Tidek/AppData/Local/vcpkg/downloads/nemtrif-utfcpp-v4.0.5.tar.gz
+-- Using source at C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/utfcpp/src/v4.0.5-0cd1f7f11d.clean
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:116 (vcpkg_find_acquire_program)
+  C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/4aa82d07c18c1a5b1ec311a0a23fddc81b162b5a/portfile.cmake:11 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:30 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:149 (z_vcpkg_find_acquire_program_find_external)
+  C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:116 (vcpkg_find_acquire_program)
+  C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/4aa82d07c18c1a5b1ec311a0a23fddc81b162b5a/portfile.cmake:11 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/share/utfcpp/copyright
+-- Performing post-build validation

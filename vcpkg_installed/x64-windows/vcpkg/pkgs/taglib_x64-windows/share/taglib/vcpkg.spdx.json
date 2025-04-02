@@ -1,0 +1,132 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/taglib-x64-windows-2.0#2-7d0d0b6a-2901-4c3b-81b7-6baf14e02733",
+  "name": "taglib:x64-windows@2.0#2 d036af39f4bd62365f00bbd20c7668c333b10a49f3eae88115c56a30d2e8847c",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-2024-09-30-ab8988503c7cffabfd440b243a383c0a352a023d"
+    ],
+    "created": "2025-03-26T16:33:40Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "taglib",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "2.0#2",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@30f4f32ed1370c9c6f8249c1f3d40573c9c20c33",
+      "homepage": "https://taglib.org/",
+      "licenseConcluded": "LGPL-2.1-only OR MPL-1.1",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "TagLib Audio Meta-Data Library",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "taglib:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "d036af39f4bd62365f00bbd20c7668c333b10a49f3eae88115c56a30d2e8847c",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "LGPL-2.1-only OR MPL-1.1",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "taglib/taglib",
+      "downloadLocation": "git+https://github.com/taglib/taglib@v2.0",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "099d02b2eab033f5702a8cb03e70752d7523c6f8c2f3eebdd0bcd939eafbdca3f2a6c82452983904b5822cfa45f2707ed866c3419508df9d43bf5c0b3a476f6c"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/30f4f32ed1370c9c6f8249c1f3d40573c9c20c33/disable-wchar-t-check-emscripten.patch",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "463ca975b5914e1b86074460416bd05d125d1711484ee48b18991abb19ceac85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/30f4f32ed1370c9c6f8249c1f3d40573c9c20c33/portfile.cmake",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b84caf253f50bc9c62c0d1afeb8bed793af63041c14dcafe2accad8b6331411d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/Tidek/AppData/Local/vcpkg/registries/git-trees/30f4f32ed1370c9c6f8249c1f3d40573c9c20c33/vcpkg.json",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1150706be505310bd6830475dd77df6bcdcab679facfd5918b4a46c9206ac64f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

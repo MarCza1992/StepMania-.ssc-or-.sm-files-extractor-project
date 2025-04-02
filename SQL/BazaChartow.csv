@@ -1,0 +1,670 @@
+Chart_ID;Song_Title;Song_Subtitle;Song_Artist;Song_Length;Song_BPM;Technical_Notation;Difficulty_Name;Difficulty_Rating;Step_Artist;Pack
+1;777; ;RoughSketch;125;777.000000;No Tech;Beginner;3;AltVoid;Bass Tester EXTREME
+2;777; ;RoughSketch;125;777.000000;No Tech;Easy;7;AltVoid;Bass Tester EXTREME
+3;777; ;RoughSketch;125;777.000000;XO FS;Medium;9;AltVoid;Bass Tester EXTREME
+4;777; ;RoughSketch;125;777.000000;DR XO;Hard;11;AltVoid;Bass Tester EXTREME
+5;777; ;RoughSketch;125;777.000000;FS JH-;Challenge;12;AltVoid;Bass Tester EXTREME
+6;777; ;RoughSketch;125;777.000000;FS+ XO+ SS DR-;Edit;14;AltVoid;Bass Tester EXTREME
+7;Angel; ;Geck-o;162;65.000000 - 149.850006;XM;Beginner;1;AltVoid;Bass Tester EXTREME
+8;Angel; ;Geck-o;162;65.000000 - 149.850006;XM JH;Easy;4;AltVoid;Bass Tester EXTREME
+9;Angel; ;Geck-o;162;65.000000 - 149.850006;XM JU;Medium;7;AltVoid;Bass Tester EXTREME
+10;Angel; ;Geck-o;162;65.000000 - 149.850006;XM JH XO;Hard;9;AltVoid;Bass Tester EXTREME
+11;Angel; ;Geck-o;162;65.000000 - 149.850006;XM BR+ MA JU XO;Challenge;12;AltVoid;Bass Tester EXTREME
+12;Anima Libera;(remix);DJ Raaban;129;178.460007;No Tech;Beginner;3;neyoru;Bass Tester EXTREME
+13;Anima Libera;(remix);DJ Raaban;129;178.460007;JU+;Easy;6;neyoru;Bass Tester EXTREME
+14;Anima Libera;(remix);DJ Raaban;129;178.460007;BR+ FS+;Medium;9;neyoru;Bass Tester EXTREME
+15;Anima Libera;(remix);DJ Raaban;129;178.460007;BR+ FS;Hard;11;neyoru;Bass Tester EXTREME
+16;Anima Libera;(remix);DJ Raaban;129;178.460007;B+XF JU TR;Challenge;13;neyoru;Bass Tester EXTREME
+17;Barka; ;XD Project;165;150.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+18;Barka; ;XD Project;165;150.000000;No Tech;Easy;2;Tidek;Bass Tester EXTREME
+19;Barka; ;XD Project;165;150.000000;No Tech;Medium;4;Tidek;Bass Tester EXTREME
+20;Barka; ;XD Project;165;150.000000;No Tech;Hard;7;Tidek;Bass Tester EXTREME
+21;Barka; ;XD Project;165;150.000000;XO FS DS;Challenge;9;Tidek;Bass Tester EXTREME
+22;Brutal; ;Loud Carnage;163;150.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME
+23;Brutal; ;Loud Carnage;163;150.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME
+24;Brutal; ;Loud Carnage;163;150.000000;No Tech;Medium;7;Tidek;Bass Tester EXTREME
+25;Brutal; ;Loud Carnage;163;150.000000;No Tech;Hard;9;Tidek;Bass Tester EXTREME
+26;Brutal; ;Loud Carnage;163;150.000000;Broken STR;Challenge;11;Tidek;Bass Tester EXTREME
+27;Close Your Eyes; ;Sunhiausa;198;180.000000;No Tech;Beginner;3;AltVoid;Bass Tester EXTREME
+28;Close Your Eyes; ;Sunhiausa;198;180.000000;XO;Easy;6;AltVoid;Bass Tester EXTREME
+29;Close Your Eyes; ;Sunhiausa;198;180.000000;JU;Medium;8;AltVoid;Bass Tester EXTREME
+30;Close Your Eyes; ;Sunhiausa;198;180.000000;FS FL;Hard;10;AltVoid;Bass Tester EXTREME
+31;Close Your Eyes; ;Sunhiausa;198;180.000000;DR+ BU XO DT-;Challenge;13;AltVoid;Bass Tester EXTREME
+32;Cum Say Henlo; ;GPF x S3RL;138;200.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+33;Cum Say Henlo; ;GPF x S3RL;138;200.000000;No Tech;Easy;3;Tidek;Bass Tester EXTREME
+34;Cum Say Henlo; ;GPF x S3RL;138;200.000000;No Tech;Medium;5;Tidek;Bass Tester EXTREME
+35;Cum Say Henlo; ;GPF x S3RL;138;200.000000;JU;Hard;7;Tidek;Bass Tester EXTREME
+36;Cum Say Henlo; ;GPF x S3RL;138;200.000000;XO JU;Challenge;9;Tidek;Bass Tester EXTREME
+37;Desert Woman; ;DJIPE & Nagazaki;251;175.000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME
+38;Desert Woman; ;DJIPE & Nagazaki;251;175.000;No Tech;Easy;5;Tidek;Bass Tester EXTREME
+39;Desert Woman; ;DJIPE & Nagazaki;251;175.000;XM DS;Medium;7;Tidek;Bass Tester EXTREME
+40;Desert Woman; ;DJIPE & Nagazaki;251;175.000;XM XO FS;Hard;9;Tidek;Bass Tester EXTREME
+41;Desert Woman; ;DJIPE & Nagazaki;251;175.000;XM B-XF DS RH SS JU;Challenge;12;Tidek;Bass Tester EXTREME
+42;Doomsday; ;Deezl;177;155.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+43;Doomsday; ;Deezl;177;155.000000;No Tech;Easy;3;Tidek;Bass Tester EXTREME
+44;Doomsday; ;Deezl;177;155.000000;No Tech;Medium;6;Tidek;Bass Tester EXTREME
+45;Doomsday; ;Deezl;177;155.000000;JU;Hard;8;Tidek;Bass Tester EXTREME
+46;Doomsday; ;Deezl;177;155.000000;BR JU XO-;Challenge;10;Tidek;Bass Tester EXTREME
+47;Kokeen;(Angerzam Remix);Furyan;155;125.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+48;Kokeen;(Angerzam Remix);Furyan;155;125.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME
+49;Kokeen;(Angerzam Remix);Furyan;155;125.000000;No Tech;Medium;6;Tidek;Bass Tester EXTREME
+50;Kokeen;(Angerzam Remix);Furyan;155;125.000000;No Tech;Hard;8;Tidek;Bass Tester EXTREME
+51;Kokeen;(Angerzam Remix);Furyan;155;125.000000;Broken STR;Challenge;11;Tidek;Bass Tester EXTREME
+52;Overdose Party; ;Furyan & LSD;177;115.000000;No Tech;Beginner;1;AltVoid;Bass Tester EXTREME
+53;Overdose Party; ;Furyan & LSD;177;115.000000;No Tech;Easy;4;AltVoid;Bass Tester EXTREME
+54;Overdose Party; ;Furyan & LSD;177;115.000000;JA;Medium;7;AltVoid;Bass Tester EXTREME
+55;Overdose Party; ;Furyan & LSD;177;115.000000;JU+ XO;Hard;10;AltVoid;Bass Tester EXTREME
+56;Overdose Party; ;Furyan & LSD;177;115.000000;STR JU XO MA- DR- BR-;Challenge;11;Arki;Bass Tester EXTREME
+57;Piratenfestijn; ;D'ort;207;50.000000 - 200.000000;XM;Beginner;1;Tidek;Bass Tester EXTREME
+58;Piratenfestijn; ;D'ort;207;50.000000 - 200.000000;XM;Easy;3;Tidek;Bass Tester EXTREME
+59;Piratenfestijn; ;D'ort;207;50.000000 - 200.000000;XM;Medium;5;Tidek;Bass Tester EXTREME
+60;Piratenfestijn; ;D'ort;207;50.000000 - 200.000000;XM XO;Hard;7;Tidek;Bass Tester EXTREME
+61;Piratenfestijn; ;D'ort;207;50.000000 - 200.000000;XM XO+ FS DT-;Challenge;10;Tidek;Bass Tester EXTREME
+62;Right Now; ;The Purge x Sickmode;148;155.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+63;Right Now; ;The Purge x Sickmode;148;155.000000;No Tech;Easy;3;Tidek;Bass Tester EXTREME
+64;Right Now; ;The Purge x Sickmode;148;155.000000;No Tech;Medium;5;Tidek;Bass Tester EXTREME
+65;Right Now; ;The Purge x Sickmode;148;155.000000;No Tech;Hard;7;Tidek;Bass Tester EXTREME
+66;Right Now; ;The Purge x Sickmode;148;155.000000;JU DS;Challenge;9;Tidek;Bass Tester EXTREME
+67;Sick Cratic; ;MBK & NSD;163;125.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+68;Sick Cratic; ;MBK & NSD;163;125.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME
+69;Sick Cratic; ;MBK & NSD;163;125.000000;No Tech;Medium;6;Tidek;Bass Tester EXTREME
+70;Sick Cratic; ;MBK & NSD;163;125.000000;JH;Hard;8;Tidek;Bass Tester EXTREME
+71;Sick Cratic; ;MBK & NSD;163;125.000000;JU+;Challenge;10;Tidek;Bass Tester EXTREME
+72;Suavemente; ;Unicorn On Ketamine;181;120.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME
+73;Suavemente; ;Unicorn On Ketamine;181;120.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME
+74;Suavemente; ;Unicorn On Ketamine;181;120.000000;JU;Medium;7;Tidek;Bass Tester EXTREME
+75;Suavemente; ;Unicorn On Ketamine;181;120.000000;JU+;Hard;9;Tidek;Bass Tester EXTREME
+76;Suavemente; ;Unicorn On Ketamine;181;120.000000;BU RH DT-;Challenge;11;Tidek;Bass Tester EXTREME
+77;Symphony Op.1 -CHAOS-; ;Laur;214;1.000 - 500.000;XM;Beginner;2;AltVoid;Bass Tester EXTREME
+78;Symphony Op.1 -CHAOS-; ;Laur;214;1.000 - 500.000;XM;Easy;6;AltVoid;Bass Tester EXTREME
+79;Symphony Op.1 -CHAOS-; ;Laur;214;1.000 - 500.000;XM+ XO JH JU;Medium;8;AltVoid;Bass Tester EXTREME
+80;Symphony Op.1 -CHAOS-; ;Laur;214;1.000 - 500.000;XM+ JU+ XO- TR;Hard;11;AltVoid;Bass Tester EXTREME
+81;Symphony Op.1 -CHAOS-; ;Laur;214;1.000 - 500.000;XM+ BR+ JU DR TR;Challenge;13;AltVoid;Bass Tester EXTREME
+82;The Cell; ;DRS vs MBK ft Madsin;185;150.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME
+83;The Cell; ;DRS vs MBK ft Madsin;185;150.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME
+84;The Cell; ;DRS vs MBK ft Madsin;185;150.000000;No Tech;Medium;7;Tidek;Bass Tester EXTREME
+85;The Cell; ;DRS vs MBK ft Madsin;185;150.000000;No Tech;Hard;9;Tidek;Bass Tester EXTREME
+86;The Cell; ;DRS vs MBK ft Madsin;185;150.000000;STR 22*18*;Challenge;12;Tidek;Bass Tester EXTREME
+87;Woho; ;BlackStripe;193;130.557007;No Tech;Beginner;1;Axor;Bass Tester EXTREME
+88;Woho; ;BlackStripe;193;130.557007;No Tech;Easy;3;Axor;Bass Tester EXTREME
+89;Woho; ;BlackStripe;193;130.557007;XO;Medium;6;Axor;Bass Tester EXTREME
+90;Woho; ;BlackStripe;193;130.557007;FL;Hard;8;Axor;Bass Tester EXTREME
+91;Woho; ;BlackStripe;193;130.557007;XO FL FS-;Challenge;10;Axor;Bass Tester EXTREME
+92;WOW!!!!!!!!!!; ;Camellia;188;160.000000;No Tech;Beginner;2;AltVoid;Bass Tester EXTREME
+93;WOW!!!!!!!!!!; ;Camellia;188;160.000000;JA;Easy;5;AltVoid;Bass Tester EXTREME
+94;WOW!!!!!!!!!!; ;Camellia;188;160.000000;DS JU JH;Medium;9;AltVoid;Bass Tester EXTREME
+95;WOW!!!!!!!!!!; ;Camellia;188;160.000000;BR HS;Hard;11;AltVoid;Bass Tester EXTREME
+96;WOW!!!!!!!!!!; ;Camellia;188;160.000000;BR++ DR;Challenge;13;AltVoid;Bass Tester EXTREME
+97;Yallah Habibi; ;Broken Minds x MBK x MC Prime;178;105.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME
+98;Yallah Habibi; ;Broken Minds x MBK x MC Prime;178;105.000000;No Tech;Easy;3;Tidek;Bass Tester EXTREME
+99;Yallah Habibi; ;Broken Minds x MBK x MC Prime;178;105.000000;No Tech;Medium;6;Tidek;Bass Tester EXTREME
+100;Yallah Habibi; ;Broken Minds x MBK x MC Prime;178;105.000000;XO FS JU DT-;Hard;8;Tidek;Bass Tester EXTREME
+101;Yallah Habibi; ;Broken Minds x MBK x MC Prime;178;105.000000;BXF JU BU;Challenge;11;Tidek;Bass Tester EXTREME
+102;804; ;RoughSketch;162;804.000000;No Tech;Beginner;2;AltVoid;Bass Tester EXTREME 2
+103;804; ;RoughSketch;162;804.000000;No Tech;Easy;5;AltVoid;Bass Tester EXTREME 2
+104;804; ;RoughSketch;162;804.000000;No Tech;Medium;9;AltVoid;Bass Tester EXTREME 2
+105;804; ;RoughSketch;162;804.000000;BU;Hard;12;AltVoid;Bass Tester EXTREME 2
+106;804; ;RoughSketch;162;804.000000;STR@201 BT+ BR DR;Challenge;14;AltVoid;Bass Tester EXTREME 2
+107;anime dziefczynka 2;(+18);grupa trupa x czubiBubi;172;100.000 - 161.954;XM;Beginner;1;Tidek;Bass Tester EXTREME 2
+108;anime dziefczynka 2;(+18);grupa trupa x czubiBubi;172;100.000 - 161.954;XM;Easy;3;Tidek;Bass Tester EXTREME 2
+109;anime dziefczynka 2;(+18);grupa trupa x czubiBubi;172;100.000 - 161.954;XM;Medium;6;Tidek;Bass Tester EXTREME 2
+110;anime dziefczynka 2;(+18);grupa trupa x czubiBubi;172;100.000 - 161.954;XM;Hard;8;Tidek;Bass Tester EXTREME 2
+111;anime dziefczynka 2;(+18);grupa trupa x czubiBubi;172;100.000 - 161.954;XM XO FS;Challenge;9;Tidek;Bass Tester EXTREME 2
+112;Anubis; ;Hommarju;291;175.000000;No Tech;Beginner;1;Ayaka;Bass Tester EXTREME 2
+113;Anubis; ;Hommarju;291;175.000000;No Tech;Easy;5;AltVoid;Bass Tester EXTREME 2
+114;Anubis; ;Hommarju;291;175.000000;DS-;Medium;7;AltVoid;Bass Tester EXTREME 2
+115;Anubis; ;Hommarju;291;175.000000;BU;Hard;10;Ayaka;Bass Tester EXTREME 2
+116;Anubis; ;Hommarju;291;175.000000;STR 1/112*/1/1;Challenge;12;Ayaka;Bass Tester EXTREME 2
+117;Anubis; ;Hommarju;291;175.000000;STR 15/27*29*/16*;Edit;14;Ayaka;Bass Tester EXTREME 2
+118;Believe; ;Sunhiausa;198;120.000000 - 201.000000;XM;Beginner;1;AltVoid;Bass Tester EXTREME 2
+119;Believe; ;Sunhiausa;198;120.000000 - 201.000000;XM;Easy;4;AltVoid;Bass Tester EXTREME 2
+120;Believe; ;Sunhiausa;198;120.000000 - 201.000000;XM JA;Medium;6;AltVoid;Bass Tester EXTREME 2
+121;Believe; ;Sunhiausa;198;120.000000 - 201.000000;XM JU XO;Hard;9;AltVoid;Bass Tester EXTREME 2
+122;Believe; ;Sunhiausa;198;120.000000 - 201.000000;XM B+XF+;Challenge;12;AltVoid;Bass Tester EXTREME 2
+123;BIG CHUNGUS; ;Endigo x chucha musume;144;190.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 2
+124;BIG CHUNGUS; ;Endigo x chucha musume;144;190.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 2
+125;BIG CHUNGUS; ;Endigo x chucha musume;144;190.000000;XM;Medium;9;Tidek;Bass Tester EXTREME 2
+126;BIG CHUNGUS; ;Endigo x chucha musume;144;190.000000;XM DS+ BU;Hard;12;Tidek;Bass Tester EXTREME 2
+127;BIG CHUNGUS; ;Endigo x chucha musume;144;190.000000;XM STR XO BU-;Challenge;14;Tidek;Bass Tester EXTREME 2
+128;Cat Paradise; ;Laur;190;110.000 - 220.000;XM;Beginner;2;AltVoid;Bass Tester EXTREME 2
+129;Cat Paradise; ;Laur;190;110.000 - 220.000;XM;Easy;4;AltVoid;Bass Tester EXTREME 2
+130;Cat Paradise; ;Laur;190;110.000 - 220.000;XM XO-;Medium;7;AltVoid;Bass Tester EXTREME 2
+131;Cat Paradise; ;Laur;190;110.000 - 220.000;XM+ JU DR RH FS- JA-;Hard;10;AltVoid;Bass Tester EXTREME 2
+132;Cat Paradise; ;Laur;190;110.000 - 220.000;XM+ B+X-F BT++ BU;Challenge;14;AltVoid;Bass Tester EXTREME 2
+133;Chinese Taxi Driver; ;Hyrule War & La Ravage;185;112.500000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 2
+134;Chinese Taxi Driver; ;Hyrule War & La Ravage;185;112.500000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+135;Chinese Taxi Driver; ;Hyrule War & La Ravage;185;112.500000;No Tech;Medium;7;Tidek;Bass Tester EXTREME 2
+136;Chinese Taxi Driver; ;Hyrule War & La Ravage;185;112.500000;SJ-;Hard;9;Tidek;Bass Tester EXTREME 2
+137;Chinese Taxi Driver; ;Hyrule War & La Ravage;185;112.500000;FS+ SS BU JU SJ- DT- DS-;Challenge;11;Tidek;Bass Tester EXTREME 2
+138;Cyaegha;(Laur Remix);USAO;179;200.000000;No Tech;Beginner;2;neyoru;Bass Tester EXTREME 2
+139;Cyaegha;(Laur Remix);USAO;179;200.000000;No Tech;Easy;5;neyoru;Bass Tester EXTREME 2
+140;Cyaegha;(Laur Remix);USAO;179;200.000000;XO;Medium;9;neyoru;Bass Tester EXTREME 2
+141;Cyaegha;(Laur Remix);USAO;179;200.000000;BXF BU JA-;Hard;12;neyoru;Bass Tester EXTREME 2
+142;Cyaegha;(Laur Remix);USAO;179;200.000000;STR B+X-F MA- BU-;Challenge;15;neyoru;Bass Tester EXTREME 2
+143;Daddy's Big Drum; ;Noizenecio;263;135.000 - 180.000;XM;Beginner;2;AltVoid;Bass Tester EXTREME 2
+144;Daddy's Big Drum; ;Noizenecio;263;135.000 - 180.000;XM JA;Easy;5;AltVoid;Bass Tester EXTREME 2
+145;Daddy's Big Drum; ;Noizenecio;263;135.000 - 180.000;XM;Medium;7;AltVoid;Bass Tester EXTREME 2
+146;Daddy's Big Drum; ;Noizenecio;263;135.000 - 180.000;XM JU+ XO JA-;Hard;9;AltVoid;Bass Tester EXTREME 2
+147;Daddy's Big Drum; ;Noizenecio;263;135.000 - 180.000;XM B++XF BU;Challenge;13;AltVoid;Bass Tester EXTREME 2
+148;DJ NANMO WAKARAN; ;UniChord;149;180.000000;No Tech;Beginner;1;neyoru;Bass Tester EXTREME 2
+149;DJ NANMO WAKARAN; ;UniChord;149;180.000000;No Tech;Easy;5;neyoru;Bass Tester EXTREME 2
+150;DJ NANMO WAKARAN; ;UniChord;149;180.000000;JU;Medium;8;neyoru;Bass Tester EXTREME 2
+151;DJ NANMO WAKARAN; ;UniChord;149;180.000000;BX-F BT- SS-;Hard;11;neyoru;Bass Tester EXTREME 2
+152;DJ NANMO WAKARAN; ;UniChord;149;180.000000;STR B+X-F BT MA- SS-;Challenge;13;neyoru;Bass Tester EXTREME 2
+153;Enter the Multiverse; ;Dubscribe;209;145.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 2
+154;Enter the Multiverse; ;Dubscribe;209;145.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 2
+155;Enter the Multiverse; ;Dubscribe;209;145.000000;BXF DS;Medium;7;Tidek;Bass Tester EXTREME 2
+156;Enter the Multiverse; ;Dubscribe;209;145.000000;BXF BT DS-;Hard;11;Tidek;Bass Tester EXTREME 2
+157;Enter the Multiverse; ;Dubscribe;209;145.000000;STR BX+F+ BU HS BT SS-;Challenge;14;Tidek;Bass Tester EXTREME 2
+158;GANG; ;Rooler & Sickmode;135;128.000 - 160.000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 2
+159;GANG; ;Rooler & Sickmode;135;128.000 - 160.000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+160;GANG; ;Rooler & Sickmode;135;128.000 - 160.000;DS;Medium;7;Tidek;Bass Tester EXTREME 2
+161;GANG; ;Rooler & Sickmode;135;128.000 - 160.000;XO FS JA- RH- ;Hard;9;Tidek;Bass Tester EXTREME 2
+162;GANG; ;Rooler & Sickmode;135;128.000 - 160.000;BXF RH-;Challenge;11;Tidek;Bass Tester EXTREME 2
+163;Genesis; ;Sunhiausa;106;100.000 - 200.000;XM-;Beginner;1;Axor;Bass Tester EXTREME 2
+164;Genesis; ;Sunhiausa;106;100.000 - 200.000;XM-;Easy;2;Axor;Bass Tester EXTREME 2
+165;Genesis; ;Sunhiausa;106;100.000 - 200.000;XM-;Medium;5;Axor;Bass Tester EXTREME 2
+166;Genesis; ;Sunhiausa;106;100.000 - 200.000;XM XO-;Hard;7;Axor;Bass Tester EXTREME 2
+167;Genesis; ;Sunhiausa;106;100.000 - 200.000;XM XO DT FS- ;Challenge;10;Axor;Bass Tester EXTREME 2
+168;HARNAS ICE TEA ALE TO HARDSTYLE; ;Gawryle, CH4;194;150.000000;FK;Beginner;2;Arki;Bass Tester EXTREME 2
+169;HARNAS ICE TEA ALE TO HARDSTYLE; ;Gawryle, CH4;194;150.000000;No Tech;Easy;6;Arki;Bass Tester EXTREME 2
+170;HARNAS ICE TEA ALE TO HARDSTYLE; ;Gawryle, CH4;194;150.000000;FS+ FK+ JU+ DS- XO- SS-;Medium;8;Arki;Bass Tester EXTREME 2
+171;HARNAS ICE TEA ALE TO HARDSTYLE; ;Gawryle, CH4;194;150.000000;FS+ SS XO DS-;Hard;11;Arki;Bass Tester EXTREME 2
+172;HARNAS ICE TEA ALE TO HARDSTYLE; ;Gawryle, CH4;194;150.000000;STR B+XF+ BRFS BT-;Challenge;14;Arki;Bass Tester EXTREME 2
+173;HEYYYY SOKOLY;(WIXAPOL ANTHEM);WIXAPOL;139;125.050 - 200.000;XM;Beginner;1;Tidek;Bass Tester EXTREME 2
+174;HEYYYY SOKOLY;(WIXAPOL ANTHEM);WIXAPOL;139;125.050 - 200.000;XM;Easy;3;Tidek;Bass Tester EXTREME 2
+175;HEYYYY SOKOLY;(WIXAPOL ANTHEM);WIXAPOL;139;125.050 - 200.000;XM;Medium;6;Tidek;Bass Tester EXTREME 2
+176;HEYYYY SOKOLY;(WIXAPOL ANTHEM);WIXAPOL;139;125.050 - 200.000;XM JU;Hard;8;Tidek;Bass Tester EXTREME 2
+177;HEYYYY SOKOLY;(WIXAPOL ANTHEM);WIXAPOL;139;125.050 - 200.000;XM BU XO JU FS- DS-;Challenge;10;Tidek;Bass Tester EXTREME 2
+178;HEYYYY SOKOLY;(WIXAPOL ANTHEM);WIXAPOL;139;125.050 - 200.000;XM BXF- JU DS-;Edit;10;Tidek;Bass Tester EXTREME 2
+179;HOAX; ;Furyan & Angerfist;180;178.000000;XM-;Beginner;2;Tidek;Bass Tester EXTREME 2
+180;HOAX; ;Furyan & Angerfist;180;178.000000;XM-;Easy;5;Tidek;Bass Tester EXTREME 2
+181;HOAX; ;Furyan & Angerfist;180;178.000000;XM- JU FS XO-;Medium;8;Tidek;Bass Tester EXTREME 2
+182;HOAX; ;Furyan & Angerfist;180;178.000000;XM- JU XO FS;Hard;10;Tidek;Bass Tester EXTREME 2
+183;HOAX; ;Furyan & Angerfist;180;178.000000;XM- B+XF BT- SJ-;Challenge;12;Tidek;Bass Tester EXTREME 2
+184;Idiot; ;Massive New Krew;160;160.000000;No Tech;Beginner;3;AltVoid;Bass Tester EXTREME 2
+185;Idiot; ;Massive New Krew;160;160.000000;DS;Easy;6;AltVoid;Bass Tester EXTREME 2
+186;Idiot; ;Massive New Krew;160;160.000000;DR JU;Medium;8;AltVoid;Bass Tester EXTREME 2
+187;Idiot; ;Massive New Krew;160;160.000000;BR+ HS;Hard;11;AltVoid;Bass Tester EXTREME 2
+188;Idiot; ;Massive New Krew;160;160.000000;BR++ FS MA;Challenge;13;AltVoid;Bass Tester EXTREME 2
+189;It's a Dream;(Phrantic remix);Lady Tom;153;155.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 2
+190;It's a Dream;(Phrantic remix);Lady Tom;153;155.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+191;It's a Dream;(Phrantic remix);Lady Tom;153;155.000000;XO;Medium;7;Tidek;Bass Tester EXTREME 2
+192;It's a Dream;(Phrantic remix);Lady Tom;153;155.000000;XO BR;Hard;9;Tidek;Bass Tester EXTREME 2
+193;It's a Dream;(Phrantic remix);Lady Tom;153;155.000000;STR BXF;Challenge;13;Tidek;Bass Tester EXTREME 2
+194;Joe Fight;(Joe Fight Remix);DJ Myosuke;186;205.000000;No Tech;Beginner;3;neyoru;Bass Tester EXTREME 2
+195;Joe Fight;(Joe Fight Remix);DJ Myosuke;186;205.000000;JU;Easy;7;neyoru;Bass Tester EXTREME 2
+196;Joe Fight;(Joe Fight Remix);DJ Myosuke;186;205.000000;XO JU;Medium;9;neyoru;Bass Tester EXTREME 2
+197;Joe Fight;(Joe Fight Remix);DJ Myosuke;186;205.000000;B+XF+ BU BT JA-;Hard;12;neyoru;Bass Tester EXTREME 2
+198;Joe Fight;(Joe Fight Remix);DJ Myosuke;186;205.000000;BR++ FS+ DS JA SS BT MA;Challenge;15;neyoru;Bass Tester EXTREME 2
+199;Kaibutsu Dance; ;Yuta Imai;187;100.000000 - 200.000000;XM-;Beginner;1;Arki;Bass Tester EXTREME 2
+200;Kaibutsu Dance; ;Yuta Imai;187;100.000000 - 200.000000;XM-;Easy;4;AltVoid;Bass Tester EXTREME 2
+201;Kaibutsu Dance; ;Yuta Imai;187;100.000000 - 200.000000;XM- XO;Medium;7;AltVoid;Bass Tester EXTREME 2
+202;Kaibutsu Dance; ;Yuta Imai;187;100.000000 - 200.000000;XM- BXF HS BT-;Hard;10;Tidek;Bass Tester EXTREME 2
+203;Kaibutsu Dance; ;Yuta Imai;187;100.000000 - 200.000000;XM B+XF BT HS BU- RH-;Challenge;12;AltVoid;Bass Tester EXTREME 2
+204;KIKIKAIKAI; ;Laur;186;160.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 2
+205;KIKIKAIKAI; ;Laur;186;160.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 2
+206;KIKIKAIKAI; ;Laur;186;160.000000;XO FS DS;Medium;9;Tidek;Bass Tester EXTREME 2
+207;KIKIKAIKAI; ;Laur;186;160.000000;BXF BU DS;Hard;12;Tidek;Bass Tester EXTREME 2
+208;KIKIKAIKAI; ;Laur;186;160.000000;B+X+F+ BU HS FL-;Challenge;15;Tidek;Bass Tester EXTREME 2
+209;Kingz;(MBK Remix);DRS vs Repix ft Madsin;173;105.000000;No Tech;Beginner;1;Ayaka;Bass Tester EXTREME 2
+210;Kingz;(MBK Remix);DRS vs Repix ft Madsin;173;105.000000;No Tech;Easy;2;Tidek;Bass Tester EXTREME 2
+211;Kingz;(MBK Remix);DRS vs Repix ft Madsin;173;105.000000;No Tech;Medium;4;Ayaka;Bass Tester EXTREME 2
+212;Kingz;(MBK Remix);DRS vs Repix ft Madsin;173;105.000000;No Tech;Hard;7;Ayaka;Bass Tester EXTREME 2
+213;Kingz;(MBK Remix);DRS vs Repix ft Madsin;173;105.000000;SJ XO DS-;Challenge;9;Ayaka;Bass Tester EXTREME 2
+214;Lash Out; ;Laur;186;200.000000;XM+;Beginner;3;Tidek;Bass Tester EXTREME 2
+215;Lash Out; ;Laur;186;200.000000;XM+;Easy;6;Tidek;Bass Tester EXTREME 2
+216;Lash Out; ;Laur;186;200.000000;XM+ XO FS HS;Medium;9;Tidek;Bass Tester EXTREME 2
+217;Lash Out; ;Laur;186;200.000000;XM+ BXF HS BT BU;Hard;11;Tidek & AltVoid;Bass Tester EXTREME 2
+218;Lash Out; ;Laur;186;200.000000;XM+ B+XF+ BT+ BU HS DS SS-;Challenge;13;Tidek & AltVoid;Bass Tester EXTREME 2
+219;Love; ;Regain;195;155.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 2
+220;Love; ;Regain;195;155.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 2
+221;Love; ;Regain;195;155.000000;DS FS-;Medium;8;Tidek;Bass Tester EXTREME 2
+222;Love; ;Regain;195;155.000000;FS SS-;Hard;10;Tidek;Bass Tester EXTREME 2
+223;Love; ;Regain;195;155.000000;BR+ FS SS-;Challenge;11;Tidek;Bass Tester EXTREME 2
+224;Making Zurek While Getting A Flandre Fumo Shoved Up My Ass;(Bass Tester EXTREME 2 Anthem);ReeK/Asatsumei;244;130.000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 2
+225;Making Zurek While Getting A Flandre Fumo Shoved Up My Ass;(Bass Tester EXTREME 2 Anthem);ReeK/Asatsumei;244;130.000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 2
+226;Making Zurek While Getting A Flandre Fumo Shoved Up My Ass;(Bass Tester EXTREME 2 Anthem);ReeK/Asatsumei;244;130.000;XM JU XO-;Medium;9;Tidek;Bass Tester EXTREME 2
+227;Making Zurek While Getting A Flandre Fumo Shoved Up My Ass;(Bass Tester EXTREME 2 Anthem);ReeK/Asatsumei;244;130.000;XM+ B+XF BU;Hard;12;Tidek;Bass Tester EXTREME 2
+228;Making Zurek While Getting A Flandre Fumo Shoved Up My Ass;(Bass Tester EXTREME 2 Anthem);ReeK/Asatsumei;244;130.000;XM+ XD+;Challenge;15;Tidek;Bass Tester EXTREME 2
+229;Megaton Karma; ;DJ Myosuke;206;135.000000 - 270.000000;XM;Beginner;2;AltVoid;Bass Tester EXTREME 2
+230;Megaton Karma; ;DJ Myosuke;206;135.000000 - 270.000000;XM;Easy;5;AltVoid;Bass Tester EXTREME 2
+231;Megaton Karma; ;DJ Myosuke;206;135.000000 - 270.000000;XM;Medium;9;AltVoid;Bass Tester EXTREME 2
+232;Megaton Karma; ;DJ Myosuke;206;135.000000 - 270.000000;XM STR DR;Hard;11;AltVoid;Bass Tester EXTREME 2
+233;Megaton Karma; ;DJ Myosuke;206;135.000000 - 270.000000;XM BU+ JA+ XO;Challenge;15;AltVoid;Bass Tester EXTREME 2
+234;Next Level; ;Krowdexx;150;155.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 2
+235;Next Level; ;Krowdexx;150;155.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 2
+236;Next Level; ;Krowdexx;150;155.000000;XM;Medium;8;Tidek;Bass Tester EXTREME 2
+237;Next Level; ;Krowdexx;150;155.000000;XM FS SS;Hard;10;Tidek;Bass Tester EXTREME 2
+238;Next Level; ;Krowdexx;150;155.000000;XM BR FS;Challenge;12;Tidek;Bass Tester EXTREME 2
+239;Nowadays Music; ;So Juice;153;158.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 2
+240;Nowadays Music; ;So Juice;153;158.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 2
+241;Nowadays Music; ;So Juice;153;158.000000;XO;Medium;8;Tidek;Bass Tester EXTREME 2
+242;Nowadays Music; ;So Juice;153;158.000000;FS XO SJ- JA-;Hard;10;Tidek;Bass Tester EXTREME 2
+243;Nowadays Music; ;So Juice;153;158.000000;B+XF SS RH-;Challenge;13;Tidek;Bass Tester EXTREME 2
+244;Once Upon A Time In The Feels; ;Geck-o;238;135.000000;No Tech;Beginner;1;AltVoid;Bass Tester EXTREME 2
+245;Once Upon A Time In The Feels; ;Geck-o;238;135.000000;No Tech;Easy;3;AltVoid;Bass Tester EXTREME 2
+246;Once Upon A Time In The Feels; ;Geck-o;238;135.000000;No Tech;Medium;5;AltVoid;Bass Tester EXTREME 2
+247;Once Upon A Time In The Feels; ;Geck-o;238;135.000000;XO+ JU;Hard;8;AltVoid;Bass Tester EXTREME 2
+248;Once Upon A Time In The Feels; ;Geck-o;238;135.000000;STR MA FS JU;Challenge;11;AltVoid;Bass Tester EXTREME 2
+249;OREPOLE;(My cyganie Hardstyle SRAKA Remix);DJ OTIS;148;95.000000 - 300.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 2
+250;OREPOLE;(My cyganie Hardstyle SRAKA Remix);DJ OTIS;148;95.000000 - 300.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 2
+251;OREPOLE;(My cyganie Hardstyle SRAKA Remix);DJ OTIS;148;95.000000 - 300.000000;No Tech;Medium;8;Tidek;Bass Tester EXTREME 2
+252;OREPOLE;(My cyganie Hardstyle SRAKA Remix);DJ OTIS;148;95.000000 - 300.000000;JU;Hard;10;Tidek;Bass Tester EXTREME 2
+253;OREPOLE;(My cyganie Hardstyle SRAKA Remix);DJ OTIS;148;95.000000 - 300.000000;JU XO FS RH-;Challenge;11;Tidek;Bass Tester EXTREME 2
+254;PAN POLICJANT;(MADD HARDSTYLE BOOTLEG);PRZEDSZKOLE NUTKA;129;150.000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 2
+255;PAN POLICJANT;(MADD HARDSTYLE BOOTLEG);PRZEDSZKOLE NUTKA;129;150.000;No Tech;Easy;3;Tidek;Bass Tester EXTREME 2
+256;PAN POLICJANT;(MADD HARDSTYLE BOOTLEG);PRZEDSZKOLE NUTKA;129;150.000;No Tech;Medium;5;Tidek;Bass Tester EXTREME 2
+257;PAN POLICJANT;(MADD HARDSTYLE BOOTLEG);PRZEDSZKOLE NUTKA;129;150.000;XM;Hard;7;Tidek;Bass Tester EXTREME 2
+258;PAN POLICJANT;(MADD HARDSTYLE BOOTLEG);PRZEDSZKOLE NUTKA;129;150.000;XM DS;Challenge;8;Tidek;Bass Tester EXTREME 2
+259;PATOINTELIGENCJA;(REMIX ZAJEBI$TY);WIXAPOL X MATA;188;157.000;No Tech;Beginner;2;Ayaka;Bass Tester EXTREME 2
+260;PATOINTELIGENCJA;(REMIX ZAJEBI$TY);WIXAPOL X MATA;188;157.000;No Tech;Easy;4;Ayaka;Bass Tester EXTREME 2
+261;PATOINTELIGENCJA;(REMIX ZAJEBI$TY);WIXAPOL X MATA;188;157.000;XO JU DS;Medium;8;Ayaka;Bass Tester EXTREME 2
+262;PATOINTELIGENCJA;(REMIX ZAJEBI$TY);WIXAPOL X MATA;188;157.000;XO JU SJ- BR-;Hard;10;Ayaka;Bass Tester EXTREME 2
+263;PATOINTELIGENCJA;(REMIX ZAJEBI$TY);WIXAPOL X MATA;188;157.000;BU+ BR+ FS RH BT-;Challenge;14;Ayaka;Bass Tester EXTREME 2
+264;Stars Can't Shine; ;Aekhloria;181;327.000000;No Tech;Beginner;1;AltVoid;Bass Tester EXTREME 2
+265;Stars Can't Shine; ;Aekhloria;181;327.000000;Rolls;Easy;6;AltVoid;Bass Tester EXTREME 2
+266;Stars Can't Shine; ;Aekhloria;181;327.000000;Rolls;Medium;9;AltVoid;Bass Tester EXTREME 2
+267;Stars Can't Shine; ;Aekhloria;181;327.000000;STR@163 JU;Hard;12;AltVoid;Bass Tester EXTREME 2
+268;Stars Can't Shine; ;Aekhloria;181;327.000000;STR@245 DR;Challenge;16;AltVoid;Bass Tester EXTREME 2
+269;SZCZENSCIE; ;KOCIACZEK;188;200.000000;XM-;Beginner;1;AltVoid;Bass Tester EXTREME 2
+270;SZCZENSCIE; ;KOCIACZEK;188;200.000000;XM-;Easy;5;AltVoid;Bass Tester EXTREME 2
+271;SZCZENSCIE; ;KOCIACZEK;188;200.000000;XM- JA;Medium;7;AltVoid;Bass Tester EXTREME 2
+272;SZCZENSCIE; ;KOCIACZEK;188;200.000000;XM- XO;Hard;9;AltVoid;Bass Tester EXTREME 2
+273;SZCZENSCIE; ;KOCIACZEK;188;200.000000;XM- HS+ JU FS SJ XO;Challenge;10;Arki;Bass Tester EXTREME 2
+274;THE RECKONING; ;Marauda;160;140.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 2
+275;THE RECKONING; ;Marauda;160;140.000000;RH;Easy;4;Tidek;Bass Tester EXTREME 2
+276;THE RECKONING; ;Marauda;160;140.000000;RH+;Medium;7;Tidek;Bass Tester EXTREME 2
+277;THE RECKONING; ;Marauda;160;140.000000;RH+;Hard;9;Tidek;Bass Tester EXTREME 2
+278;THE RECKONING; ;Marauda;160;140.000000;RH+ SJ DS DR-;Challenge;11;Tidek;Bass Tester EXTREME 2
+279;Titanium;(Rebelion Bootleg);David Guetta ft Sia;175;160.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 2
+280;Titanium;(Rebelion Bootleg);David Guetta ft Sia;175;160.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 2
+281;Titanium;(Rebelion Bootleg);David Guetta ft Sia;175;160.000000;XO FS;Medium;8;Tidek;Bass Tester EXTREME 2
+282;Titanium;(Rebelion Bootleg);David Guetta ft Sia;175;160.000000;BR HS-;Hard;11;Tidek;Bass Tester EXTREME 2
+283;Titanium;(Rebelion Bootleg);David Guetta ft Sia;175;160.000000;STR BR XO HS- BT-;Challenge;13;Tidek;Bass Tester EXTREME 2
+284;TNThicc; ;AltVoid;214;138.000000 - 238.000000;XM;Beginner;2;AltVoid;Bass Tester EXTREME 2
+285;TNThicc; ;AltVoid;214;138.000000 - 238.000000;XM;Easy;5;AltVoid;Bass Tester EXTREME 2
+286;TNThicc; ;AltVoid;214;138.000000 - 238.000000;XM JA DR;Medium;8;AltVoid;Bass Tester EXTREME 2
+287;TNThicc; ;AltVoid;214;138.000000 - 238.000000;XM+ XO FS JA JU SS HS DS-;Hard;12;BTE 2 Team;Bass Tester EXTREME 2
+288;TNThicc; ;AltVoid;214;138.000000 - 238.000000;XM+ B+X-F+ BU+ BT DS    ;Challenge;15;BTE 2 Team;Bass Tester EXTREME 2
+289;TONIE MAJAMI;(REMIX ZAJEBI$TY);WIXAPOL X HEWRA;194;155.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 2
+290;TONIE MAJAMI;(REMIX ZAJEBI$TY);WIXAPOL X HEWRA;194;155.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+291;TONIE MAJAMI;(REMIX ZAJEBI$TY);WIXAPOL X HEWRA;194;155.000000;No Tech;Medium;8;Tidek;Bass Tester EXTREME 2
+292;TONIE MAJAMI;(REMIX ZAJEBI$TY);WIXAPOL X HEWRA;194;155.000000;No Tech;Hard;10;Tidek;Bass Tester EXTREME 2
+293;TONIE MAJAMI;(REMIX ZAJEBI$TY);WIXAPOL X HEWRA;194;155.000000;STR 8/28*/38*;Challenge;13;Tidek;Bass Tester EXTREME 2
+294;Walls Cave In; ;Soltan & NAZAAR;203;150.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 2
+295;Walls Cave In; ;Soltan & NAZAAR;203;150.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+296;Walls Cave In; ;Soltan & NAZAAR;203;150.000000;RH DS-;Medium;7;Tidek;Bass Tester EXTREME 2
+297;Walls Cave In; ;Soltan & NAZAAR;203;150.000000;RH DS DT-;Hard;9;Tidek;Bass Tester EXTREME 2
+298;Walls Cave In; ;Soltan & NAZAAR;203;150.000000;Holds+ RH FS BR BU SJ ;Challenge;11;Tidek;Bass Tester EXTREME 2
+299;WCHJ;(REMIX ZAJEBI$TY);WIXAPOL X KINNY ZIMMER;190;150.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 2
+300;WCHJ;(REMIX ZAJEBI$TY);WIXAPOL X KINNY ZIMMER;190;150.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+301;WCHJ;(REMIX ZAJEBI$TY);WIXAPOL X KINNY ZIMMER;190;150.000000;No Tech;Medium;6;Tidek;Bass Tester EXTREME 2
+302;WCHJ;(REMIX ZAJEBI$TY);WIXAPOL X KINNY ZIMMER;190;150.000000;FS;Hard;8;Tidek;Bass Tester EXTREME 2
+303;WCHJ;(REMIX ZAJEBI$TY);WIXAPOL X KINNY ZIMMER;190;150.000000;FS+ BU HS DS XO-;Challenge;10;Tidek;Bass Tester EXTREME 2
+304;Wez Pigulke; ;DJ Hazel;201;137.612000;No Tech;Beginner;2;Arki;Bass Tester EXTREME 2
+305;Wez Pigulke; ;DJ Hazel;201;137.612000;No Tech;Easy;4;Arki;Bass Tester EXTREME 2
+306;Wez Pigulke; ;DJ Hazel;201;137.612000;No Tech;Medium;7;Arki;Bass Tester EXTREME 2
+307;Wez Pigulke; ;DJ Hazel;201;137.612000;XO;Hard;9;Arki;Bass Tester EXTREME 2
+308;Wez Pigulke; ;DJ Hazel;201;137.612000;STR 23'716-32;Challenge;12;Arki;Bass Tester EXTREME 2
+309;Yippee Ki Yay; ;Broken Minds x MBK x MC Prime;146;105.000000;No Tech;Beginner;2;Ayaka;Bass Tester EXTREME 2
+310;Yippee Ki Yay; ;Broken Minds x MBK x MC Prime;146;105.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 2
+311;Yippee Ki Yay; ;Broken Minds x MBK x MC Prime;146;105.000000;No Tech;Medium;6;Ayaka;Bass Tester EXTREME 2
+312;Yippee Ki Yay; ;Broken Minds x MBK x MC Prime;146;105.000000;JU+;Hard;9;Ayaka;Bass Tester EXTREME 2
+313;Yippee Ki Yay; ;Broken Minds x MBK x MC Prime;146;105.000000;BR BU XO JU;Challenge;12;Ayaka;Bass Tester EXTREME 2
+314;25N168W; ;iboibo;129;100.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+315;25N168W; ;iboibo;129;100.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+316;25N168W; ;iboibo;129;100.000000;DS FS-;Medium;7;Tidek;Bass Tester EXTREME 3
+317;25N168W; ;iboibo;129;100.000000;FS XO DS DT-;Hard;9;Tidek;Bass Tester EXTREME 3
+318;25N168W; ;iboibo;129;100.000000;DS+ FS DT BU;Challenge;10;Tidek;Bass Tester EXTREME 3
+319;A MILLION WAYS TO MURDER; ;Kordhell;119;115.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+320;A MILLION WAYS TO MURDER; ;Kordhell;119;115.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+321;A MILLION WAYS TO MURDER; ;Kordhell;119;115.000000;No Tech;Medium;8;Tidek;Bass Tester EXTREME 3
+322;A MILLION WAYS TO MURDER; ;Kordhell;119;115.000000;FS BR BU-;Hard;10;Tidek;Bass Tester EXTREME 3
+323;A MILLION WAYS TO MURDER; ;Kordhell;119;115.000000;STR FS BR BU;Challenge;12;zb;Bass Tester EXTREME 3
+324;Activation; ;Aversion;175;160.000000; ;Beginner;2;Ayaka;Bass Tester EXTREME 3
+325;Activation; ;Aversion;175;160.000000; ;Easy;4;Ayaka;Bass Tester EXTREME 3
+326;Activation; ;Aversion;175;160.000000;FS JU XO-;Medium;8;Ayaka;Bass Tester EXTREME 3
+327;Activation; ;Aversion;175;160.000000;BXF JU BU-;Hard;10;Ayaka;Bass Tester EXTREME 3
+328;Activation; ;Aversion;175;160.000000;BR++ BRJA BT FS BRFS- FL-;Challenge;11;Koizumi Chineko;Bass Tester EXTREME 3
+329;Arcana Eden; ;Team Grimoire vs Sakuzyo vs Laur;182;211.000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+330;Arcana Eden; ;Team Grimoire vs Sakuzyo vs Laur;182;211.000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+331;Arcana Eden; ;Team Grimoire vs Sakuzyo vs Laur;182;211.000;XM+ RH;Medium;9;Tidek;Bass Tester EXTREME 3
+332;Arcana Eden; ;Team Grimoire vs Sakuzyo vs Laur;182;211.000;XM+ XO RH DT SJ;Hard;10;Tidek;Bass Tester EXTREME 3
+333;Arcana Eden; ;Team Grimoire vs Sakuzyo vs Laur;182;211.000;XM+ SPD XO RH SJ;Challenge;12;Tidek;Bass Tester EXTREME 3
+334;Attractor Dimension; ;Laur;154;145.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+335;Attractor Dimension; ;Laur;154;145.000000;XO;Easy;7;Tidek;Bass Tester EXTREME 3
+336;Attractor Dimension; ;Laur;154;145.000000;XO;Medium;10;Tidek;Bass Tester EXTREME 3
+337;Attractor Dimension; ;Laur;154;145.000000;XO FS BU-;Hard;12;Tidek;Bass Tester EXTREME 3
+338;Attractor Dimension; ;Laur;154;145.000000;BU+ XO;Challenge;14;Tidek;Bass Tester EXTREME 3
+339;Bass Slut;(Original Mix);S3RL ft. Tamika;139;175.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+340;Bass Slut;(Original Mix);S3RL ft. Tamika;139;175.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+341;Bass Slut;(Original Mix);S3RL ft. Tamika;139;175.000000;XO DT;Medium;9;Tidek;Bass Tester EXTREME 3
+342;Bass Slut;(Original Mix);S3RL ft. Tamika;139;175.000000;STR (16/13);Hard;12;Tidek;Bass Tester EXTREME 3
+343;Bass Slut;(Original Mix);S3RL ft. Tamika;139;175.000000;STR BX-F BRFS DR- MA-;Challenge;15;arki;Bass Tester EXTREME 3
+344;Black Altar; ;Laur;196;160.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+345;Black Altar; ;Laur;196;160.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+346;Black Altar; ;Laur;196;160.000000;BR;Medium;8;Tidek;Bass Tester EXTREME 3
+347;Black Altar; ;Laur;196;160.000000;BR+ FS;Hard;11;Tidek;Bass Tester EXTREME 3
+348;Black Altar; ;Laur;196;160.000000;BX-F+ BU HS;Challenge;12;Tidek;Bass Tester EXTREME 3
+349;Black Magic; ;Lektrique x Sam Lamar;159;112.000000;No Tech;Beginner;3;LeBlusz;Bass Tester EXTREME 3
+350;Black Magic; ;Lektrique x Sam Lamar;159;112.000000;XM- JU DT-;Easy;5;LeBlusz;Bass Tester EXTREME 3
+351;Black Magic; ;Lektrique x Sam Lamar;159;112.000000;XM+ JU JH ;Medium;7;NiuQ;Bass Tester EXTREME 3
+352;Black Magic; ;Lektrique x Sam Lamar;159;112.000000;XM+ BR JU JH-;Hard;8;LeBlusz;Bass Tester EXTREME 3
+353;Black Magic; ;Lektrique x Sam Lamar;159;112.000;XM+ BR+ FS JU- BU-;Challenge;10;LeBlusz;Bass Tester EXTREME 3
+354;Blue Betreyal; ;DJ SHARPNEL;335;175.197;No Tech;Beginner;2;Ayaka;Bass Tester EXTREME 3
+355;Blue Betreyal; ;DJ SHARPNEL;335;175.197;No Tech;Easy;5;Ayaka;Bass Tester EXTREME 3
+356;Blue Betreyal; ;DJ SHARPNEL;335;175.197;JU;Medium;10;Ayaka;Bass Tester EXTREME 3
+357;Blue Betreyal; ;DJ SHARPNEL;335;175.197;STR (@132);Hard;12;Ayaka;Bass Tester EXTREME 3
+358;Blue Betreyal; ;DJ SHARPNEL;335;175.197;STR (@132) DT+ JA BR SJ-;Challenge;13;Ayaka;Bass Tester EXTREME 3
+359;Break Through Myself;(feat. Risa Yuzuki);DJ Myosuke & Laur;145;200.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+360;Break Through Myself;(feat. Risa Yuzuki);DJ Myosuke & Laur;145;200.000000;No Tech;Easy;7;Tidek;Bass Tester EXTREME 3
+361;Break Through Myself;(feat. Risa Yuzuki);DJ Myosuke & Laur;145;200.000000;FS;Medium;9;Tidek;Bass Tester EXTREME 3
+362;Break Through Myself;(feat. Risa Yuzuki);DJ Myosuke & Laur;145;200.000000;SPD;Hard;11;Tidek;Bass Tester EXTREME 3
+363;Break Through Myself;(feat. Risa Yuzuki);DJ Myosuke & Laur;145;200.000000;SPD BR+;Challenge;13;Tidek;Bass Tester EXTREME 3
+364;Broccoli Fuck;(KIMMERCORE'S RIMMERCORE PIEP FARK REMIX);GPF, Riot Shift, Kimmercore;135;120.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+365;Broccoli Fuck;(KIMMERCORE'S RIMMERCORE PIEP FARK REMIX);GPF, Riot Shift, Kimmercore;135;120.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+366;Broccoli Fuck;(KIMMERCORE'S RIMMERCORE PIEP FARK REMIX);GPF, Riot Shift, Kimmercore;135;120.000000;JH;Medium;6;Tidek;Bass Tester EXTREME 3
+367;Broccoli Fuck;(KIMMERCORE'S RIMMERCORE PIEP FARK REMIX);GPF, Riot Shift, Kimmercore;135;120.000000;DR;Hard;9;Tidek;Bass Tester EXTREME 3
+368;Broccoli Fuck;(KIMMERCORE'S RIMMERCORE PIEP FARK REMIX);GPF, Riot Shift, Kimmercore;135;120.000000;FS BU RH-;Challenge;10;Tidek;Bass Tester EXTREME 3
+369;BZZRK;(Jkyl & Hyde Remix);SVDDEN DEATH X AFK;177;170.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+370;BZZRK;(Jkyl & Hyde Remix);SVDDEN DEATH X AFK;177;170.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+371;BZZRK;(Jkyl & Hyde Remix);SVDDEN DEATH X AFK;177;170.000000;DS;Medium;7;Tidek;Bass Tester EXTREME 3
+372;BZZRK;(Jkyl & Hyde Remix);SVDDEN DEATH X AFK;177;170.000000;DS;Hard;9;Tidek;Bass Tester EXTREME 3
+373;BZZRK;(Jkyl & Hyde Remix);SVDDEN DEATH X AFK;177;170.000000;JA DS RH;Challenge;11;Tidek;Bass Tester EXTREME 3
+374;Chipiep Chipiep Gabber Gabber;(Dubidubidu Trixy Happiep Happiep Cat Piep Bootleg);Trixy(Tr!xy);120;200.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+375;Chipiep Chipiep Gabber Gabber;(Dubidubidu Trixy Happiep Happiep Cat Piep Bootleg);Trixy(Tr!xy);120;200.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+376;Chipiep Chipiep Gabber Gabber;(Dubidubidu Trixy Happiep Happiep Cat Piep Bootleg);Trixy(Tr!xy);120;200.000000;BR XO FS 360 DS-;Medium;8;Maryushi3;Bass Tester EXTREME 3
+377;Chipiep Chipiep Gabber Gabber;(Dubidubidu Trixy Happiep Happiep Cat Piep Bootleg);Trixy(Tr!xy);120;200.000000;BX+F BU JU 360- MA-;Hard;10;Maryushi3;Bass Tester EXTREME 3
+378;Chipiep Chipiep Gabber Gabber;(Dubidubidu Trixy Happiep Happiep Cat Piep Bootleg);Trixy(Tr!xy);120;200.000000;B++XF BT SS-;Challenge;12;Tidek;Bass Tester EXTREME 3
+379;Cosmic Blaster; ;Laur;180;160.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+380;Cosmic Blaster; ;Laur;180;160.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+381;Cosmic Blaster; ;Laur;180;160.000000;DS FS;Medium;8;Tidek;Bass Tester EXTREME 3
+382;Cosmic Blaster; ;Laur;180;160.000000;FS BT BR;Hard;11;Tidek;Bass Tester EXTREME 3
+383;Cosmic Blaster; ;Laur;180;160.000000;FS+ SS BR BT BU DS RH-;Challenge;13;Tidek;Bass Tester EXTREME 3
+384;Dam Dadi Doo;(Nightcore);Fantasy Project feat. NDA;163;172.625;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+385;Dam Dadi Doo;(Nightcore);Fantasy Project feat. NDA;163;172.625;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+386;Dam Dadi Doo;(Nightcore);Fantasy Project feat. NDA;163;172.625;No Tech;Medium;7;Tidek;Bass Tester EXTREME 3
+387;Dam Dadi Doo;(Nightcore);Fantasy Project feat. NDA;163;172.625;No Tech;Hard;10;Tidek;Bass Tester EXTREME 3
+388;Dam Dadi Doo;(Nightcore);Fantasy Project feat. NDA;163;172.625;STR (37 Total);Challenge;12;arki;Bass Tester EXTREME 3
+389;DEMONS IN MY SOUL; ;SCXR SOUL x Sx1nxwy;101;100.000;No Tech;Beginner;1;Lisek;Bass Tester EXTREME 3
+390;DEMONS IN MY SOUL; ;SCXR SOUL x Sx1nxwy;101;100.000;XM DT-;Easy;4;Lisek;Bass Tester EXTREME 3
+391;DEMONS IN MY SOUL; ;SCXR SOUL x Sx1nxwy;101;100.000;XM DT FS;Medium;6;Lisek;Bass Tester EXTREME 3
+392;DEMONS IN MY SOUL; ;SCXR SOUL x Sx1nxwy;101;100.000;XM JU BR-;Hard;8;Lisek;Bass Tester EXTREME 3
+393;DEMONS IN MY SOUL; ;SCXR SOUL x Sx1nxwy;101;100.000;XM DT-;Challenge;9;Lisek;Bass Tester EXTREME 3
+394;Dog Girl; ;Joshe_pro;154;152.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+395;Dog Girl; ;Joshe_pro;154;152.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+396;Dog Girl; ;Joshe_pro;154;152.000000;No Tech;Medium;7;Tidek;Bass Tester EXTREME 3
+397;Dog Girl; ;Joshe_pro;154;152.000000;XO 360s Hands;Hard;9;Tidek;Bass Tester EXTREME 3
+398;Dog Girl; ;Joshe_pro;154;152.000000;STR BXF;Challenge;12;Tidek;Bass Tester EXTREME 3
+399;Erika;(Remix);DJ OTIS;160;160.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+400;Erika;(Remix);DJ OTIS;160;160.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+401;Erika;(Remix);DJ OTIS;160;160.000000;FL- DS-;Medium;10;Tidek;Bass Tester EXTREME 3
+402;Erika;(Remix);DJ OTIS;160;160.000000;BXF FL- DS-;Hard;12;Tidek;Bass Tester EXTREME 3
+403;Erika;(Remix);DJ OTIS;160;160.000000;STR BXF FL- DS-;Challenge;13;Tidek;Bass Tester EXTREME 3
+404;Fantasy;(Tricky Disco);W&W x Harris & Ford x Triiipl3 Inc.;127;150.000000;No Tech;Beginner;1;Lisek;Bass Tester EXTREME 3
+405;Fantasy;(Tricky Disco);W&W x Harris & Ford x Triiipl3 Inc.;127;150.000000;No Tech;Easy;5;Lisek;Bass Tester EXTREME 3
+406;Fantasy;(Tricky Disco);W&W x Harris & Ford x Triiipl3 Inc.;127;150.000000;JH JU;Medium;7;Lisek;Bass Tester EXTREME 3
+407;Fantasy;(Tricky Disco);W&W x Harris & Ford x Triiipl3 Inc.;127;150.000000;JU XO DT-;Hard;8;Lisek;Bass Tester EXTREME 3
+408;Fantasy;(Tricky Disco);W&W x Harris & Ford x Triiipl3 Inc.;127;150.000000;SJ+ BR DT BRFS- XO-;Challenge;10;Lisek;Bass Tester EXTREME 3
+409;Fly With Me; ;Sub Zero Project;220;150.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+410;Fly With Me; ;Sub Zero Project;220;150.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+411;Fly With Me; ;Sub Zero Project;220;150.000000;FS XO;Medium;8;Tidek;Bass Tester EXTREME 3
+412;Fly With Me; ;Sub Zero Project;220;150.000000;BXF;Hard;11;Tidek;Bass Tester EXTREME 3
+413;Fly With Me; ;Sub Zero Project;220;150.000000;BX-F DS;Challenge;13;arki;Bass Tester EXTREME 3
+414;Gammarine Dance; ;AltVoid;139;148.000000;No Tech;Beginner;1;Ayaka;Bass Tester EXTREME 3
+415;Gammarine Dance; ;AltVoid;139;148.000000;No Tech;Easy;4;Ayaka;Bass Tester EXTREME 3
+416;Gammarine Dance; ;AltVoid;139;148.000000;FS BR-;Medium;8;Ayaka;Bass Tester EXTREME 3
+417;Gammarine Dance; ;AltVoid;139;148.000000;FS DS SS-;Hard;10;Ayaka;Bass Tester EXTREME 3
+418;Gammarine Dance; ;AltVoid;139;148.000000;B+XF+ SS BT SPD-;Challenge;12;Ayaka;Bass Tester EXTREME 3
+419;Give It To Dem; ;Skan feat. Highdiwaan & Drama B;134;150.000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+420;Give It To Dem; ;Skan feat. Highdiwaan & Drama B;134;150.000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+421;Give It To Dem; ;Skan feat. Highdiwaan & Drama B;134;150.000;FS SS XO;Medium;8;Tidek;Bass Tester EXTREME 3
+422;Give It To Dem; ;Skan feat. Highdiwaan & Drama B;134;150.000;FS SS DS XO-;Hard;10;Tidek;Bass Tester EXTREME 3
+423;Give It To Dem; ;Skan feat. Highdiwaan & Drama B;134;150.000;BX+F SS BT DS;Challenge;12;arki & Tidek;Bass Tester EXTREME 3
+424;Hageshi Konoyoru -Psylent Crazy Night-; ;aran & Kobaryo;142;100.000000 - 150.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+425;Hageshi Konoyoru -Psylent Crazy Night-; ;aran & Kobaryo;142;100.000000 - 150.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+426;Hageshi Konoyoru -Psylent Crazy Night-; ;aran & Kobaryo;142;100.000000 - 150.000000;XO FS;Medium;8;Tidek;Bass Tester EXTREME 3
+427;Hageshi Konoyoru -Psylent Crazy Night-; ;aran & Kobaryo;142;100.000000 - 150.000000;XO FS;Hard;11;Tidek;Bass Tester EXTREME 3
+428;Hageshi Konoyoru -Psylent Crazy Night-; ;aran & Kobaryo;142;100.000000 - 150.000000;STR XO+ FS HS;Challenge;12;Tidek;Bass Tester EXTREME 3
+429;Her; ;Otis Lion;137;120.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+430;Her; ;Otis Lion;137;120.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+431;Her; ;Otis Lion;137;120.000000;No Tech;Medium;9;Tidek;Bass Tester EXTREME 3
+432;Her; ;Otis Lion;137;120.000000;STR XO+;Hard;11;Tidek;Bass Tester EXTREME 3
+433;Her; ;Otis Lion;137;120.000000;BU++;Challenge;14;arki;Bass Tester EXTREME 3
+434;Hypnotize; ;rejection;151;160.000000;No Tech;Beginner;4;Archaic;Bass Tester EXTREME 3
+435;Hypnotize; ;rejection;151;160.000000;DS-;Easy;7;Archaic;Bass Tester EXTREME 3
+436;Hypnotize; ;rejection;151;160.000000;XO DS-;Medium;9;Archaic;Bass Tester EXTREME 3
+437;Hypnotize; ;rejection;151;160.000000;BXF DS-;Hard;11;Archaic;Bass Tester EXTREME 3
+438;Hypnotize; ;rejection;151;160.000000;BXF BU DS-;Challenge;12;Archaic;Bass Tester EXTREME 3
+439;I'll Fight Back; ;Sullivan King;143;155.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+440;I'll Fight Back; ;Sullivan King;143;155.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+441;I'll Fight Back; ;Sullivan King;143;155.000000;BXF;Medium;8;Tidek;Bass Tester EXTREME 3
+442;I'll Fight Back; ;Sullivan King;143;155.000000;FS Chains BR/JU;Hard;11;Tidek;Bass Tester EXTREME 3
+443;I'll Fight Back; ;Sullivan King;143;155.000000;XO+ BR BT BU- DS-;Challenge;12;Tidek;Bass Tester EXTREME 3
+444;INSANE INFLAME; ;Camellia;261;150.000000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+445;INSANE INFLAME; ;Camellia;261;150.000000;FS+ XO DS DT;Easy;7;Tidek;Bass Tester EXTREME 3
+446;INSANE INFLAME; ;Camellia;261;150.000000;FS+ XO HS DS-      ;Medium;10;Tidek;Bass Tester EXTREME 3
+447;INSANE INFLAME; ;Camellia;261;150.000000;FS+ BR BU RH DS- SS- HS- BT-;Hard;13;Tidek;Bass Tester EXTREME 3
+448;INSANE INFLAME; ;Camellia;261;150.000000;B+X+F+ BU+ SS RH BT DT- DS-;Challenge;15;arki & Tidek;Bass Tester EXTREME 3
+449;Invisible Frenzy; ;Kobaryo;135;122.500000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+450;Invisible Frenzy; ;Kobaryo;135;122.500000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+451;Invisible Frenzy; ;Kobaryo;135;122.500000;BR FS;Medium;8;Tidek;Bass Tester EXTREME 3
+452;Invisible Frenzy; ;Kobaryo;135;122.500000;BXF;Hard;10;Tidek;Bass Tester EXTREME 3
+453;Invisible Frenzy; ;Kobaryo;135;122.500000;BXF BU HS- SJ-;Challenge;12;Tidek;Bass Tester EXTREME 3
+454;Judgement Day; ;Hardwell & Sub Zero Project;262;150.000000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+455;Judgement Day; ;Hardwell & Sub Zero Project;262;150.000000;XO;Easy;7;Tidek;Bass Tester EXTREME 3
+456;Judgement Day; ;Hardwell & Sub Zero Project;262;150.000000;FS;Medium;10;Tidek;Bass Tester EXTREME 3
+457;Judgement Day; ;Hardwell & Sub Zero Project;262;150.000000;STR BXF;Hard;12;Tidek;Bass Tester EXTREME 3
+458;Judgement Day; ;Hardwell & Sub Zero Project;262;150.000000;STR BXF;Challenge;13;Tidek;Bass Tester EXTREME 3
+459;Just Dance;(Hardstyle);puremind;150;165.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+460;Just Dance;(Hardstyle);puremind;150;165.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+461;Just Dance;(Hardstyle);puremind;150;165.000000;No Tech;Medium;7;Tidek;Bass Tester EXTREME 3
+462;Just Dance;(Hardstyle);puremind;150;165.000000;FS SS XO;Hard;9;Tidek;Bass Tester EXTREME 3
+463;Just Dance;(Hardstyle);puremind;150;165.000000;STR BX+F;Challenge;13;arki;Bass Tester EXTREME 3
+464;KAMI; ;DJ Myosuke vs MASAKI;155;190.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+465;KAMI; ;DJ Myosuke vs MASAKI;155;190.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+466;KAMI; ;DJ Myosuke vs MASAKI;155;190.000000;BXF;Medium;9;Tidek;Bass Tester EXTREME 3
+467;KAMI; ;DJ Myosuke vs MASAKI;155;190.000000;SPD BXF;Hard;11;Tidek;Bass Tester EXTREME 3
+468;KAMI; ;DJ Myosuke vs MASAKI;155;190.000000;BXF BU;Challenge;13;Tidek;Bass Tester EXTREME 3
+469;L'Amour Toujours; ;Gigi D'Agostino;242;139.061996;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+470;L'Amour Toujours; ;Gigi D'Agostino;242;139.061996;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+471;L'Amour Toujours; ;Gigi D'Agostino;242;139.061996;No Tech;Medium;7;Tidek;Bass Tester EXTREME 3
+472;L'Amour Toujours; ;Gigi D'Agostino;242;139.061996;FS++;Hard;8;arki;Bass Tester EXTREME 3
+473;L'Amour Toujours; ;Gigi D'Agostino;242;139.061996;STR (99 Total);Challenge;12;Tidek;Bass Tester EXTREME 3
+474;Last Judgement; ;Laur vs Juggernaut.;142;210.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+475;Last Judgement; ;Laur vs Juggernaut.;142;210.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+476;Last Judgement; ;Laur vs Juggernaut.;142;210.000000;DT FS XO DS-;Medium;9;Tidek;Bass Tester EXTREME 3
+477;Last Judgement; ;Laur vs Juggernaut.;142;210.000000;SPD BX-F DS;Hard;12;Tidek;Bass Tester EXTREME 3
+478;Last Judgement; ;Laur vs Juggernaut.;142;210.000000;SPD BXF BT DS SS ;Challenge;14;Tidek;Bass Tester EXTREME 3
+479;Let's! Miracle HARDCORE!;(feat. Mishamo);Laur;195;140.000 - 185.000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+480;Let's! Miracle HARDCORE!;(feat. Mishamo);Laur;195;140.000 - 185.000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+481;Let's! Miracle HARDCORE!;(feat. Mishamo);Laur;195;140.000 - 185.000;No Tech;Medium;7;Tidek;Bass Tester EXTREME 3
+482;Let's! Miracle HARDCORE!;(feat. Mishamo);Laur;195;140.000 - 185.000;HS;Hard;9;Tidek;Bass Tester EXTREME 3
+483;Let's! Miracle HARDCORE!;(feat. Mishamo);Laur;195;140.000 - 185.000;SJ DS HS;Challenge;11;Tidek;Bass Tester EXTREME 3
+484;LGND; ;Tha Trickaz;176;175.000000;No Tech;Beginner;3;LeBlusz;Bass Tester EXTREME 3
+485;LGND; ;Tha Trickaz;176;175.000000;JU DT;Easy;6;LeBlusz;Bass Tester EXTREME 3
+486;LGND; ;Tha Trickaz;176;175.000000;JU DT- DS-;Medium;8;LeBlusz;Bass Tester EXTREME 3
+487;LGND; ;Tha Trickaz;176;175.000000;JU SJ DT;Hard;10;LeBlusz;Bass Tester EXTREME 3
+488;LGND; ;Tha Trickaz;176;175.000000;FS+ BR BU ;Challenge;11;LeBlusz;Bass Tester EXTREME 3
+489;Lonelipop; ;AltVoid;199;137.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+490;Lonelipop; ;AltVoid;199;137.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+491;Lonelipop; ;AltVoid;199;137.000000;SS;Medium;8;Tidek;Bass Tester EXTREME 3
+492;Lonelipop; ;AltVoid;199;137.000000;SS+;Hard;11;Tidek;Bass Tester EXTREME 3
+493;Lonelipop; ;AltVoid;199;137.000000;SS+ BU;Challenge;12;Tidek;Bass Tester EXTREME 3
+494;Lunatixxx Gear; ;Laur vs HyuN;156;196.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+495;Lunatixxx Gear; ;Laur vs HyuN;156;196.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+496;Lunatixxx Gear; ;Laur vs HyuN;156;196.000000;DS;Medium;8;Tidek;Bass Tester EXTREME 3
+497;Lunatixxx Gear; ;Laur vs HyuN;156;196.000000;FS DS RH-;Hard;11;Tidek;Bass Tester EXTREME 3
+498;Lunatixxx Gear; ;Laur vs HyuN;156;196.000000;SPD XO FS HS RH-;Challenge;12;Tidek;Bass Tester EXTREME 3
+499;Metamorphose; ;Laur;146;160.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+500;Metamorphose; ;Laur;146;160.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+501;Metamorphose; ;Laur;146;160.000000;XO FS DS-;Medium;8;Tidek;Bass Tester EXTREME 3
+502;Metamorphose; ;Laur;146;160.000000;STR FS;Hard;12;Tidek;Bass Tester EXTREME 3
+503;Metamorphose; ;Laur;146;160.000000;BU+ FS HS-;Challenge;14;Tidek;Bass Tester EXTREME 3
+504;Mexican Phonk Eki; ;NUEKI x TOLCHONOV;98;129.000000;No Tech;Beginner;1;Lisek;Bass Tester EXTREME 3
+505;Mexican Phonk Eki; ;NUEKI x TOLCHONOV;98;129.000000;No Tech;Easy;4;Lisek;Bass Tester EXTREME 3
+506;Mexican Phonk Eki; ;NUEKI x TOLCHONOV;98;129.000000;JU;Medium;6;Lisek;Bass Tester EXTREME 3
+507;Mexican Phonk Eki; ;NUEKI x TOLCHONOV;98;129.000000;SJ DT-;Hard;8;Lisek;Bass Tester EXTREME 3
+508;Mexican Phonk Eki; ;NUEKI x TOLCHONOV;98;129.000000;BXF BRFS;Challenge;9;Lisek;Bass Tester EXTREME 3
+509;MEXICAN RIDDIM; ;Automhate;123;140.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+510;MEXICAN RIDDIM; ;Automhate;123;140.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+511;MEXICAN RIDDIM; ;Automhate;123;140.000000;RH+;Medium;8;Tidek;Bass Tester EXTREME 3
+512;MEXICAN RIDDIM; ;Automhate;123;140.000000;RH+;Hard;10;Tidek;Bass Tester EXTREME 3
+513;MEXICAN RIDDIM; ;Automhate;123;140.000000;RH+ JA BU;Challenge;11;Tidek;Bass Tester EXTREME 3
+514;MISA MISA!; ;CORPSE, Scarlxrd, Kordhell;85;190.000000;No Tech;Beginner;3;zb;Bass Tester EXTREME 3
+515;MISA MISA!; ;CORPSE, Scarlxrd, Kordhell;85;190.000000;DS;Easy;5;zb;Bass Tester EXTREME 3
+516;MISA MISA!; ;CORPSE, Scarlxrd, Kordhell;85;190.000000;DS;Medium;7;zb;Bass Tester EXTREME 3
+517;MISA MISA!; ;CORPSE, Scarlxrd, Kordhell;85;190.000000;FS DS;Hard;9;zb;Bass Tester EXTREME 3
+518;MISA MISA!; ;CORPSE, Scarlxrd, Kordhell;85;190.000000;FS DS;Challenge;10;zb;Bass Tester EXTREME 3
+519;MOI LUDZIE TANCZOM Z TRUMNOM;(MIKOUAJ REJW TU BYL);WIXAPOL X SZPAKU X VND;154;150.000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+520;MOI LUDZIE TANCZOM Z TRUMNOM;(MIKOUAJ REJW TU BYL);WIXAPOL X SZPAKU X VND;154;150.000;No Tech;Easy;3;Tidek;Bass Tester EXTREME 3
+521;MOI LUDZIE TANCZOM Z TRUMNOM;(MIKOUAJ REJW TU BYL);WIXAPOL X SZPAKU X VND;154;150.000;No Tech;Medium;5;Tidek;Bass Tester EXTREME 3
+522;MOI LUDZIE TANCZOM Z TRUMNOM;(MIKOUAJ REJW TU BYL);WIXAPOL X SZPAKU X VND;154;150.000;No Tech;Hard;7;Tidek;Bass Tester EXTREME 3
+523;MOI LUDZIE TANCZOM Z TRUMNOM;(MIKOUAJ REJW TU BYL);WIXAPOL X SZPAKU X VND;154;150.000;SJ XO;Challenge;9;Tidek;Bass Tester EXTREME 3
+524;MOJA ERA; ;WIXAPOL X EURODANEK X DJ GYPSY;145;160.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+525;MOJA ERA; ;WIXAPOL X EURODANEK X DJ GYPSY;145;160.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+526;MOJA ERA; ;WIXAPOL X EURODANEK X DJ GYPSY;145;160.000000;No Tech;Medium;8;Tidek;Bass Tester EXTREME 3
+527;MOJA ERA; ;WIXAPOL X EURODANEK X DJ GYPSY;145;160.000000;SJ DT;Hard;10;Tidek;Bass Tester EXTREME 3
+528;MOJA ERA; ;WIXAPOL X EURODANEK X DJ GYPSY;145;160.000000;BR FS BRFS;Challenge;11;Tidek;Bass Tester EXTREME 3
+529;Movin'; ;Massive New Krew;146;160.000000;No Tech;Beginner;2;LeBlusz;Bass Tester EXTREME 3
+530;Movin'; ;Massive New Krew;146;160.000000;DS JU;Easy;5;LeBlusz;Bass Tester EXTREME 3
+531;Movin'; ;Massive New Krew;146;160.000000;XO+ JU;Medium;7;LeBlusz;Bass Tester EXTREME 3
+532;Movin'; ;Massive New Krew;146;160.000000;XO+ JU BU JA-;Hard;9;LeBlusz;Bass Tester EXTREME 3
+533;Movin'; ;Massive New Krew;146;160.000000;XO+ BR BU JA- JU-;Challenge;11;LeBlusz;Bass Tester EXTREME 3
+534;Muj Pszyjacielu; ;Batashi;177;105.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+535;Muj Pszyjacielu; ;Batashi;177;105.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+536;Muj Pszyjacielu; ;Batashi;177;105.000000;DS;Medium;8;Tidek;Bass Tester EXTREME 3
+537;Muj Pszyjacielu; ;Batashi;177;105.000000;STR FS+;Hard;10;Tidek;Bass Tester EXTREME 3
+538;Muj Pszyjacielu; ;Batashi;177;105.000000;STR FS+ SS XO DT BU;Challenge;11;Tidek;Bass Tester EXTREME 3
+539;Multiverse Traveler; ;Laur;234;150.000 - 230.000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+540;Multiverse Traveler; ;Laur;234;150.000 - 230.000;XM- XO FS DS DT-;Easy;7;Tidek;Bass Tester EXTREME 3
+541;Multiverse Traveler; ;Laur;234;150.000 - 230.000;XM BXF DS SJ-;Medium;10;Tidek;Bass Tester EXTREME 3
+542;Multiverse Traveler; ;Laur;234;150.000 - 230.000;XM+ BXF BU+ DS SS- HS- RH-;Hard;13;Tidek;Bass Tester EXTREME 3
+543;Multiverse Traveler; ;Laur;234;150.000 - 230.000;XM+ B+X+F+ BU+ DS SJ SS DT- RH-;Challenge;16;Tidek;Bass Tester EXTREME 3
+544;Mutation;(Extended);Laur;241;155.000000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+545;Mutation;(Extended);Laur;241;155.000000;XM- XO;Easy;7;Tidek;Bass Tester EXTREME 3
+546;Mutation;(Extended);Laur;241;155.000000;XM- XO FS DS-;Medium;10;Tidek;Bass Tester EXTREME 3
+547;Mutation;(Extended);Laur;241;155.000000;XM- BXF BU;Hard;12;Tidek;Bass Tester EXTREME 3
+548;Mutation;(Extended);Laur;241;155.000000;XM- BXF BU+ SS- DT- DS-;Challenge;14;Tidek;Bass Tester EXTREME 3
+549;Na Pelnym; ;Spizowi Mocni;114;125.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+550;Na Pelnym; ;Spizowi Mocni;114;125.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+551;Na Pelnym; ;Spizowi Mocni;114;125.000000;XO;Medium;7;Tidek;Bass Tester EXTREME 3
+552;Na Pelnym; ;Spizowi Mocni;114;125.000000;XO FS;Hard;9;Tidek;Bass Tester EXTREME 3
+553;Na Pelnym; ;Spizowi Mocni;114;125.000000;BXF;Challenge;10;arki;Bass Tester EXTREME 3
+554;Numb;(feat. Che'Nelle);FWLR;107;95.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+555;Numb;(feat. Che'Nelle);FWLR;107;95.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+556;Numb;(feat. Che'Nelle);FWLR;107;95.000000;SJ;Medium;6;Piols;Bass Tester EXTREME 3
+557;Numb;(feat. Che'Nelle);FWLR;107;95.000000;XO DS;Hard;9;Piols;Bass Tester EXTREME 3
+558;Numb;(feat. Che'Nelle);FWLR;107;95.000000;BXF+ DS;Challenge;10;Piols;Bass Tester EXTREME 3
+559;Pandemonium; ;t+pazolite & Laur;201;200.000000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+560;Pandemonium; ;t+pazolite & Laur;201;200.000000;No Tech;Easy;7;Tidek;Bass Tester EXTREME 3
+561;Pandemonium; ;t+pazolite & Laur;201;200.000000;XM++;Medium;10;Tidek;Bass Tester EXTREME 3
+562;Pandemonium; ;t+pazolite & Laur;201;200.000000;XM++ SPD FS XO DS-;Hard;12;Tidek;Bass Tester EXTREME 3
+563;Pandemonium; ;t+pazolite & Laur;201;200.000000;XM++ BXF HS DS-;Challenge;13;Tidek;Bass Tester EXTREME 3
+564;Piwko Tesco; ;Piwson TSC;117;151.000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+565;Piwko Tesco; ;Piwson TSC;117;151.000;No Tech;Easy;2;Tidek;Bass Tester EXTREME 3
+566;Piwko Tesco; ;Piwson TSC;117;151.000;DT XO-;Medium;4;Maryushi3;Bass Tester EXTREME 3
+567;Piwko Tesco; ;Piwson TSC;117;151.000;DT+ XO DS-;Hard;7;Maryushi3;Bass Tester EXTREME 3
+568;Piwko Tesco; ;Piwson TSC;117;151.000;FS+ XO+ RH BR DT SS-;Challenge;9;Maryushi3;Bass Tester EXTREME 3
+569;PIWO HARDSTYLE; ;Piwson TSC;100;151.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+570;PIWO HARDSTYLE; ;Piwson TSC;100;151.000000;No Tech;Easy;3;Tidek;Bass Tester EXTREME 3
+571;PIWO HARDSTYLE; ;Piwson TSC;100;151.000000;JU;Medium;6;Tidek;Bass Tester EXTREME 3
+572;PIWO HARDSTYLE; ;Piwson TSC;100;151.000000;DT;Hard;8;Tidek;Bass Tester EXTREME 3
+573;PIWO HARDSTYLE; ;Piwson TSC;100;151.000000;SJ+ XO;Challenge;10;Tidek;Bass Tester EXTREME 3
+574;Pumping Through The Ground; ;MADD & Gopnik McBlyat;192;155.000000;No Tech;Beginner;3;Ayaka;Bass Tester EXTREME 3
+575;Pumping Through The Ground; ;MADD & Gopnik McBlyat;192;155.000000;No Tech;Easy;5;Ayaka;Bass Tester EXTREME 3
+576;Pumping Through The Ground; ;MADD & Gopnik McBlyat;192;155.000000;JU DS;Medium;9;Ayaka;Bass Tester EXTREME 3
+577;Pumping Through The Ground; ;MADD & Gopnik McBlyat;192;155.000000;BR FS HS;Hard;11;Ayaka;Bass Tester EXTREME 3
+578;Pumping Through The Ground; ;MADD & Gopnik McBlyat;192;155.000000;B+XF BU DT SJ;Challenge;14;Ayaka;Bass Tester EXTREME 3
+579;Ratata; ;Vieze Asbak and gladde paling;105;180.000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+580;Ratata; ;Vieze Asbak and gladde paling;105;180.000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+581;Ratata; ;Vieze Asbak and gladde paling;105;180.000;FS;Medium;7;Tidek;Bass Tester EXTREME 3
+582;Ratata; ;Vieze Asbak and gladde paling;105;180.000;FS SS DS;Hard;9;Tidek;Bass Tester EXTREME 3
+583;Ratata; ;Vieze Asbak and gladde paling;105;180.000;FS BR DS BT-;Challenge;11;Tidek;Bass Tester EXTREME 3
+584;Run;(Chime Remix);Xilent & Chime;196;150.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+585;Run;(Chime Remix);Xilent & Chime;196;150.000000;Rolls;Easy;4;Tidek;Bass Tester EXTREME 3
+586;Run;(Chime Remix);Xilent & Chime;196;150.000000;DS;Medium;7;Tidek;Bass Tester EXTREME 3
+587;Run;(Chime Remix);Xilent & Chime;196;150.000000;DS+;Hard;9;Tidek;Bass Tester EXTREME 3
+588;Run;(Chime Remix);Xilent & Chime;196;150.000000;BT+ BR BU-;Challenge;12;Tidek;Bass Tester EXTREME 3
+589;Shadow Bang; ;DJ Myosuke;154;75.000000 - 150.000000;No Tech;Beginner;2;neyoru;Bass Tester EXTREME 3
+590;Shadow Bang; ;DJ Myosuke;154;75.000000 - 150.000000;No Tech;Easy;6;neyoru;Bass Tester EXTREME 3
+591;Shadow Bang; ;DJ Myosuke;154;75.000000 - 150.000000;FS+ BR;Medium;9;neyoru;Bass Tester EXTREME 3
+592;Shadow Bang; ;DJ Myosuke;154;75.000000 - 150.000000;BX-F;Hard;11;neyoru;Bass Tester EXTREME 3
+593;Shadow Bang; ;DJ Myosuke;154;75.000000 - 150.000000;B+X-F+ BU+ JA;Challenge;13;neyoru;Bass Tester EXTREME 3
+594;SHARK ATTACK; ;ryhki;121;165.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+595;SHARK ATTACK; ;ryhki;121;165.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+596;SHARK ATTACK; ;ryhki;121;165.000000;BR;Medium;9;Tidek;Bass Tester EXTREME 3
+597;SHARK ATTACK; ;ryhki;121;165.000000;BR+;Hard;11;Tidek;Bass Tester EXTREME 3
+598;SHARK ATTACK; ;ryhki;121;165.000000;BR+ FS BU;Challenge;13;Tidek;Bass Tester EXTREME 3
+599;Silentphobia; ;t+pazolite vs Sakuzyo;156;145.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+600;Silentphobia; ;t+pazolite vs Sakuzyo;156;145.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+601;Silentphobia; ;t+pazolite vs Sakuzyo;156;145.000000;BXF;Medium;8;Tidek;Bass Tester EXTREME 3
+602;Silentphobia; ;t+pazolite vs Sakuzyo;156;145.000000;BXF;Hard;10;Tidek;Bass Tester EXTREME 3
+603;Silentphobia; ;t+pazolite vs Sakuzyo;156;145.000000;BXF BU+ DR;Challenge;13;Tidek;Bass Tester EXTREME 3
+604;Souviens-Toi; ;Sunhiausa;231;117.000000 - 195.000000;XM-;Beginner;2;Ayaka;Bass Tester EXTREME 3
+605;Souviens-Toi; ;Sunhiausa;231;117.000000 - 195.000000;XM-;Easy;5;Ayaka;Bass Tester EXTREME 3
+606;Souviens-Toi; ;Sunhiausa;231;117.000000 - 195.000000;XM- BR JU;Medium;9;Ayaka;Bass Tester EXTREME 3
+607;Souviens-Toi; ;Sunhiausa;231;117.000000 - 195.000000;XM- B+XF BU Rolls;Hard;12;Ayaka;Bass Tester EXTREME 3
+608;Souviens-Toi; ;Sunhiausa;231;117.000000 - 195.000000;XM- BR++ FS BT HS BU DR;Challenge;15;Ayaka;Bass Tester EXTREME 3
+609;Souviens-Toi; ;Sunhiausa;231;117.000000 - 195.000000;XM- STR BU BR DR;Edit;16;Ayaka;Bass Tester EXTREME 3
+610;SPAGHETTI DUB; ;Automhate;109;140.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+611;SPAGHETTI DUB; ;Automhate;109;140.000000;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+612;SPAGHETTI DUB; ;Automhate;109;140.000000;RH+;Medium;7;Tidek;Bass Tester EXTREME 3
+613;SPAGHETTI DUB; ;Automhate;109;140.000000;RH+;Hard;9;Tidek;Bass Tester EXTREME 3
+614;SPAGHETTI DUB; ;Automhate;109;140.000000;RH+;Challenge;10;Tidek;Bass Tester EXTREME 3
+615;Spaghetti Love;(Mizz Behave Remix);GPF & Mind Compressor;162;120.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+616;Spaghetti Love;(Mizz Behave Remix);GPF & Mind Compressor;162;120.000000;No Tech;Easy;5;Tidek;Bass Tester EXTREME 3
+617;Spaghetti Love;(Mizz Behave Remix);GPF & Mind Compressor;162;120.000000;SJ;Medium;7;Tidek;Bass Tester EXTREME 3
+618;Spaghetti Love;(Mizz Behave Remix);GPF & Mind Compressor;162;120.000000;JU FL DS-;Hard;9;Tidek;Bass Tester EXTREME 3
+619;Spaghetti Love;(Mizz Behave Remix);GPF & Mind Compressor;162;120.000000;FS JU FL DS- HS-;Challenge;11;Tidek;Bass Tester EXTREME 3
+620;SuperNova; ;DJ OTIS feat. AltVoid;206;120.000000 - 180.000000;XM-;Beginner;2;Tidek;Bass Tester EXTREME 3
+621;SuperNova; ;DJ OTIS feat. AltVoid;206;120.000000 - 180.000000;XM-;Easy;5;Tidek;Bass Tester EXTREME 3
+622;SuperNova; ;DJ OTIS feat. AltVoid;206;120.000000 - 180.000000;XM- BR;Medium;7;Tidek;Bass Tester EXTREME 3
+623;SuperNova; ;DJ OTIS feat. AltVoid;206;120.000000 - 180.000000;XM- BR;Hard;10;Tidek;Bass Tester EXTREME 3
+624;SuperNova; ;DJ OTIS feat. AltVoid;206;120.000000 - 180.000000;XM- SPD BR+ FS HS;Challenge;12;Tidek;Bass Tester EXTREME 3
+625;SZTOS W NOS;(GABERMACHEN Remix);Mafia Gang & GABERMACHEN;113;200.000000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+626;SZTOS W NOS;(GABERMACHEN Remix);Mafia Gang & GABERMACHEN;113;200.000000;MA;Easy;5;Tidek;Bass Tester EXTREME 3
+627;SZTOS W NOS;(GABERMACHEN Remix);Mafia Gang & GABERMACHEN;113;200.000000;XM;Medium;8;Tidek;Bass Tester EXTREME 3
+628;SZTOS W NOS;(GABERMACHEN Remix);Mafia Gang & GABERMACHEN;113;200.000000;XM JU DS DT FS XO-;Hard;10;Tidek;Bass Tester EXTREME 3
+629;SZTOS W NOS;(GABERMACHEN Remix);Mafia Gang & GABERMACHEN;113;200.000000;XM B+X-F DS DT;Challenge;11;Tidek;Bass Tester EXTREME 3
+630;Terrorcore Kitty; ;LOLtotheMAX;249;130.000;No Tech;Beginner;4;Lisek;Bass Tester EXTREME 3
+631;Terrorcore Kitty; ;LOLtotheMAX;249;130.000;DT FS XO JU-;Easy;7;Lisek;Bass Tester EXTREME 3
+632;Terrorcore Kitty; ;LOLtotheMAX;249;130.000;B+XF JU+;Medium;10;Lisek;Bass Tester EXTREME 3
+633;Terrorcore Kitty; ;LOLtotheMAX;249;130.000;STR B+XF+ BU SS DS BT-;Hard;12;Tidek;Bass Tester EXTREME 3
+634;Terrorcore Kitty; ;LOLtotheMAX;249;130.000;B+X+F+ BU+ SS DT HS- ;Challenge;14;arki & Tidek;Bass Tester EXTREME 3
+635;Titanic;(Remix);DJ Tiesto;380;138.000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+636;Titanic;(Remix);DJ Tiesto;380;138.000;No Tech;Easy;7;Tidek;Bass Tester EXTREME 3
+637;Titanic;(Remix);DJ Tiesto;380;138.000;No Tech;Medium;10;Tidek;Bass Tester EXTREME 3
+638;Titanic;(Remix);DJ Tiesto;380;138.000;STR (93 Total);Hard;12;Tidek;Bass Tester EXTREME 3
+639;Titanic;(Remix);DJ Tiesto;380;138.000;STR (127 Total);Challenge;12;Tidek;Bass Tester EXTREME 3
+640;TRENOMA; ;AltVoid;183;284.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+641;TRENOMA; ;AltVoid;183;284.000000;XM XO- JA-;Easy;7;Tidek;Bass Tester EXTREME 3
+642;TRENOMA; ;AltVoid;183;284.000000;XM XO FS;Medium;10;Tidek;Bass Tester EXTREME 3
+643;TRENOMA; ;AltVoid;183;284.000000;XM BXF BU DS;Hard;12;Tidek;Bass Tester EXTREME 3
+644;TRENOMA; ;AltVoid;183;284.000000;XM B+X+F+ BU SS BT SJ DT DS-;Challenge;14;Tidek;Bass Tester EXTREME 3
+645;Trzecia Pixa; ;Enter;180;160.000000;No Tech;Beginner;3;Tidek;Bass Tester EXTREME 3
+646;Trzecia Pixa; ;Enter;180;160.000000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+647;Trzecia Pixa; ;Enter;180;160.000000;XO;Medium;9;Tidek;Bass Tester EXTREME 3
+648;Trzecia Pixa; ;Enter;180;160.000000;STR BU-;Hard;12;Tidek;Bass Tester EXTREME 3
+649;Trzecia Pixa; ;Enter;180;160.000000;XO+ BU;Challenge;13;arki;Bass Tester EXTREME 3
+650;Viyella's Melancholy; ;Laur;147;110.000;No Tech;Beginner;2;Tidek;Bass Tester EXTREME 3
+651;Viyella's Melancholy; ;Laur;147;110.000;No Tech;Easy;6;Tidek;Bass Tester EXTREME 3
+652;Viyella's Melancholy; ;Laur;147;110.000;XO;Medium;9;Tidek;Bass Tester EXTREME 3
+653;Viyella's Melancholy; ;Laur;147;110.000;XO+;Hard;11;Tidek;Bass Tester EXTREME 3
+654;Viyella's Melancholy; ;Laur;147;110.000;BU+ BR XO BT-;Challenge;13;Tidek;Bass Tester EXTREME 3
+655;WIELKA P****;(LYLU X MIERNO HARBASS REMIX);LYLU X TEN ZIOMEK;170;170.000000;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+656;WIELKA P****;(LYLU X MIERNO HARBASS REMIX);LYLU X TEN ZIOMEK;170;170.000000;No Tech;Easy;3;Tidek;Bass Tester EXTREME 3
+657;WIELKA P****;(LYLU X MIERNO HARBASS REMIX);LYLU X TEN ZIOMEK;170;170.000000;No Tech;Medium;6;Tidek;Bass Tester EXTREME 3
+658;WIELKA P****;(LYLU X MIERNO HARBASS REMIX);LYLU X TEN ZIOMEK;170;170.000000;No Tech;Hard;8;Tidek;Bass Tester EXTREME 3
+659;WIELKA P****;(LYLU X MIERNO HARBASS REMIX);LYLU X TEN ZIOMEK;170;170.000000;FS+ SS XO DS;Challenge;9;Tidek;Bass Tester EXTREME 3
+660;Wish You Were Here; ;overrated;159;110.693001;No Tech;Beginner;1;Tidek;Bass Tester EXTREME 3
+661;Wish You Were Here; ;overrated;159;110.693001;No Tech;Easy;4;Tidek;Bass Tester EXTREME 3
+662;Wish You Were Here; ;overrated;159;110.693001;XO FS;Medium;7;Tidek;Bass Tester EXTREME 3
+663;Wish You Were Here; ;overrated;159;110.693001;XO FS;Hard;9;Tidek;Bass Tester EXTREME 3
+664;Wish You Were Here; ;overrated;159;110.693001;XO FS;Challenge;10;Tidek;Bass Tester EXTREME 3
+665;[Marathon] WACCA ULTRA DREAM MEGAMIX; ;USAO & Kobaryo;355;130.000000 - 245.000000;No Tech;Beginner;4;Tidek;Bass Tester EXTREME 3
+666;[Marathon] WACCA ULTRA DREAM MEGAMIX; ;USAO & Kobaryo;355;130.000000 - 245.000000;XO;Easy;7;Tidek;Bass Tester EXTREME 3
+667;[Marathon] WACCA ULTRA DREAM MEGAMIX; ;USAO & Kobaryo;355;130.000000 - 245.000000;XO FS SJ DS- SS-;Medium;9;Tidek;Bass Tester EXTREME 3
+668;[Marathon] WACCA ULTRA DREAM MEGAMIX; ;USAO & Kobaryo;355;130.000000 - 245.000000;BXF DS SS BU-;Hard;11;Tidek;Bass Tester EXTREME 3
+669;[Marathon] WACCA ULTRA DREAM MEGAMIX; ;USAO & Kobaryo;355;130.000000 - 245.000000;BXF BU SS DS HS;Challenge;13;Tidek;Bass Tester EXTREME 3

@@ -1,0 +1,11 @@
+prefix=C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/taglib_x64-windows/debug
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: TagLib
+Description: Audio meta-data library
+Requires:
+Version: 2.0
+Libs: -L${libdir} -ltag -lz
+Cflags: -I${includedir} -I${includedir}/taglib

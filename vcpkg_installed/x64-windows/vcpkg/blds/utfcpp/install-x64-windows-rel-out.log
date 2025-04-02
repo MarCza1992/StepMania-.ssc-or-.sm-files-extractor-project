@@ -1,0 +1,17 @@
+Change Dir: 'C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/utfcpp/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j13 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Dev\nauka praktyczna\Wyciąganie info z .ssc\vcpkg_installed\x64-windows\vcpkg\blds\utfcpp\x64-windows-rel" && "C:\Program Files\CMake\bin\cmake.exe" -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/share/utf8cpp/cmake/utf8cppTargets.cmake
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/share/utf8cpp/cmake/utf8cppConfig.cmake
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/share/utf8cpp/cmake/utf8cppConfigVersion.cmake
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8.h
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8/checked.h
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8/core.h
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8/cpp11.h
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8/cpp17.h
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8/cpp20.h
+-- Installing: C:/Dev/nauka praktyczna/Wyciąganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/pkgs/utfcpp_x64-windows/include/utf8cpp/utf8/unchecked.h
+

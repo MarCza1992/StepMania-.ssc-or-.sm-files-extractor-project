@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Dev/nauka praktyczna/Wyci\u0105ganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/taglib/x64-windows-rel/cmake_install.cmake",
+		"C:/Dev/nauka praktyczna/Wyci\u0105ganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/taglib/x64-windows-rel/taglib/cmake_install.cmake",
+		"C:/Dev/nauka praktyczna/Wyci\u0105ganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/taglib/x64-windows-rel/bindings/cmake_install.cmake",
+		"C:/Dev/nauka praktyczna/Wyci\u0105ganie info z .ssc/vcpkg_installed/x64-windows/vcpkg/blds/taglib/x64-windows-rel/bindings/c/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
