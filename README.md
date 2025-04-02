@@ -10,7 +10,7 @@ In the SQL folder, you will find .csv files that were converted from .txt files 
 
 To make the extraction program work, you need to place sample StepMania packs containing .ssc files into the Packs folder and run the "StepMania .ssc files extractor.exe" in the bin -> x64 -> Debug folder.
 For example:
-bin -> x64 -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc file is located)
+bin -> x64 -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc file is located).
 
 SQL Folder – .csv tables, data cleaning scripts, and SQL queries
 
