@@ -1,3 +1,6 @@
+Used technologies:
+C++, MySQL, Power BI
+
 In this project, I used my own custom packs created for the game StepMania.
 
 The program, written in C++, extracts all necessary information from .ssc files.
