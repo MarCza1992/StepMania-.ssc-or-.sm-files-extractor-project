@@ -22,9 +22,9 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{03b4dd70-0a50-45e7-bf37-6c2c111ccbe2}</ProjectGuid>
-    <RootNamespace>Wyciąganieinfozssc</RootNamespace>
+    <RootNamespace>StepMania.sscfilesextractor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Wyciąganie info z .ssc</ProjectName>
+    <ProjectName>StepMania .ssc files extractor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
