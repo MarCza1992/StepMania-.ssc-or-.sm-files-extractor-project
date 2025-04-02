@@ -13,4 +13,5 @@ For example:
 bin -> x64 -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc file is located)
 
 SQL Folder – .csv tables, data cleaning scripts, and SQL queries
+
 PowerBI visualization Folder – visualizations and example screenshots
