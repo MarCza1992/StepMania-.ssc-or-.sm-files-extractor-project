@@ -1,5 +1,3 @@
-StepMania .ssc Files Extractor
-
 In this project, I used my own custom packs created for the game StepMania.
 
 The program, written in C++, extracts all necessary information from .ssc files.
@@ -11,8 +9,9 @@ How to Use the Extractor
 To make the extraction program work, you need to place sample StepMania packs containing .ssc files into the Packs folder.
 For example:
 bin -> x64 -> -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc file is located).
-Project Structure
 
-    SQL Folder – .csv tables, data cleaning scripts, and SQL queries
+Project Structure:
 
-    Power BI visualization Folder – visualizations and example screenshots
+SQL Folder – .csv tables, data cleaning scripts, and SQL queries
+
+Power BI visualization Folder – visualizations and example screenshots
