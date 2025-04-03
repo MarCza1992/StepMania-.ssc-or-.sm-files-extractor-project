@@ -4,7 +4,7 @@
 **C++, MySQL, Power BI**
 
 ## Description:
-In this project, I used my own custom packs created for the game StepMania.
+In this project, I used my own custom packs created for the rhythm game StepMania.
 
 The program, written in C++, extracts all necessary information from .ssc files to a ChartsData.txt and NotesData.txt files.
 An .ssc file is used in the rhythm game StepMania; in short, each individual file stores all information about a song and its corresponding chart.
