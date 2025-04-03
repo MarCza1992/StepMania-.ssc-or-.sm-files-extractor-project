@@ -17,6 +17,6 @@ To make the extraction program work:
 - run the "StepMania .ssc files extractor.exe" and follow the instructions: bin -> x64 -> Debug folder
 - data will be saved in ChartsData.txt and NotesData.txt for future data cleaning and analysis!
 
-# Folders structure:
+## Folders structure:
 - SQL Folder – .csv tables, data cleaning scripts, and SQL queries
 - PowerBI visualization Folder – visualizations and example screenshots
