@@ -19,4 +19,4 @@ To make the extraction program work:
 
 ## Folders:
 - SQL Folder – .csv tables, data cleaning/data analysis queries and ready database SQL file
-- PowerBI visualization Folder – visualization file and example screenshots
+- PowerBI visualization Folder – visualization .pbix file and example screenshots
