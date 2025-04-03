@@ -18,5 +18,5 @@ To make the extraction program work:
 - data will be saved in ChartsData.txt and NotesData.txt for future data cleaning and analysis!
 
 ## Folders structure:
-- SQL Folder – .csv tables, data cleaning scripts, and SQL queries
-- PowerBI visualization Folder – visualizations and example screenshots
+- SQL Folder – .csv tables, data cleaning/data analysis queries and ready database SQL file
+- PowerBI visualization Folder – visualization file and example screenshots
