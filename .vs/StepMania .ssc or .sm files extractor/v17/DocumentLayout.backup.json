@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tidek\\Desktop\\SQL analiza danych\\StepMania .ssc or .sm files extractor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B4DD70-0A50-45E7-BF37-6C2C111CCBE2}|StepMania .ssc or .sm files extractor\\StepMania .ssc or .sm files extractor.vcxproj|C:\\Users\\Tidek\\Desktop\\SQL analiza danych\\StepMania .ssc or .sm files extractor\\StepMania .ssc or .sm files extractor\\Source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B4DD70-0A50-45E7-BF37-6C2C111CCBE2}|StepMania .ssc or .sm files extractor\\StepMania .ssc or .sm files extractor.vcxproj|solutionrelative:StepMania .ssc or .sm files extractor\\Source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Tidek\\Desktop\\SQL analiza danych\\StepMania .ssc or .sm files extractor\\StepMania .ssc or .sm files extractor\\Source\\Main.cpp",
+              "RelativeDocumentMoniker": "StepMania .ssc or .sm files extractor\\Source\\Main.cpp",
+              "ToolTip": "C:\\Users\\Tidek\\Desktop\\SQL analiza danych\\StepMania .ssc or .sm files extractor\\StepMania .ssc or .sm files extractor\\Source\\Main.cpp",
+              "RelativeToolTip": "StepMania .ssc or .sm files extractor\\Source\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T13:22:33.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

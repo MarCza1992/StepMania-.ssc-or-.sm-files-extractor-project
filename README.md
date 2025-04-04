@@ -20,3 +20,8 @@ To make the extraction program work:
 ## Folders:
 - SQL Folder – .csv tables, data cleaning/data analysis queries and ready database in .sql files
 - PowerBI visualization Folder – visualization .pbix file and example screenshots
+
+## Change Log:
+- 04.04.2025 - changed project name to "StepMania .ssc or .sm files extractor"
+- 04.04.2025 - fixed object counting if .ssc/.sm file has number of measures in #NOTES section
+- 04.04.2025 - added support to .sm files in case there is no .ssc file (if both files are present, .ssc file is prioritized)
