@@ -4,7 +4,7 @@
 **C++, MySQL, Power BI**
 
 ## Description:
-In this project, I used my own custom packs created for the rhythm game StepMania.
+In this project, I used for database my own custom packs created for the rhythm game StepMania.
 
 The program, written in C++, extracts all necessary information from .ssc or .sm files to a ChartsData.txt and NotesData.txt files.
 An .ssc/.sm file is used in the rhythm game StepMania; in short, each individual file stores all information about a song and its corresponding chart.
@@ -13,7 +13,7 @@ In the SQL folder, you will find .csv files that were converted from .txt files 
 
 ## How does it work?
 To make the extraction program work:
-- you need to place sample StepMania packs containing .ssc files into the Packs folder: bin -> x64 -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc or/and .sm file is located)
+- you need to place sample StepMania packs containing .ssc/.sm files into the Packs folder: bin -> x64 -> Debug -> Packs -> example pack 1 -> song folder -> (this is where the .ssc or/and .sm file is located)
 - run the "StepMania .ssc/.sm files extractor.exe" and follow the instructions: bin -> x64 -> Debug folder
 - data will be saved in ChartsData.txt and NotesData.txt for future data cleaning and analysis!
 
