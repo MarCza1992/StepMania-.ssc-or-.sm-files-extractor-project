@@ -1,2 +1,1 @@
 C:\Users\Tidek\Desktop\SQL analiza danych\Wyciąganie info z .ssc\bin\Intermediates\x64\Debug\StepMani.60DC1E4E.Up2Date
-C:\Users\Tidek\Desktop\SQL analiza danych\StepMania .ssc or .sm files extractor\bin\Intermediates\x64\Debug\StepMani.60DC1E4E.Up2Date

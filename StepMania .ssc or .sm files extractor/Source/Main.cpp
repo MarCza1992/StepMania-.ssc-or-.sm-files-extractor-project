@@ -26,15 +26,16 @@ struct Chart
 	int Rolls = 0;
 	int Mines = 0;
 	string pack;
+	string type;
 };
 
 void DisplayChartsData(const vector<Chart>& baza)
 {
-	cout << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Amount_of_Notes" << "|" << "Amount_of_LongNotes" << "|" << "Amount_of_Rolls" << "|" << "Amount_of_Mines" << "Pack" << endl;
+	cout << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Amount_of_Notes" << "|" << "Amount_of_LongNotes" << "|" << "Amount_of_Rolls" << "|" << "Amount_of_Mines" << "|" << "Pack" << "|" << "Type" << endl;
 
 	for (size_t i = 0; i < baza.size(); i++)
 	{
-		cout << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].Notes << "|" << baza[i].LongNotes << "|" << baza[i].Rolls << "|" << baza[i].Mines << "|" << baza[i].pack << endl;
+		cout << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].Notes << "|" << baza[i].LongNotes << "|" << baza[i].Rolls << "|" << baza[i].Mines << "|" << baza[i].pack << "|" << baza[i].type << endl;
 	}
 	cout << endl;
 }
@@ -50,11 +51,11 @@ void SaveToChartsData(vector<Chart>& baza)
 		return;
 	}
 
-	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << endl;
+	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "Type" << endl;
 
 	for (size_t i = 0; i < baza.size(); i++)
 	{
-		plik << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].pack << endl;
+		plik << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].pack << "|" << baza[i].type << endl;
 	}
 	cout << "Data saved to ChartsData.txt!" << endl << endl;
 	plik.close();
@@ -148,7 +149,7 @@ int main()
 						plik.open(sscpath, ios::in);
 						if (!plik.is_open())
 						{
-							cout << ".ssc file not found" << endl;
+							cout << ".ssc file not found in" << ChartName << " folder" << endl;
 							return 1;
 						}
 
@@ -170,6 +171,18 @@ int main()
 								if (chart.title.find("|") != string::npos)
 								{
 									chart.title.erase(chart.title.find("|"), 1);
+								}
+							}
+
+							if (linia.find("#STEPSTYPE:") == 0)
+							{
+								if (linia.find("single") != string::npos)
+								{
+									chart.type = "single";
+								}
+								else
+								{
+									chart.type = "double";
 								}
 							}
 
@@ -462,7 +475,7 @@ int main()
 						plik.open(smpath, ios::in);
 						if (!plik.is_open())
 						{
-							cout << ".sm file not found" << endl;
+							cout << ".sm file not found in " << ChartName << " folder" << endl;
 							return 1;
 						}
 
@@ -698,6 +711,22 @@ int main()
 
 								while (getline(plik, linia))
 								{
+									if (numerlinii == 1)
+									{
+										if (linia.find("single") != string::npos)
+										{
+											chart.type = "single";
+											numerlinii++;
+											continue;
+										}
+										else
+										{
+											chart.type = "double";
+											numerlinii++;
+											continue;
+										}
+									}
+
 									if (numerlinii == 2)
 									{
 										size_t start = 5;
@@ -756,6 +785,11 @@ int main()
 								chart.Rolls = RollsAmount;
 								chart.Mines = MinesAmount;
 								chart.technotation = " ";
+
+								if (chart.charter.find_first_not_of(' ') == string::npos)
+								{
+									chart.charter = BazaChartow.back().charter;
+								}
 
 								BazaChartow.push_back(chart);
 								chart = Chart();
