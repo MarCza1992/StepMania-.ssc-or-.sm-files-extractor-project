@@ -22,6 +22,7 @@ To make the extraction program work:
 - PowerBI visualization Folder – visualization .pbix file and example screenshots
 
 ## Change Log:
+- 15.04.2025 - fixed returned BPM format to "xxx,xx" and some small fixes
 - 07.04.2025 - added new data that checks chart type (single or double) and fixed returning blank charter info for .sm files in some cases
 - 04.04.2025 - changed project name to "StepMania .ssc or .sm files extractor"
 - 04.04.2025 - fixed object counting if .ssc/.sm file has number of measures in #NOTES section

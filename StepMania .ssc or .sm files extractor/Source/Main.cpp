@@ -29,6 +29,16 @@ struct Chart
 	string type;
 };
 
+string stringconversion(float value)
+{
+	string fixedvalue = to_string(value);
+
+	fixedvalue = fixedvalue.substr(0, fixedvalue.find(".") + 3);
+	fixedvalue = fixedvalue.replace(fixedvalue.find("."), 1, ",");
+
+	return fixedvalue;
+}
+
 void DisplayChartsData(const vector<Chart>& baza)
 {
 	cout << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Amount_of_Notes" << "|" << "Amount_of_LongNotes" << "|" << "Amount_of_Rolls" << "|" << "Amount_of_Mines" << "|" << "Pack" << "|" << "Type" << endl;
@@ -51,7 +61,7 @@ void SaveToChartsData(vector<Chart>& baza)
 		return;
 	}
 
-	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "Type" << endl;
+	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "|" << "Type" << endl;
 
 	for (size_t i = 0; i < baza.size(); i++)
 	{
@@ -205,7 +215,7 @@ int main()
 							{
 								size_t start = linia.find("#SUBTITLE:") + 10;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) == ";")
+								if (linia.substr(start, 1) == ";")
 								{
 									chart.subtitle = " ";
 								}
@@ -224,7 +234,7 @@ int main()
 							{
 								size_t start = linia.find("#SUBTITLETRANSLIT:") + 18;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) != ";")
+								if (linia.substr(start, 1) != ";")
 								{
 									chart.subtitle = linia.substr(start, end - start);
 								}
@@ -251,7 +261,7 @@ int main()
 							{
 								size_t start = linia.find("#ARTISTTRANSLIT:") + 16;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) != ";")
+								if (linia.substr(start, 1) != ";")
 								{
 									chart.artist = linia.substr(start, end - start);
 								}
@@ -275,7 +285,6 @@ int main()
 									size_t start = linia.find("=") + 1;
 									size_t end = linia.length();
 									tempo = stof(linia.substr(start, end - start));
-							
 
 									while (getline(plik, linia))
 									{
@@ -317,22 +326,29 @@ int main()
 									{
 										if (MAXBPM == -1)
 										{
-											chart.BPM = to_string(MINBPM) + " - " + to_string(tempo);
+											string fixedminbpm = stringconversion(MINBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedminbpm + " - " + fixedtempo;
 										}
 										else
 										{
-											chart.BPM = to_string(tempo) + " - " + to_string(MAXBPM);
+											string fixedmaxbpm = stringconversion(MAXBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedtempo + " - " + fixedmaxbpm;
 										}
 									}
 
 									if (MAXBPM != -1 && MINBPM != -1)
 									{
-										chart.BPM = to_string(MINBPM) + " - " + to_string(MAXBPM);
+										string fixedmaxbpm = stringconversion(MAXBPM);
+										string fixedminbpm = stringconversion(MINBPM);
+										chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
 									}
 
 									if (MAXBPM == -1 && MINBPM == -1)
 									{
-										chart.BPM = to_string(tempo);
+										string fixedtempo = stringconversion(tempo);
+										chart.BPM = fixedtempo;
 									}
 									checkbpm++;
 								}
@@ -340,10 +356,14 @@ int main()
 
 							if (linia.find("#DISPLAYBPM:") == 0)
 							{
+								float MINBPM = -1;
+								float MAXBPM = -1;
+								float tempo = -1;
+
 								size_t start = linia.find("#DISPLAYBPM:") + 12;
 								size_t end = linia.length() - 1;
 
-								if (linia.substr(start, (end - start) + 1) == ";")
+								if (linia.substr(start, 1) == ";")
 								{
 									continue;
 								}
@@ -352,7 +372,17 @@ int main()
 
 								if (chart.BPM.find(":") != string::npos)
 								{
-									chart.BPM.replace(chart.BPM.find(":"), 1, " - ");
+									MINBPM = stof(chart.BPM.substr(0, chart.BPM.find(":") - 1));
+									MAXBPM = stof(chart.BPM.substr(chart.BPM.find(":") + 1, 10));
+									string fixedmaxbpm = stringconversion(MAXBPM);
+									string fixedminbpm = stringconversion(MINBPM);
+									chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+								}
+								else
+								{
+									tempo = stof(chart.BPM);
+									string fixedtempo = stringconversion(tempo);
+									chart.BPM = fixedtempo;
 								}
 							}
 
@@ -371,7 +401,7 @@ int main()
 
 								size_t start = linia.find("#DESCRIPTION:") + 13;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) != ";")
+								if (linia.substr(start, 1) != ";")
 								{
 									chart.technotation = linia.substr(start, end - start);
 								}
@@ -503,7 +533,7 @@ int main()
 							{
 								size_t start = linia.find("#TITLETRANSLIT:") + 15;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) != ";")
+								if (linia.substr(start, 1) != ";")
 								{
 									chart.title = linia.substr(start, end - start);
 								}
@@ -518,7 +548,7 @@ int main()
 							{
 								size_t start = linia.find("#SUBTITLE:") + 10;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) == ";")
+								if (linia.substr(start, 1) == ";")
 								{
 									chart.subtitle = " ";
 								}
@@ -537,7 +567,7 @@ int main()
 							{
 								size_t start = linia.find("#SUBTITLETRANSLIT:") + 18;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) != ";")
+								if (linia.substr(start, 1) != ";")
 								{
 									chart.subtitle = linia.substr(start, end - start);
 								}
@@ -564,7 +594,7 @@ int main()
 							{
 								size_t start = linia.find("#ARTISTTRANSLIT:") + 16;
 								size_t end = linia.length() - 1;
-								if (linia.substr(start, (end - start) + 1) != ";")
+								if (linia.substr(start, 1) != ";")
 								{
 									chart.artist = linia.substr(start, end - start);
 								}
@@ -577,10 +607,14 @@ int main()
 
 							if (linia.find("#DISPLAYBPM:") == 0)
 							{
+								float MINBPM = -1;
+								float MAXBPM = -1;
+								float tempo = -1;
+
 								size_t start = linia.find("#DISPLAYBPM:") + 12;
 								size_t end = linia.length() - 1;
-
-								if (linia.substr(start, (end - start) + 1) == ";")
+								
+								if (linia.substr(start, 1) == ";")
 								{
 									continue;
 								}
@@ -589,7 +623,17 @@ int main()
 
 								if (chart.BPM.find(":") != string::npos)
 								{
-									chart.BPM.replace(chart.BPM.find(":"), 1, " - ");
+									MINBPM = stof(chart.BPM.substr(0, chart.BPM.find(":") - 1));
+									MAXBPM = stof(chart.BPM.substr(chart.BPM.find(":") + 1, 10));
+									string fixedmaxbpm = stringconversion(MAXBPM);
+									string fixedminbpm = stringconversion(MINBPM);
+									chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+								}
+								else
+								{
+									tempo = stof(chart.BPM);
+									string fixedtempo = stringconversion(tempo);
+									chart.BPM = fixedtempo;
 								}
 							}
 
@@ -648,22 +692,29 @@ int main()
 									{
 										if (MAXBPM == -1)
 										{
-											chart.BPM = to_string(MINBPM) + " - " + to_string(tempo);
+											string fixedminbpm = stringconversion(MINBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedminbpm + " - " + fixedtempo;
 										}
 										else
 										{
-											chart.BPM = to_string(tempo) + " - " + to_string(MAXBPM);
+											string fixedmaxbpm = stringconversion(MAXBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedtempo + " - " + fixedmaxbpm;
 										}
 									}
 
 									if (MAXBPM != -1 && MINBPM != -1)
 									{
-										chart.BPM = to_string(MINBPM) + " - " + to_string(MAXBPM);
+										string fixedmaxbpm = stringconversion(MAXBPM);
+										string fixedminbpm = stringconversion(MINBPM);
+										chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
 									}
 
 									if (MAXBPM == -1 && MINBPM == -1)
 									{
-										chart.BPM = to_string(tempo);
+										string fixedtempo = stringconversion(tempo);
+										chart.BPM = fixedtempo;
 									}
 								}
 							}
@@ -732,7 +783,7 @@ int main()
 										size_t start = 5;
 										size_t end = linia.length() - 1;
 
-										if (linia.substr(start, (end - start) + 1) == ":")
+										if (linia.substr(start, 1) == ":")
 										{
 											numerlinii++;
 											continue;
