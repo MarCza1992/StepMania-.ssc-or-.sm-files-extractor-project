@@ -1,0 +1,46 @@
+Chart_ID|Song_Title|Song_Subtitle|Song_Artist|Song_Length|Song_BPM|Technical_Notation|Difficulty_Name|Difficulty_Rating|Step_Artist|Pack|Type
+1|BOSSY| |BABYPOWDER|119|101.000| |Beginner|1|freyja|Example Pack 1|single
+2|BOSSY| |BABYPOWDER|119|101.000| |Easy|4|freyja|Example Pack 1|single
+3|BOSSY| |BABYPOWDER|119|101.000| |Medium|6|freyja|Example Pack 1|single
+4|BOSSY| |BABYPOWDER|119|101.000| |Hard|9|freyja|Example Pack 1|single
+5|BOSSY| |BABYPOWDER|119|101.000| |Challenge|10|freyja|Example Pack 1|single
+6|BOSSY| |BABYPOWDER|119|101.000| |Challenge|10|Telperion|Example Pack 1|double
+7|It's a Dream|(Phrantic remix)|Lady Tom|153|155.000000|No Tech|Beginner|1|Tidek|Example Pack 1|single
+8|It's a Dream|(Phrantic remix)|Lady Tom|153|155.000000|No Tech|Easy|4|Tidek|Example Pack 1|single
+9|It's a Dream|(Phrantic remix)|Lady Tom|153|155.000000|XO|Medium|7|Tidek|Example Pack 1|single
+10|It's a Dream|(Phrantic remix)|Lady Tom|153|155.000000|XO BR|Hard|9|Tidek|Example Pack 1|single
+11|It's a Dream|(Phrantic remix)|Lady Tom|153|155.000000|STR BXF|Challenge|13|Tidek|Example Pack 1|single
+12|Megaton Karma| |DJ Myosuke|206|135.000000 - 270.000000|XM|Beginner|2|AltVoid|Example Pack 1|single
+13|Megaton Karma| |DJ Myosuke|206|135.000000 - 270.000000|XM|Easy|5|AltVoid|Example Pack 1|single
+14|Megaton Karma| |DJ Myosuke|206|135.000000 - 270.000000|XM|Medium|9|AltVoid|Example Pack 1|single
+15|Megaton Karma| |DJ Myosuke|206|135.000000 - 270.000000|XM STR DR|Hard|11|AltVoid|Example Pack 1|single
+16|Megaton Karma| |DJ Myosuke|206|135.000000 - 270.000000|XM BU+ JA+ XO|Challenge|15|AltVoid|Example Pack 1|single
+17|Just Dance|(Hardstyle)|puremind|150|165.000000|No Tech|Beginner|2|Tidek|Example Pack 2|single
+18|Just Dance|(Hardstyle)|puremind|150|165.000000|No Tech|Easy|5|Tidek|Example Pack 2|single
+19|Just Dance|(Hardstyle)|puremind|150|165.000000|No Tech|Medium|7|Tidek|Example Pack 2|single
+20|Just Dance|(Hardstyle)|puremind|150|165.000000|FS SS XO|Hard|9|Tidek|Example Pack 2|single
+21|Just Dance|(Hardstyle)|puremind|150|165.000000|STR BX+F|Challenge|13|arki|Example Pack 2|single
+22|Multiverse Traveler| |Laur|234|150.000 - 230.000|No Tech|Beginner|4|Tidek|Example Pack 2|single
+23|Multiverse Traveler| |Laur|234|150.000 - 230.000|XM- XO FS DS DT-|Easy|7|Tidek|Example Pack 2|single
+24|Multiverse Traveler| |Laur|234|150.000 - 230.000|XM BXF DS SJ-|Medium|10|Tidek|Example Pack 2|single
+25|Multiverse Traveler| |Laur|234|150.000 - 230.000|XM+ BXF BU+ DS SS- HS- RH-|Hard|13|Tidek|Example Pack 2|single
+26|Multiverse Traveler| |Laur|234|150.000 - 230.000|XM+ B+X+F+ BU+ DS SJ SS DT- RH-|Challenge|16|Tidek|Example Pack 2|single
+27|Shadow Bang| |DJ Myosuke|154|75.000000 - 150.000000|No Tech|Beginner|2|neyoru|Example Pack 2|single
+28|Shadow Bang| |DJ Myosuke|154|75.000000 - 150.000000|No Tech|Easy|6|neyoru|Example Pack 2|single
+29|Shadow Bang| |DJ Myosuke|154|75.000000 - 150.000000|FS+ BR|Medium|9|neyoru|Example Pack 2|single
+30|Shadow Bang| |DJ Myosuke|154|75.000000 - 150.000000|BX-F|Hard|11|neyoru|Example Pack 2|single
+31|Shadow Bang| |DJ Myosuke|154|75.000000 - 150.000000|B+X-F+ BU+ JA|Challenge|13|neyoru|Example Pack 2|single
+32|BREACH PROTOCOL| |Kurorak|155|165.000000| |Easy|7|Daikyi|Example Pack 3 (.sm file)|single
+33|BREACH PROTOCOL| |Kurorak|155|165.000000| |Medium|11| Daikyi |Example Pack 3 (.sm file)|single
+34|BREACH PROTOCOL| |Kurorak|155|165.000000| |Hard|13| Daikyi |Example Pack 3 (.sm file)|single
+35|BREACH PROTOCOL| |Kurorak|155|165.000000| |Challenge|14| Daikyi |Example Pack 3 (.sm file)|single
+36|BREACH PROTOCOL| |Kurorak|155|165.000000| |Edit|16| Daikyi |Example Pack 3 (.sm file)|single
+37|Egg Dealer| |Jun Senoue|125|140.000000| |Challenge|9|Sudzi781|Example Pack 3 (.sm file)|single
+38|Egg Dealer| |Jun Senoue|125|140.000000| |Challenge|9|Sudzi781|Example Pack 3 (.sm file)|double
+39|Egg Dealer| |Jun Senoue|125|140.000000| |Beginner|1|Sudzi781|Example Pack 3 (.sm file)|single
+40|Egg Dealer| |Jun Senoue|125|140.000000| |Easy|3|Sudzi781|Example Pack 3 (.sm file)|single
+41|Egg Dealer| |Jun Senoue|125|140.000000| |Medium|6|Sudzi781|Example Pack 3 (.sm file)|single
+42|Egg Dealer| |Jun Senoue|125|140.000000| |Hard|7|Sudzi781|Example Pack 3 (.sm file)|single
+43|Egg Dealer| |Jun Senoue|125|140.000000| |Easy|3|Easy|Example Pack 3 (.sm file)|double
+44|Egg Dealer| |Jun Senoue|125|140.000000| |Medium|6|Sudzi781|Example Pack 3 (.sm file)|double
+45|Egg Dealer| |Jun Senoue|125|140.000000| |Hard|7|Sudzi781|Example Pack 3 (.sm file)|double
