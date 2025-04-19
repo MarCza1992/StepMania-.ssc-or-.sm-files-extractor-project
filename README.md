@@ -21,7 +21,7 @@ To make the extraction program work:
 ## Folders:
 - SQL Folder – .csv tables, data cleaning/data analysis queries and ready database in .sql files
 - PowerBI visualization Folder – visualization .pbix file and example screenshots
-- VBA Folder - .bas file with excel macro (works with ChartsData.txt data)
+- VBA Folder - .bas file with excel macro (works with ChartsData.txt data) with example
 
 ## Change Log:
 - 19.04.2025 - added VBA excel macro to automate most necessary data cleaning things for data in ChartsData.txt
