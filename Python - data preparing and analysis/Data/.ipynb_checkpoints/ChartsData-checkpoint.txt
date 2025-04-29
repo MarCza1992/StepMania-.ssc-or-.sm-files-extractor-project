@@ -1,0 +1,1250 @@
+Chart_ID|Song_Title|Song_Subtitle|Song_Artist|Song_Length|Song_BPM|Technical_Notation|Difficulty_Name|Difficulty_Rating|Step_Artist|Pack|Type
+1|BACK UP| |ctrl+r with HEDDIE|125|133,00| |Beginner|1|ranatalus|Club Fantastic Season 1|single
+2|BACK UP| |ctrl+r with HEDDIE|125|133,00| |Easy|3|ranatalus|Club Fantastic Season 1|single
+3|BACK UP| |ctrl+r with HEDDIE|125|133,00| |Medium|6|ranatalus|Club Fantastic Season 1|single
+4|BACK UP| |ctrl+r with HEDDIE|125|133,00| |Hard|8|ranatalus|Club Fantastic Season 1|single
+5|BACK UP| |ctrl+r with HEDDIE|125|133,00| |Challenge|9|ranatalus|Club Fantastic Season 1|single
+6|BACK UP| |ctrl+r with HEDDIE|125|133,00| |Challenge|9|ranatalus|Club Fantastic Season 1|double
+7|BOSSY| |BABYPOWDER|119|101,00| |Beginner|1|freyja|Club Fantastic Season 1|single
+8|BOSSY| |BABYPOWDER|119|101,00| |Easy|4|freyja|Club Fantastic Season 1|single
+9|BOSSY| |BABYPOWDER|119|101,00| |Medium|6|freyja|Club Fantastic Season 1|single
+10|BOSSY| |BABYPOWDER|119|101,00| |Hard|9|freyja|Club Fantastic Season 1|single
+11|BOSSY| |BABYPOWDER|119|101,00| |Challenge|10|freyja|Club Fantastic Season 1|single
+12|BOSSY| |BABYPOWDER|119|101,00| |Challenge|10|Telperion|Club Fantastic Season 1|double
+13|Can't You Bounce!?| |team BOUNCE|131|195,00| |Beginner|3|dimo|Club Fantastic Season 1|single
+14|Can't You Bounce!?| |team BOUNCE|131|195,00| |Easy|5|dimo|Club Fantastic Season 1|single
+15|Can't You Bounce!?| |team BOUNCE|131|195,00| |Medium|9|dimo|Club Fantastic Season 1|single
+16|Can't You Bounce!?| |team BOUNCE|131|195,00| |Hard|11|dimo|Club Fantastic Season 1|single
+17|Can't You Bounce!?| |team BOUNCE|131|195,00| |Challenge|12|Telperion|Club Fantastic Season 1|single
+18|Can't You Bounce!?| |team BOUNCE|131|195,00| |Challenge|12|Sudzi781|Club Fantastic Season 1|double
+19|COOL_EXCEPTION| |Frums|133|191,00| |Challenge|14|ITGAlex|Club Fantastic Season 1|single
+20|COOL_EXCEPTION| |Frums|133|191,00| |Hard|12|ITGAlex|Club Fantastic Season 1|single
+21|COOL_EXCEPTION| |Frums|133|191,00| |Medium|9|ITGAlex|Club Fantastic Season 1|single
+22|COOL_EXCEPTION| |Frums|133|191,00| |Easy|7|ITGAlex|Club Fantastic Season 1|single
+23|COOL_EXCEPTION| |Frums|133|191,00| |Beginner|3|ITGAlex|Club Fantastic Season 1|single
+24|COOL_EXCEPTION| |Frums|133|191,00| |Challenge|14|ITGAlex|Club Fantastic Season 1|double
+25|Dysangel| |T2KAZUYA|99|170,00| |Challenge|13|Valex|Club Fantastic Season 1|single
+26|Dysangel| |T2KAZUYA|99|170,00| |Easy|5|Valex|Club Fantastic Season 1|single
+27|Dysangel| |T2KAZUYA|99|170,00| |Hard|11|Valex|Club Fantastic Season 1|single
+28|Dysangel| |T2KAZUYA|99|170,00| |Medium|8|Valex|Club Fantastic Season 1|single
+29|Dysangel| |T2KAZUYA|99|170,00| |Beginner|2|Valex|Club Fantastic Season 1|single
+30|Dysangel| |T2KAZUYA|99|170,00| |Challenge|13|T.Swag|Club Fantastic Season 1|double
+31|Fantastic World| |Quad Star System|106|128,00|XO FS SJ 24ths 32nds|Challenge|10|Benpai|Club Fantastic Season 1|single
+32|Fantastic World| |Quad Star System|106|128,00| |Hard|8|Benpai|Club Fantastic Season 1|single
+33|Fantastic World| |Quad Star System|106|128,00| |Medium|5|Benpai|Club Fantastic Season 1|single
+34|Fantastic World| |Quad Star System|106|128,00| |Easy|2|Benpai|Club Fantastic Season 1|single
+35|Fantastic World| |Quad Star System|106|128,00| |Beginner|1|Benpai|Club Fantastic Season 1|single
+36|Fantastic World| |Quad Star System|106|128,00| |Challenge|10|ITGAlex|Club Fantastic Season 1|double
+37|Horsepower| |Verve|124|150,00| |Beginner|2|dimo|Club Fantastic Season 1|single
+38|Horsepower| |Verve|124|150,00| |Easy|4|dimo|Club Fantastic Season 1|single
+39|Horsepower| |Verve|124|150,00| |Medium|7|dimo|Club Fantastic Season 1|single
+40|Horsepower| |Verve|124|150,00| |Hard|9|dimo|Club Fantastic Season 1|single
+41|Horsepower| |Verve|124|150,00| |Challenge|10|Telperion|Club Fantastic Season 1|single
+42|Horsepower| |Verve|124|150,00| |Challenge|10|-74-|Club Fantastic Season 1|double
+43|Melody Mountain| |Ohayo Rivers|130|210,00| |Challenge|11|Ben Madsen|Club Fantastic Season 1|single
+44|Melody Mountain| |Ohayo Rivers|130|210,00| |Hard|9|Ben Madsen|Club Fantastic Season 1|single
+45|Melody Mountain| |Ohayo Rivers|130|210,00| |Medium|7|Ben Madsen|Club Fantastic Season 1|single
+46|Melody Mountain| |Ohayo Rivers|130|210,00| |Easy|4|Ben Madsen|Club Fantastic Season 1|single
+47|Melody Mountain| |Ohayo Rivers|130|210,00| |Beginner|1|Ben Madsen|Club Fantastic Season 1|single
+48|Melody Mountain| |Ohayo Rivers|130|210,00| |Challenge|11|-74-|Club Fantastic Season 1|double
+49|Oceania 909| |xaimus|261|138,00| |Beginner|8|Rems|Club Fantastic Season 1|single
+50|Oceania 909| |xaimus|261|138,00|Rems (no stream)|Easy|9|Rems|Club Fantastic Season 1|single
+51|Oceania 909| |xaimus|261|138,00|Rems 2-2-2-2/8|Medium|10|Rems|Club Fantastic Season 1|single
+52|Oceania 909| |xaimus|261|138,00|Rems 8/16/16|Hard|11|Rems|Club Fantastic Season 1|single
+53|Oceania 909| |xaimus|261|138,00|Rems 17/32/3-32|Challenge|12|Rems|Club Fantastic Season 1|single
+54|Oceania 909| |xaimus|261|138,00| |Challenge|12|T. Swag|Club Fantastic Season 1|double
+55|Roadman| |MegaSphere|128|150,00| |Beginner|1|Chief Skittles|Club Fantastic Season 1|single
+56|Roadman| |MegaSphere|128|150,00| |Easy|4|Chief Skittles|Club Fantastic Season 1|single
+57|Roadman| |MegaSphere|128|150,00| |Medium|7|Chief Skittles|Club Fantastic Season 1|single
+58|Roadman| |MegaSphere|128|150,00| |Hard|9|Chief Skittles|Club Fantastic Season 1|single
+59|Roadman| |MegaSphere|128|150,00| |Challenge|11|Chief Skittles|Club Fantastic Season 1|single
+60|Roadman| |MegaSphere|128|150,00| |Challenge|11|ITGAlex|Club Fantastic Season 1|double
+61|Shoes|(Club Fantastic Edit)|Tee Lopes|111|117,00| |Challenge|10|Snooze|Club Fantastic Season 1|single
+62|Shoes|(Club Fantastic Edit)|Tee Lopes|111|117,00| |Hard|9|Snooze|Club Fantastic Season 1|single
+63|Shoes|(Club Fantastic Edit)|Tee Lopes|111|117,00| |Medium|6|Snooze|Club Fantastic Season 1|single
+64|Shoes|(Club Fantastic Edit)|Tee Lopes|111|117,00| |Easy|3|Snooze|Club Fantastic Season 1|single
+65|Shoes|(Club Fantastic Edit)|Tee Lopes|111|117,00| |Beginner|1|Snooze|Club Fantastic Season 1|single
+66|Shoes|(Club Fantastic Edit)|Tee Lopes|111|117,00| |Challenge|10|Telperion|Club Fantastic Season 1|double
+67|Six Million| |Verve|135|150,00| |Beginner|2|dimo|Club Fantastic Season 1|single
+68|Six Million| |Verve|135|150,00| |Easy|4|dimo|Club Fantastic Season 1|single
+69|Six Million| |Verve|135|150,00| |Medium|8|dimo|Club Fantastic Season 1|single
+70|Six Million| |Verve|135|150,00| |Hard|11|dimo|Club Fantastic Season 1|single
+71|Six Million| |Verve|135|150,00|FS+++ BR 20ths|Challenge|13|dimo|Club Fantastic Season 1|single
+72|Six Million| |Verve|135|150,00| |Challenge|13|Valex|Club Fantastic Season 1|double
+73|Wandering (VIP)| |A_Rival|135|174,00| |Challenge|10|ITGAlex|Club Fantastic Season 1|single
+74|Wandering (VIP)| |A_Rival|135|174,00| |Hard|8|ITGAlex|Club Fantastic Season 1|single
+75|Wandering (VIP)| |A_Rival|135|174,00| |Medium|6|ITGAlex|Club Fantastic Season 1|single
+76|Wandering (VIP)| |A_Rival|135|174,00| |Easy|4|ITGAlex|Club Fantastic Season 1|single
+77|Wandering (VIP)| |A_Rival|135|174,00| |Beginner|1|ITGAlex|Club Fantastic Season 1|single
+78|Wandering (VIP)| |A_Rival|135|174,00| |Challenge|11|ITGAlex|Club Fantastic Season 1|double
+79|Y.E.A.H.| |ÆSC|128|150,00| |Beginner|2|Feraligatr|Club Fantastic Season 1|single
+80|Y.E.A.H.| |ÆSC|128|150,00| |Easy|5|Feraligatr|Club Fantastic Season 1|single
+81|Y.E.A.H.| |ÆSC|128|150,00| |Medium|8|Feraligatr|Club Fantastic Season 1|single
+82|Y.E.A.H.| |ÆSC|128|150,00| |Hard|10|Feraligatr|Club Fantastic Season 1|single
+83|Y.E.A.H.| |ÆSC|128|150,00| |Challenge|11|Feraligatr|Club Fantastic Season 1|single
+84|Y.E.A.H.| |ÆSC|128|150,00| |Challenge|12|Telperion|Club Fantastic Season 1|double
+85|Adore| |Rhythmics|152|180,00| |Beginner|4|bluechows|Club Fantastic Season 2|single
+86|Adore| |Rhythmics|152|180,00| |Easy|7|bluechows|Club Fantastic Season 2|single
+87|Adore| |Rhythmics|152|180,00| |Medium|9|bluechows|Club Fantastic Season 2|single
+88|Adore| |Rhythmics|152|180,00| |Hard|11|drun & bkirz|Club Fantastic Season 2|single
+89|Adore| |Rhythmics|152|180,00| |Challenge|13|drun & bkirz|Club Fantastic Season 2|single
+90|Adore| |Rhythmics|152|180,00| |Challenge|12|WinDEU|Club Fantastic Season 2|double
+91|Artifacts| |Adrian Alexander|356|138,00| |Beginner|9|Rems|Club Fantastic Season 2|single
+92|Artifacts| |Adrian Alexander|356|138,00| |Easy|10|Rems|Club Fantastic Season 2|single
+93|Artifacts| |Adrian Alexander|356|138,00| |Medium|11|Rems 1414|Club Fantastic Season 2|single
+94|Artifacts| |Adrian Alexander|356|138,00| |Hard|12|Rems 36*/14/14/16|Club Fantastic Season 2|single
+95|Artifacts| |Adrian Alexander|356|138,00| |Challenge|13|Rems 64*/38*/40*|Club Fantastic Season 2|single
+96|Artifacts| |Adrian Alexander|356|138,00|T. Swag  (64*46*/*40*)|Challenge|13|T. Swag|Club Fantastic Season 2|double
+97|Artifacts| |Adrian Alexander|356|138,00|T. Swag  (48*34*/17)|Hard|12|T. Swag|Club Fantastic Season 2|double
+98|Artifacts| |Adrian Alexander|356|138,00|T. Swag  (4/*1614)|Medium|11|T. Swag|Club Fantastic Season 2|double
+99|Artifacts| |Adrian Alexander|356|138,00| |Easy|10|T. Swag|Club Fantastic Season 2|double
+100|Beachside Photoshoot| |Snooze|133|140,00| |Medium|6|Snooze|Club Fantastic Season 2|single
+101|Beachside Photoshoot| |Snooze|133|140,00| |Hard|9|Snooze|Club Fantastic Season 2|single
+102|Beachside Photoshoot| |Snooze|133|140,00| |Challenge|12|Snooze|Club Fantastic Season 2|single
+103|Beachside Photoshoot| |Snooze|133|140,00| |Easy|3|warpdrive|Club Fantastic Season 2|double
+104|Beachside Photoshoot| |Snooze|133|140,00| |Medium|5|warpdrive|Club Fantastic Season 2|double
+105|Beachside Photoshoot| |Snooze|133|140,00| |Hard|9|warpdrive|Club Fantastic Season 2|double
+106|Beachside Photoshoot| |Snooze|133|140,00| |Challenge|12|ITGAlex|Club Fantastic Season 2|double
+107|Beachside Photoshoot| |Snooze|133|140,00| |Easy|5|ranatalus|Club Fantastic Season 2|single
+108|Beachside Photoshoot| |Snooze|133|140,00| |Beginner|3|ranatalus|Club Fantastic Season 2|single
+109|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Challenge|12|Valex|Club Fantastic Season 2|single
+110|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Hard|9|Valex|Club Fantastic Season 2|single
+111|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Medium|6|Valex|Club Fantastic Season 2|single
+112|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Easy|3|Valex|Club Fantastic Season 2|single
+113|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Beginner|1|Valex|Club Fantastic Season 2|single
+114|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Challenge|12|WinDEU|Club Fantastic Season 2|double
+115|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Hard|10|WinDEU|Club Fantastic Season 2|double
+116|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Medium|7|WinDEU|Club Fantastic Season 2|double
+117|BOSSY|(Jorts Speedy Mix)|BABYPOWDER|130|131,00| |Easy|4|WinDEU|Club Fantastic Season 2|double
+118|demonstration protocol| |MachineAge|125|130,00| |Hard|10|Telperion|Club Fantastic Season 2|single
+119|demonstration protocol| |MachineAge|125|130,00| |Challenge|12|-74-|Club Fantastic Season 2|single
+120|demonstration protocol| |MachineAge|125|130,00| |Challenge|12|WinDEU|Club Fantastic Season 2|double
+121|demonstration protocol| |MachineAge|125|130,00| |Hard|10|WinDEU|Club Fantastic Season 2|double
+122|demonstration protocol| |MachineAge|125|130,00| |Medium|7|WinDEU|Club Fantastic Season 2|double
+123|demonstration protocol| |MachineAge|125|130,00| |Easy|4|WinDEU|Club Fantastic Season 2|double
+124|demonstration protocol| |MachineAge|125|130,00| |Medium|6|ranatalus|Club Fantastic Season 2|single
+125|demonstration protocol| |MachineAge|125|130,00| |Easy|4|ranatalus|Club Fantastic Season 2|single
+126|demonstration protocol| |MachineAge|125|130,00| |Beginner|1|ranatalus|Club Fantastic Season 2|single
+127|DNA| |Voia feat. Slyleaf|126|126,00| |Challenge|10|CopperPuppy|Club Fantastic Season 2|single
+128|DNA| |Voia feat. Slyleaf|126|126,00| |Hard|7|CopperPuppy|Club Fantastic Season 2|single
+129|DNA| |Voia feat. Slyleaf|126|126,00| |Medium|5|CopperPuppy|Club Fantastic Season 2|single
+130|DNA| |Voia feat. Slyleaf|126|126,00| |Easy|3|CopperPuppy|Club Fantastic Season 2|single
+131|DNA| |Voia feat. Slyleaf|126|126,00| |Beginner|1|CopperPuppy|Club Fantastic Season 2|single
+132|DNA| |Voia feat. Slyleaf|126|126,00| |Challenge|10|telpatalus|Club Fantastic Season 2|double
+133|Oceania 909|(T2KAZUYA Remix)|xaimus|124|170,00| |Challenge|11|ITGAlex|Club Fantastic Season 2|single
+134|Oceania 909|(T2KAZUYA Remix)|xaimus|124|170,00| |Hard|9|ITGAlex|Club Fantastic Season 2|single
+135|Oceania 909|(T2KAZUYA Remix)|xaimus|124|170,00| |Medium|6|ITGAlex|Club Fantastic Season 2|single
+136|Oceania 909|(T2KAZUYA Remix)|xaimus|124|170,00| |Easy|3|ITGAlex|Club Fantastic Season 2|single
+137|Oceania 909|(T2KAZUYA Remix)|xaimus|124|170,00| |Beginner|1|ITGAlex|Club Fantastic Season 2|single
+138|Oceania 909|(T2KAZUYA Remix)|xaimus|124|170,00| |Challenge|11|ITGAlex|Club Fantastic Season 2|double
+139|POT| |Tee Lopes & Dylan James|123|126,00| |Beginner|3|dimo|Club Fantastic Season 2|single
+140|POT| |Tee Lopes & Dylan James|123|126,00| |Easy|5|dimo|Club Fantastic Season 2|single
+141|POT| |Tee Lopes & Dylan James|123|126,00| |Medium|8|dimo|Club Fantastic Season 2|single
+142|POT| |Tee Lopes & Dylan James|123|126,00| |Hard|11|Telperion|Club Fantastic Season 2|single
+143|POT| |Tee Lopes & Dylan James|123|126,00| |Challenge|12|dimo & ITGAlex|Club Fantastic Season 2|single
+144|POT| |Tee Lopes & Dylan James|123|126,00| |Easy|3|warpdrive|Club Fantastic Season 2|double
+145|POT| |Tee Lopes & Dylan James|123|126,00| |Medium|5|warpdrive|Club Fantastic Season 2|double
+146|POT| |Tee Lopes & Dylan James|123|126,00| |Hard|7|warpdrive|Club Fantastic Season 2|double
+147|POT| |Tee Lopes & Dylan James|123|126,00| |Challenge|11|Telperion|Club Fantastic Season 2|double
+148|Save New Jersey| |Save New Jersey|134|160,00| |Beginner|4|dimo|Club Fantastic Season 2|single
+149|Save New Jersey| |Save New Jersey|134|160,00| |Easy|6|dimo|Club Fantastic Season 2|single
+150|Save New Jersey| |Save New Jersey|134|160,00| |Medium|8|ATB|Club Fantastic Season 2|single
+151|Save New Jersey| |Save New Jersey|134|160,00| |Hard|10|ATB|Club Fantastic Season 2|single
+152|Save New Jersey| |Save New Jersey|134|160,00| |Challenge|13|ATB|Club Fantastic Season 2|single
+153|Save New Jersey| |Save New Jersey|134|160,00| |Easy|4|warpdrive|Club Fantastic Season 2|double
+154|Save New Jersey| |Save New Jersey|134|160,00| |Medium|8|warpdrive|Club Fantastic Season 2|double
+155|Save New Jersey| |Save New Jersey|134|160,00| |Hard|10|warpdrive|Club Fantastic Season 2|double
+156|Save New Jersey| |Save New Jersey|134|160,00| |Challenge|12|-74-|Club Fantastic Season 2|double
+157|Singularity| |Jorts|133|147,00| |Beginner|2|warpdrive|Club Fantastic Season 2|single
+158|Singularity| |Jorts|133|147,00| |Easy|5|warpdrive|Club Fantastic Season 2|single
+159|Singularity| |Jorts|133|147,00| |Medium|7|warpdrive|Club Fantastic Season 2|single
+160|Singularity| |Jorts|133|147,00| |Hard|10|warpdrive|Club Fantastic Season 2|single
+161|Singularity| |Jorts|133|147,00| |Challenge|13|warpdrive|Club Fantastic Season 2|single
+162|Singularity| |Jorts|133|147,00| |Challenge|12|Telperion|Club Fantastic Season 2|double
+163|SSS| |Maxo|129|180,00| |Challenge|12|Benpai|Club Fantastic Season 2|single
+164|SSS| |Maxo|129|180,00| |Hard|11|Benpai|Club Fantastic Season 2|single
+165|SSS| |Maxo|129|180,00| |Medium|7|LEISHEN.|Club Fantastic Season 2|single
+166|SSS| |Maxo|129|180,00| |Easy|5|LEISHEN.|Club Fantastic Season 2|single
+167|SSS| |Maxo|129|180,00| |Beginner|3|LEISHEN.|Club Fantastic Season 2|single
+168|SSS| |Maxo|129|180,00| |Challenge|12|WinDEU|Club Fantastic Season 2|double
+169|Step It| |Shirobon|131|174,00| |Challenge|12|Sudzi781|Club Fantastic Season 2|single
+170|Step It| |Shirobon|131|174,00| |Challenge|12|bluechows|Club Fantastic Season 2|double
+171|Step It| |Shirobon|131|174,00| |Hard|11|bluechows|Club Fantastic Season 2|single
+172|Step It| |Shirobon|131|174,00| |Medium|9|bluechows|Club Fantastic Season 2|single
+173|Step It| |Shirobon|131|174,00| |Easy|5|bluechows|Club Fantastic Season 2|single
+174|Step It| |Shirobon|131|174,00| |Beginner|3|Telperion|Club Fantastic Season 2|single
+175|Succulynt| |coda|129|105,00| |Beginner|1|warpdrive|Club Fantastic Season 2|single
+176|Succulynt| |coda|129|105,00| |Easy|3|warpdrive|Club Fantastic Season 2|single
+177|Succulynt| |coda|129|105,00| |Medium|7|warpdrive|Club Fantastic Season 2|single
+178|Succulynt| |coda|129|105,00| |Hard|9|D. Vogan|Club Fantastic Season 2|single
+179|Succulynt| |coda|129|105,00| |Challenge|11|D. Vogan|Club Fantastic Season 2|single
+180|SWEETHEART| |Synthion|133|180,05| |Hard|9|ranatalus|Club Fantastic Season 2|single
+181|SWEETHEART| |Synthion|133|180,05| |Medium|6|ranatalus|Club Fantastic Season 2|single
+182|SWEETHEART| |Synthion|133|180,05| |Easy|4|ranatalus|Club Fantastic Season 2|single
+183|SWEETHEART| |Synthion|133|180,05| |Beginner|2|ranatalus|Club Fantastic Season 2|single
+184|SWEETHEART| |Synthion|133|180,05| |Challenge|11|Valex|Club Fantastic Season 2|single
+185|SWEETHEART| |Synthion|133|180,05| |Medium|7|ranatalus|Club Fantastic Season 2|double
+186|SWEETHEART| |Synthion|133|180,05| |Hard|10|ranatalus|Club Fantastic Season 2|double
+187|SWEETHEART| |Synthion|133|180,05| |Easy|4|ranatalus|Club Fantastic Season 2|double
+188|SWEETHEART| |Synthion|133|180,05| |Challenge|11|Telperion|Club Fantastic Season 2|double
+189|TerpZone| |Lindsay Lowend|149|138,00| |Challenge|10|-74-|Club Fantastic Season 2|double
+190|TerpZone| |Lindsay Lowend|149|138,00| |Challenge|10|B. Kirzhner|Club Fantastic Season 2|single
+191|TerpZone| |Lindsay Lowend|149|138,00| |Beginner|1|B. Kirzhner|Club Fantastic Season 2|single
+192|TerpZone| |Lindsay Lowend|149|138,00| |Hard|8|B. Kirzhner|Club Fantastic Season 2|single
+193|TerpZone| |Lindsay Lowend|149|138,00| |Easy|4|B. Kirzhner|Club Fantastic Season 2|single
+194|TerpZone| |Lindsay Lowend|149|138,00| |Medium|7|B. Kirzhner|Club Fantastic Season 2|single
+195|We Can Bounce!!| |team BOUNCE|123|195,00| |Challenge|13|H. Felker|Club Fantastic Season 2|single
+196|We Can Bounce!!| |team BOUNCE|123|195,00| |Hard|11|H. Felker|Club Fantastic Season 2|single
+197|We Can Bounce!!| |team BOUNCE|123|195,00| |Medium|9|H. Felker|Club Fantastic Season 2|single
+198|We Can Bounce!!| |team BOUNCE|123|195,00| |Easy|7|H. Felker|Club Fantastic Season 2|single
+199|We Can Bounce!!| |team BOUNCE|123|195,00| |Challenge|12|WinDEU|Club Fantastic Season 2|double
+200|We Can Bounce!!| |team BOUNCE|123|195,00| |Hard|9|WinDEU|Club Fantastic Season 2|double
+201|We Can Bounce!!| |team BOUNCE|123|195,00| |Medium|7|WinDEU|Club Fantastic Season 2|double
+202|We Can Bounce!!| |team BOUNCE|123|195,00| |Easy|5|WinDEU|Club Fantastic Season 2|double
+203|We Can Bounce!!| |team BOUNCE|123|195,00| |Beginner|4|ranatalus|Club Fantastic Season 2|single
+204|Wipeout| |Verve|110|150,00| |Challenge|12|bluechows|Club Fantastic Season 2|single
+205|Wipeout| |Verve|110|150,00| |Hard|10|bluechows|Club Fantastic Season 2|single
+206|Wipeout| |Verve|110|150,00| |Beginner|3|bluechows|Club Fantastic Season 2|single
+207|Wipeout| |Verve|110|150,00| |Easy|5|bluechows|Club Fantastic Season 2|single
+208|Wipeout| |Verve|110|150,00| |Medium|8|bluechows|Club Fantastic Season 2|single
+209|Wipeout| |Verve|110|150,00| |Challenge|11|WinDEU|Club Fantastic Season 2|double
+210|Wipeout| |Verve|110|150,00| |Hard|10|WinDEU|Club Fantastic Season 2|double
+211|Wipeout| |Verve|110|150,00| |Medium|7|WinDEU|Club Fantastic Season 2|double
+212|Wipeout| |Verve|110|150,00| |Easy|4|WinDEU|Club Fantastic Season 2|double
+213|WRVTH| |MegaSphere|127|220,00| |Beginner|4|Chief Skittles|Club Fantastic Season 2|single
+214|WRVTH| |MegaSphere|127|220,00| |Easy|6|Chief Skittles|Club Fantastic Season 2|single
+215|WRVTH| |MegaSphere|127|220,00| |Medium|8|Chief Skittles|Club Fantastic Season 2|single
+216|WRVTH| |MegaSphere|127|220,00| |Hard|11|Chief Skittles|Club Fantastic Season 2|single
+217|WRVTH| |MegaSphere|127|220,00| |Challenge|13|Chief Skittles & MegaSphere|Club Fantastic Season 2|single
+218|WRVTH| |MegaSphere|127|220,00| |Easy|8|H. Felker|Club Fantastic Season 2|double
+219|WRVTH| |MegaSphere|127|220,00| |Medium|10|H. Felker|Club Fantastic Season 2|double
+220|WRVTH| |MegaSphere|127|220,00| |Hard|12|H. Felker|Club Fantastic Season 2|double
+221|WRVTH| |MegaSphere|127|220,00| |Challenge|14|H. Felker|Club Fantastic Season 2|double
+222|Addicted| |Redsign|151|132,00| |Beginner|3|Exschwasion|Egg Carton|single
+223|Addicted| |Redsign|151|132,00| |Easy|5|Exschwasion|Egg Carton|single
+224|Addicted| |Redsign|151|132,00|FS+|Medium|7|Exschwasion|Egg Carton|single
+225|Addicted| |Redsign|151|132,00|FS RH-|Hard|9|Exschwasion|Egg Carton|single
+226|Addicted| |Redsign|151|132,00|FS+ BR DS Rolls MD- RH- |Challenge|11|Exschwasion|Egg Carton|single
+227|Assault TAXI| |∀S∀|150|154,00| |Beginner|2|Exschwasion|Egg Carton|single
+228|Assault TAXI| |∀S∀|150|154,00| |Easy|4|Exschwasion|Egg Carton|single
+229|Assault TAXI| |∀S∀|150|154,00|XO-|Medium|8|Exschwasion|Egg Carton|single
+230|Assault TAXI| |∀S∀|150|154,00|FS XO|Hard|11|Exschwasion|Egg Carton|single
+231|Assault TAXI| |∀S∀|150|154,00|FS+ XO+ SS BR-|Challenge|12|Exschwasion|Egg Carton|single
+232|B WiZ U| |Getty|136|175,00| |Beginner|2|Exschwasion|Egg Carton|single
+233|B WiZ U| |Getty|136|175,00| |Easy|5|Exschwasion|Egg Carton|single
+234|B WiZ U| |Getty|136|175,00|XO-|Medium|8|Exschwasion|Egg Carton|single
+235|B WiZ U| |Getty|136|175,00|FS XO-|Hard|11|Exschwasion|Egg Carton|single
+236|B WiZ U| |Getty|136|175,00|FS+ SS BR DS-|Challenge|13|Exschwasion|Egg Carton|single
+237|Bak Snap| |Foxsky|116|130,00| |Beginner|2|Exschwasion|Egg Carton|single
+238|Bak Snap| |Foxsky|116|130,00| |Easy|4|Exschwasion|Egg Carton|single
+239|Bak Snap| |Foxsky|116|130,00|BR|Medium|8|Exschwasion|Egg Carton|single
+240|Bak Snap| |Foxsky|116|130,00|BR++|Hard|11|Exschwasion|Egg Carton|single
+241|Bak Snap| |Foxsky|116|130,00|BR++ FS+|Challenge|12|Exschwasion|Egg Carton|single
+242|Blanoir| |Aoi|146|202,00| |Beginner|3|Exschwasion|Egg Carton|single
+243|Blanoir| |Aoi|146|202,00| |Easy|6|Exschwasion|Egg Carton|single
+244|Blanoir| |Aoi|146|202,00| |Medium|9|Exschwasion|Egg Carton|single
+245|Blanoir| |Aoi|146|202,00|BR XO|Hard|11|Exschwasion|Egg Carton|single
+246|Blanoir| |Aoi|146|202,00|FS BR XO-|Challenge|14|Exschwasion|Egg Carton|single
+247|Cat's Rule|(The Feline Overlord Ver.)|chilldive|133|120,00| |Beginner|1|Exschwasion|Egg Carton|single
+248|Cat's Rule|(The Feline Overlord Ver.)|chilldive|133|120,00| |Easy|4|Exschwasion|Egg Carton|single
+249|Cat's Rule|(The Feline Overlord Ver.)|chilldive|133|120,00| |Medium|7|Exschwasion|Egg Carton|single
+250|Cat's Rule|(The Feline Overlord Ver.)|chilldive|133|120,00| |Hard|9|Exschwasion|Egg Carton|single
+251|Cat's Rule|(The Feline Overlord Ver.)|chilldive|133|120,00|BU+ RH BR JA|Challenge|11|Exschwasion|Egg Carton|single
+252|CUE CUE RESCUE| |TORIENA|109|160,00| |Beginner|1|Exschwasion|Egg Carton|single
+253|CUE CUE RESCUE| |TORIENA|109|160,00| |Easy|4|Exschwasion|Egg Carton|single
+254|CUE CUE RESCUE| |TORIENA|109|160,00| |Medium|7|Exschwasion|Egg Carton|single
+255|CUE CUE RESCUE| |TORIENA|109|160,00|FS|Hard|10|Exschwasion|Egg Carton|single
+256|CUE CUE RESCUE| |TORIENA|109|160,00|Rolls FS BR DS-|Challenge|12|Exschwasion|Egg Carton|single
+257|CUE CUE RESCUE| |TORIENA|109|160,00|Rolls FS+ BR DS-|Edit|12|Exschwasion|Egg Carton|single
+258|Darling Dance| |Kairiki Bear feat. Hatsune Miku|102|153,00| |Beginner|1|Exschwasion|Egg Carton|single
+259|Darling Dance| |Kairiki Bear feat. Hatsune Miku|102|153,00| |Easy|4|Exschwasion|Egg Carton|single
+260|Darling Dance| |Kairiki Bear feat. Hatsune Miku|102|153,00| |Medium|8|Exschwasion|Egg Carton|single
+261|Darling Dance| |Kairiki Bear feat. Hatsune Miku|102|153,00|XO-|Hard|9|Exschwasion|Egg Carton|single
+262|Darling Dance| |Kairiki Bear feat. Hatsune Miku|102|153,00|FS XO-|Challenge|10|Exschwasion|Egg Carton|single
+263|Denki Yohou| |Inabakumori feat. Hatsune Miku|149|166,00| |Beginner|2|Exschwasion|Egg Carton|single
+264|Denki Yohou| |Inabakumori feat. Hatsune Miku|149|166,00| |Easy|4|Exschwasion|Egg Carton|single
+265|Denki Yohou| |Inabakumori feat. Hatsune Miku|149|166,00| |Medium|6|Exschwasion|Egg Carton|single
+266|Denki Yohou| |Inabakumori feat. Hatsune Miku|149|166,00| |Hard|8|Exschwasion|Egg Carton|single
+267|Denki Yohou| |Inabakumori feat. Hatsune Miku|149|166,00|XO DS JA|Challenge|9|Exschwasion|Egg Carton|single
+268|Force Buy| |Drumatic Sequencer|126|105,00| |Beginner|1|Exschwasion|Egg Carton|single
+269|Force Buy| |Drumatic Sequencer|126|105,00| |Easy|3|Exschwasion|Egg Carton|single
+270|Force Buy| |Drumatic Sequencer|126|105,00| |Medium|6|Exschwasion|Egg Carton|single
+271|Force Buy| |Drumatic Sequencer|126|105,00|JA|Hard|10|Exschwasion|Egg Carton|single
+272|Force Buy| |Drumatic Sequencer|126|105,00|JA+ BU DS SJ-|Challenge|11|Exschwasion|Egg Carton|single
+273|Get The 1,000,000| |Yooh|125|128,00| |Beginner|1|Exschwasion|Egg Carton|single
+274|Get The 1,000,000| |Yooh|125|128,00| |Easy|3|Exschwasion|Egg Carton|single
+275|Get The 1,000,000| |Yooh|125|128,00| |Medium|7|Exschwasion|Egg Carton|single
+276|Get The 1,000,000| |Yooh|125|128,00|CT+|Hard|8|Exschwasion|Egg Carton|single
+277|Get The 1,000,000| |Yooh|125|128,00|CT+ FS DS|Challenge|11|Exschwasion|Egg Carton|single
+278|Glooorious!! (MYUKKE. REMIX)| |翡乃イスカ vs. s-don|151|128,00 - 180,00| |Beginner|2|Exschwasion|Egg Carton|single
+279|Glooorious!! (MYUKKE. REMIX)| |翡乃イスカ vs. s-don|151|128,00 - 180,00| |Easy|4|Exschwasion|Egg Carton|single
+280|Glooorious!! (MYUKKE. REMIX)| |翡乃イスカ vs. s-don|151|128,00 - 180,00|XO-|Medium|8|Exschwasion|Egg Carton|single
+281|Glooorious!! (MYUKKE. REMIX)| |翡乃イスカ vs. s-don|151|128,00 - 180,00|BR XO FS|Hard|11|Exschwasion|Egg Carton|single
+282|Glooorious!! (MYUKKE. REMIX)| |翡乃イスカ vs. s-don|151|128,00 - 180,00|BR+ FS XO BU |Challenge|13|Exschwasion|Egg Carton|single
+283|HYPER SAMPLER|(BilliumMoto Remix)|EmoCosine|142|160,00| |Beginner|1|Exschwasion|Egg Carton|single
+284|HYPER SAMPLER|(BilliumMoto Remix)|EmoCosine|142|160,00| |Easy|4|Exschwasion|Egg Carton|single
+285|HYPER SAMPLER|(BilliumMoto Remix)|EmoCosine|142|160,00| |Medium|8|Exschwasion|Egg Carton|single
+286|HYPER SAMPLER|(BilliumMoto Remix)|EmoCosine|142|160,00|FS DS-|Hard|10|Exschwasion|Egg Carton|single
+287|HYPER SAMPLER|(BilliumMoto Remix)|EmoCosine|142|160,00|BR FS XO BU- BT-|Challenge|12|Exschwasion|Egg Carton|single
+288|If It's Silent| |ARForest|123|155,00| |Beginner|2|Exschwasion|Egg Carton|single
+289|If It's Silent| |ARForest|123|155,00| |Easy|4|Exschwasion|Egg Carton|single
+290|If It's Silent| |ARForest|123|155,00| |Medium|8|Exschwasion|Egg Carton|single
+291|If It's Silent| |ARForest|123|155,00|FS BR|Hard|11|Exschwasion|Egg Carton|single
+292|If It's Silent| |ARForest|123|155,00|FS+ SS+ BR+|Challenge|13|Exschwasion|Egg Carton|single
+293|Just Accept| |pengaton|135|160,00| |Beginner|1|Exschwasion|Egg Carton|single
+294|Just Accept| |pengaton|135|160,00| |Easy|4|Exschwasion|Egg Carton|single
+295|Just Accept| |pengaton|135|160,00| |Medium|7|Exschwasion|Egg Carton|single
+296|Just Accept| |pengaton|135|160,00|FS+ DS|Hard|10|Exschwasion|Egg Carton|single
+297|Just Accept| |pengaton|135|160,00|FS+ SS XO DS|Challenge|11|Exschwasion|Egg Carton|single
+298|Levitate| |PODA|121|132,00| |Beginner|2|Exschwasion|Egg Carton|single
+299|Levitate| |PODA|121|132,00| |Easy|4|Exschwasion|Egg Carton|single
+300|Levitate| |PODA|121|132,00|FS MD-|Medium|8|Exschwasion|Egg Carton|single
+301|Levitate| |PODA|121|132,00|BR+ FS MD-|Hard|10|Exschwasion|Egg Carton|single
+302|Levitate| |PODA|121|132,00|BR++ FS MD-|Challenge|11|Exschwasion|Egg Carton|single
+303|Levitate| |PODA|121|132,00|BR++ SS+ FS Lifts-|Edit|12|Exschwasion|Egg Carton|single
+304|Lights| |Aiyru|134|160,00| |Beginner|2|Exschwasion|Egg Carton|single
+305|Lights| |Aiyru|134|160,00| |Easy|4|Exschwasion|Egg Carton|single
+306|Lights| |Aiyru|134|160,00| |Medium|8|Exschwasion|Egg Carton|single
+307|Lights| |Aiyru|134|160,00| |Hard|11|Exschwasion|Egg Carton|single
+308|Lights| |Aiyru|134|160,00|FS Rolls|Challenge|12|Exschwasion|Egg Carton|single
+309|LYD| |Ruxxi & reeload|137|132,00| |Beginner|1|Exschwasion|Egg Carton|single
+310|LYD| |Ruxxi & reeload|137|132,00| |Easy|3|Exschwasion|Egg Carton|single
+311|LYD| |Ruxxi & reeload|137|132,00|XO|Medium|7|Exschwasion|Egg Carton|single
+312|LYD| |Ruxxi & reeload|137|132,00|XO|Hard|9|Exschwasion|Egg Carton|single
+313|LYD| |Ruxxi & reeload|137|132,00|FS DS XO|Challenge|11|Exschwasion|Egg Carton|single
+314|MAXRAGE|[Extended]|EBIMAYO|126|222,00| |Beginner|3|Exschwasion|Egg Carton|single
+315|MAXRAGE|[Extended]|EBIMAYO|126|222,00| |Easy|6|Exschwasion|Egg Carton|single
+316|MAXRAGE|[Extended]|EBIMAYO|126|222,00| |Medium|10|Exschwasion|Egg Carton|single
+317|MAXRAGE|[Extended]|EBIMAYO|126|222,00| |Hard|12|Exschwasion|Egg Carton|single
+318|MAXRAGE|[Extended]|EBIMAYO|126|222,00|No Tech|Challenge|14|Exschwasion|Egg Carton|single
+319|Naporitan Struggle| |かたぎり|142|210,00 - 280,00| |Beginner|3|Exschwasion|Egg Carton|single
+320|Naporitan Struggle| |かたぎり|142|210,00 - 280,00| |Easy|6|Exschwasion|Egg Carton|single
+321|Naporitan Struggle| |かたぎり|142|210,00 - 280,00|FS|Medium|10|Exschwasion|Egg Carton|single
+322|Naporitan Struggle| |かたぎり|142|210,00 - 280,00|FS|Hard|12|Exschwasion|Egg Carton|single
+323|Naporitan Struggle| |かたぎり|142|210,00 - 280,00|BU FS DS- JA-|Challenge|13|Exschwasion|Egg Carton|single
+324|Natur[Z]eit| |Street|143|145,00| |Beginner|2|Exschwasion|Egg Carton|single
+325|Natur[Z]eit| |Street|143|145,00| |Easy|4|Exschwasion|Egg Carton|single
+326|Natur[Z]eit| |Street|143|145,00| |Medium|8|Exschwasion|Egg Carton|single
+327|Natur[Z]eit| |Street|143|145,00|FS|Hard|11|Exschwasion|Egg Carton|single
+328|Natur[Z]eit| |Street|143|145,00|FS DS BR BU-|Challenge|12|Exschwasion|Egg Carton|single
+329|New World| |Pure 100%|143|160,00| |Beginner|2|Exschwasion|Egg Carton|single
+330|New World| |Pure 100%|143|160,00| |Easy|4|Exschwasion|Egg Carton|single
+331|New World| |Pure 100%|143|160,00| |Medium|8|Exschwasion|Egg Carton|single
+332|New World| |Pure 100%|143|160,00|FS XO|Hard|10|Exschwasion|Egg Carton|single
+333|New World| |Pure 100%|143|160,00|FS XO DS- BU-|Challenge|11|Exschwasion|Egg Carton|single
+334|PUMP!| |Pasocom Music Club feat. chelmico|141|192,00| |Beginner|2|Exschwasion|Egg Carton|single
+335|PUMP!| |Pasocom Music Club feat. chelmico|141|192,00| |Easy|4|Exschwasion|Egg Carton|single
+336|PUMP!| |Pasocom Music Club feat. chelmico|141|192,00| |Medium|6|Exschwasion|Egg Carton|single
+337|PUMP!| |Pasocom Music Club feat. chelmico|141|192,00| |Hard|8|Exschwasion|Egg Carton|single
+338|PUMP!| |Pasocom Music Club feat. chelmico|141|192,00|FS DS- XO-|Challenge|9|Exschwasion|Egg Carton|single
+339|Random Encounter| |KARUT|135|175,00| |Beginner|2|Exschwasion|Egg Carton|single
+340|Random Encounter| |KARUT|135|175,00| |Easy|5|Exschwasion|Egg Carton|single
+341|Random Encounter| |KARUT|135|175,00|FS+|Medium|9|Exschwasion|Egg Carton|single
+342|Random Encounter| |KARUT|135|175,00|FS+|Hard|12|Exschwasion|Egg Carton|single
+343|Random Encounter| |KARUT|135|175,00|FS+ BR|Challenge|14|Exschwasion|Egg Carton|single
+344|reiji no machi| |Pasocom Music Club feat. Warabi Inoue|135|128,00| |Beginner|1|Exschwasion|Egg Carton|single
+345|reiji no machi| |Pasocom Music Club feat. Warabi Inoue|135|128,00| |Easy|3|Exschwasion|Egg Carton|single
+346|reiji no machi| |Pasocom Music Club feat. Warabi Inoue|135|128,00| |Medium|6|Exschwasion|Egg Carton|single
+347|reiji no machi| |Pasocom Music Club feat. Warabi Inoue|135|128,00|DS|Hard|10|Exschwasion|Egg Carton|single
+348|reiji no machi| |Pasocom Music Club feat. Warabi Inoue|135|128,00|KS+ DS+ FS XO|Challenge|11|Exschwasion|Egg Carton|single
+349|Rush Away| |t+pazolite|136|175,00| |Beginner|3|Exschwasion|Egg Carton|single
+350|Rush Away| |t+pazolite|136|175,00| |Easy|5|Exschwasion|Egg Carton|single
+351|Rush Away| |t+pazolite|136|175,00|FS|Medium|9|Exschwasion|Egg Carton|single
+352|Rush Away| |t+pazolite|136|175,00|FS DS|Hard|11|Exschwasion|Egg Carton|single
+353|Rush Away| |t+pazolite|136|175,00|FS+ KS+ DS JA|Challenge|13|Exschwasion|Egg Carton|single
+354|Say Yes Or Say No| |Feed Me|125|128,00| |Beginner|1|Exschwasion|Egg Carton|single
+355|Say Yes Or Say No| |Feed Me|125|128,00| |Easy|3|Exschwasion|Egg Carton|single
+356|Say Yes Or Say No| |Feed Me|125|128,00|XO|Medium|7|Exschwasion|Egg Carton|single
+357|Say Yes Or Say No| |Feed Me|125|128,00|FS XO|Hard|9|Exschwasion|Egg Carton|single
+358|Say Yes Or Say No| |Feed Me|125|128,00|FS+ XO DS SS BR-|Challenge|11|Exschwasion|Egg Carton|single
+359|Say Yes Or Say No| |Feed Me|125|128,00|XO+ SS+ FS+ DS BR-|Edit|12|Exschwasion|Egg Carton|single
+360|Selfish Dazzling| |Hoshimachi Suisei|140|130,00| |Beginner|2|Exschwasion|Egg Carton|single
+361|Selfish Dazzling| |Hoshimachi Suisei|140|130,00| |Easy|4|Exschwasion|Egg Carton|single
+362|Selfish Dazzling| |Hoshimachi Suisei|140|130,00| |Medium|7|Exschwasion|Egg Carton|single
+363|Selfish Dazzling| |Hoshimachi Suisei|140|130,00|DS XO|Hard|8|Exschwasion|Egg Carton|single
+364|Selfish Dazzling| |Hoshimachi Suisei|140|130,00|DS XO FS SS BR|Challenge|10|Exschwasion|Egg Carton|single
+365|STICKY HELIX| |six impala|117|95,00 - 135,00| |Beginner|1|Exschwasion|Egg Carton|single
+366|STICKY HELIX| |six impala|117|95,00 - 135,00| |Easy|3|Exschwasion|Egg Carton|single
+367|STICKY HELIX| |six impala|117|95,00 - 135,00|DS FS|Medium|10|Exschwasion|Egg Carton|single
+368|STICKY HELIX| |six impala|117|95,00 - 135,00|BR FS|Hard|11|Exschwasion|Egg Carton|single
+369|STICKY HELIX| |six impala|117|95,00 - 135,00|BR+ FS+ XO+ SS DS|Challenge|13|Exschwasion|Egg Carton|single
+370|Superspeed| |Lido & Canblaster|136|135,00| |Beginner|2|Exschwasion|Egg Carton|single
+371|Superspeed| |Lido & Canblaster|136|135,00| |Easy|4|Exschwasion|Egg Carton|single
+372|Superspeed| |Lido & Canblaster|136|135,00|RH|Medium|6|Exschwasion|Egg Carton|single
+373|Superspeed| |Lido & Canblaster|136|135,00|RH|Hard|8|Exschwasion|Egg Carton|single
+374|Superspeed| |Lido & Canblaster|136|135,00|RH DS|Challenge|10|Exschwasion|Egg Carton|single
+375|The Bewilder BlueMartini| |seatrus|137|170,00| |Beginner|2|Exschwasion|Egg Carton|single
+376|The Bewilder BlueMartini| |seatrus|137|170,00| |Easy|5|Exschwasion|Egg Carton|single
+377|The Bewilder BlueMartini| |seatrus|137|170,00|XO DS FS|Medium|9|Exschwasion|Egg Carton|single
+378|The Bewilder BlueMartini| |seatrus|137|170,00|XO DS FS|Hard|12|Exschwasion|Egg Carton|single
+379|The Bewilder BlueMartini| |seatrus|137|170,00|BR FS XO DS SS-|Challenge|14|Exschwasion|Egg Carton|single
+380|Uchuu Yuuei| |lapix feat. Nakamura Sanso|121|140,00| |Beginner|1|Exschwasion|Egg Carton|single
+381|Uchuu Yuuei| |lapix feat. Nakamura Sanso|121|140,00| |Easy|4|Exschwasion|Egg Carton|single
+382|Uchuu Yuuei| |lapix feat. Nakamura Sanso|121|140,00|XO-|Medium|8|Exschwasion|Egg Carton|single
+383|Uchuu Yuuei| |lapix feat. Nakamura Sanso|121|140,00|DS|Hard|10|Exschwasion|Egg Carton|single
+384|Uchuu Yuuei| |lapix feat. Nakamura Sanso|121|140,00|BR FS DS JA|Challenge|12|Exschwasion|Egg Carton|single
+385|Uchuu Yuuei| |lapix feat. Nakamura Sanso|121|140,00|HS+ BR FS DS JA|Edit|12|Exschwasion|Egg Carton|single
+386|UFO-mie|(Album Mix)|Pasocom Music Club feat. The Hair Kid|143|130,00| |Beginner|2|Exschwasion|Egg Carton|single
+387|UFO-mie|(Album Mix)|Pasocom Music Club feat. The Hair Kid|143|130,00| |Easy|4|Exschwasion|Egg Carton|single
+388|UFO-mie|(Album Mix)|Pasocom Music Club feat. The Hair Kid|143|130,00| |Medium|7|Exschwasion|Egg Carton|single
+389|UFO-mie|(Album Mix)|Pasocom Music Club feat. The Hair Kid|143|130,00| |Hard|9|Exschwasion|Egg Carton|single
+390|UFO-mie|(Album Mix)|Pasocom Music Club feat. The Hair Kid|143|130,00|FS+ BR|Challenge|11|Exschwasion|Egg Carton|single
+391|Yume-CAST| |poplavor|128|140,00| |Beginner|1|Exschwasion|Egg Carton|single
+392|Yume-CAST| |poplavor|128|140,00| |Easy|8|Exschwasion|Egg Carton|single
+393|Yume-CAST| |poplavor|128|140,00| |Medium|10|Exschwasion|Egg Carton|single
+394|Yume-CAST| |poplavor|128|140,00| |Hard|11|Exschwasion|Egg Carton|single
+395|Yume-CAST| |poplavor|128|140,00|XO FS+ SS+ BR|Challenge|13|Exschwasion|Egg Carton|single
+396|Yume-CAST| |poplavor|128|140,00|XO FS+ SS+ BR|Edit|13|Exschwasion|Egg Carton|single
+397|Yuyake no Red Parade| |technoplanet|133|270,00 - 310,00| |Beginner|3|Exschwasion|Egg Carton|single
+398|Yuyake no Red Parade| |technoplanet|133|270,00 - 310,00| |Easy|5|Exschwasion|Egg Carton|single
+399|Yuyake no Red Parade| |technoplanet|133|270,00 - 310,00| |Medium|9|Exschwasion|Egg Carton|single
+400|Yuyake no Red Parade| |technoplanet|133|270,00 - 310,00|FS DS- JA-|Hard|12|Exschwasion|Egg Carton|single
+401|Yuyake no Red Parade| |technoplanet|133|270,00 - 310,00|BU+ FS BR JA DS BT-|Challenge|15|Exschwasion|Egg Carton|single
+402|Palette Lab| |Kanzakishion|141|130,00| |Beginner|1|Exschwasion|Egg Carton|single
+403|Palette Lab| |Kanzakishion|141|130,00| |Easy|3|Exschwasion|Egg Carton|single
+404|Palette Lab| |Kanzakishion|141|130,00| |Medium|7|Exschwasion|Egg Carton|single
+405|Palette Lab| |Kanzakishion|141|130,00|FS+ RH-|Hard|11|Exschwasion|Egg Carton|single
+406|Palette Lab| |Kanzakishion|141|130,00|BR BU XO FS SS DS- RH-|Challenge|12|Exschwasion|Egg Carton|single
+407|Palette Lab| |Kanzakishion|141|130,00|BR BU XO FS SS DS- RH-|Edit|13|Exschwasion|Egg Carton|single
+408|Hugs and Hexagons| |Isqa|126|140,00| |Beginner|2|Exschwasion|Egg Carton|single
+409|Hugs and Hexagons| |Isqa|126|140,00| |Easy|3|Exschwasion|Egg Carton|single
+410|Hugs and Hexagons| |Isqa|126|140,00| |Medium|7|Exschwasion|Egg Carton|single
+411|Hugs and Hexagons| |Isqa|126|140,00|BR JA DS|Hard|9|Exschwasion|Egg Carton|single
+412|Hugs and Hexagons| |Isqa|126|140,00|FL+ BR FS RH|Challenge|10|Exschwasion|Egg Carton|single
+413|Hugs and Hexagons| |Isqa|126|140,00|BT+ FL+ BR FS RH|Edit|11|Exschwasion|Egg Carton|single
+414|LALA| |Chroma|140|182,00|Mods|Beginner|2|Exschwasion|Egg Carton|single
+415|LALA| |Chroma|140|182,00|Mods|Easy|5|Exschwasion|Egg Carton|single
+416|LALA| |Chroma|140|182,00|Mods|Medium|7|Exschwasion|Egg Carton|single
+417|LALA| |Chroma|140|182,00|Mods|Hard|9|Exschwasion|Egg Carton|single
+418|LALA| |Chroma|140|182,00|Mods BR XO FS DS|Challenge|11|Exschwasion|Egg Carton|single
+419|LALA| |Chroma|140|182,00|BR XO FS DS|Edit|11|Exschwasion|Egg Carton|single
+420|Flying City| |lapix|139|130,00| |Beginner|1|Exschwasion|Egg Carton|single
+421|Flying City| |lapix|139|130,00| |Easy|5|Exschwasion|Egg Carton|single
+422|Flying City| |lapix|139|130,00|JA|Medium|7|Exschwasion|Egg Carton|single
+423|Flying City| |lapix|139|130,00|FS|Hard|10|Exschwasion|Egg Carton|single
+424|Flying City| |lapix|139|130,00|BR+ FS+|Challenge|11|Exschwasion|Egg Carton|single
+425|Flying City| |lapix|139|130,00|BR+ SS+|Edit|12|Exschwasion|Egg Carton|single
+426|Slaughta| |JAKAZiD|151|145,00| |Beginner|3|Exschwasion|Egg Carton|single
+427|Slaughta| |JAKAZiD|151|145,00| |Easy|7|Exschwasion|Egg Carton|single
+428|Slaughta| |JAKAZiD|151|145,00|DS FS|Medium|9|Exschwasion|Egg Carton|single
+429|Slaughta| |JAKAZiD|151|145,00|DS FS RH|Hard|11|Exschwasion|Egg Carton|single
+430|Slaughta| |JAKAZiD|151|145,00|DS+ KS+ BR BT FS RH|Challenge|12|Exschwasion|Egg Carton|single
+431|(Not) A Devil| |DECO*27 x PinocchioP|132|154,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+432|(Not) A Devil| |DECO*27 x PinocchioP|132|154,00| |Easy|4|Exschwasion|Egg Carton 2|single
+433|(Not) A Devil| |DECO*27 x PinocchioP|132|154,00| |Medium|7|Exschwasion|Egg Carton 2|single
+434|(Not) A Devil| |DECO*27 x PinocchioP|132|154,00|FS DS|Hard|9|Exschwasion|Egg Carton 2|single
+435|(Not) A Devil| |DECO*27 x PinocchioP|132|154,00|FS XO SS DS-|Challenge|11|Exschwasion|Egg Carton 2|single
+436|10pt8ion| |Lite Show Magic|129|128,00 - 185,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+437|10pt8ion| |Lite Show Magic|129|128,00 - 185,00| |Easy|5|Exschwasion|Egg Carton 2|single
+438|10pt8ion| |Lite Show Magic|129|128,00 - 185,00|CT|Medium|9|Exschwasion|Egg Carton 2|single
+439|10pt8ion| |Lite Show Magic|129|128,00 - 185,00|CT- RH-|Hard|10|Exschwasion|Egg Carton 2|single
+440|10pt8ion| |Lite Show Magic|129|128,00 - 185,00|BR CT DS RH- JA-|Challenge|12|Exschwasion|Egg Carton 2|single
+441|300 million yen| |chelmico|133|110,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+442|300 million yen| |chelmico|133|110,00| |Easy|3|Exschwasion|Egg Carton 2|single
+443|300 million yen| |chelmico|133|110,00| |Medium|7|Exschwasion|Egg Carton 2|single
+444|300 million yen| |chelmico|133|110,00| |Hard|9|Exschwasion|Egg Carton 2|single
+445|300 million yen| |chelmico|133|110,00|JA DS|Challenge|10|Exschwasion|Egg Carton 2|single
+446|300 million yen| |chelmico|133|110,00|BU+ JA DS|Edit|13|Exschwasion|Egg Carton 2|single
+447|3o3o3o3| |Nhato|127|140,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+448|3o3o3o3| |Nhato|127|140,00| |Easy|4|Exschwasion|Egg Carton 2|single
+449|3o3o3o3| |Nhato|127|140,00|FS+|Medium|10|Exschwasion|Egg Carton 2|single
+450|3o3o3o3| |Nhato|127|140,00|FS+ SS KS|Hard|12|Exschwasion|Egg Carton 2|single
+451|3o3o3o3| |Nhato|127|140,00|BR+ FS+ SS+ KS|Challenge|14|Exschwasion|Egg Carton 2|single
+452|3o3o3o3| |Nhato|127|140,00|BR+ FS+ SS+ KS|Edit|15|Exschwasion|Egg Carton 2|single
+453|Bitter Juicy| |mommy|140|135,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+454|Bitter Juicy| |mommy|140|135,00| |Easy|4|Exschwasion|Egg Carton 2|single
+455|Bitter Juicy| |mommy|140|135,00|XO|Medium|8|Exschwasion|Egg Carton 2|single
+456|Bitter Juicy| |mommy|140|135,00| |Hard|11|Exschwasion|Egg Carton 2|single
+457|Bitter Juicy| |mommy|140|135,00|XO+ BU|Challenge|13|Exschwasion|Egg Carton 2|single
+458|†††Chaos Time the DARK†††| |t+pazolite|141|165,00 - 360,00| |Beginner|3|Exschwasion|Egg Carton 2|single
+459|†††Chaos Time the DARK†††| |t+pazolite|141|165,00 - 360,00| |Easy|7|Exschwasion|Egg Carton 2|single
+460|†††Chaos Time the DARK†††| |t+pazolite|141|165,00 - 360,00|RH+|Medium|11|Exschwasion|Egg Carton 2|single
+461|†††Chaos Time the DARK†††| |t+pazolite|141|165,00 - 360,00|BU RH+ BR JA|Hard|13|Exschwasion|Egg Carton 2|single
+462|†††Chaos Time the DARK†††| |t+pazolite|141|165,00 - 360,00|BU+ RH+ BR JA|Challenge|15|Exschwasion|Egg Carton 2|single
+463|CHOVERY GOOSE!!!| |MYUKKE.|121|180,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+464|CHOVERY GOOSE!!!| |MYUKKE.|121|180,00| |Easy|5|Exschwasion|Egg Carton 2|single
+465|CHOVERY GOOSE!!!| |MYUKKE.|121|180,00|FS|Medium|9|Exschwasion|Egg Carton 2|single
+466|CHOVERY GOOSE!!!| |MYUKKE.|121|180,00|FS DS|Hard|11|Exschwasion|Egg Carton 2|single
+467|CHOVERY GOOSE!!!| |MYUKKE.|121|180,00|BR FS XO DS|Challenge|14|Exschwasion|Egg Carton 2|single
+468|Churros Parlor| |ピエロ☆マン|135|190,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+469|Churros Parlor| |ピエロ☆マン|135|190,00| |Easy|5|Exschwasion|Egg Carton 2|single
+470|Churros Parlor| |ピエロ☆マン|135|190,00|DS MD-|Medium|9|Exschwasion|Egg Carton 2|single
+471|Churros Parlor| |ピエロ☆マン|135|190,00|DS MD|Hard|10|Exschwasion|Egg Carton 2|single
+472|Churros Parlor| |ピエロ☆マン|135|190,00|DS MD|Challenge|13|Exschwasion|Egg Carton 2|single
+473|Churros Parlor| |ピエロ☆マン|135|190,00|Lifts+ DS|Edit|13|Exschwasion|Egg Carton 2|single
+474|Collision Data| |Iglooghost ft. Marina Herlop|132|140,00| |Beginner|3|Exschwasion|Egg Carton 2|single
+475|Collision Data| |Iglooghost ft. Marina Herlop|132|140,00| |Easy|5|Exschwasion|Egg Carton 2|single
+476|Collision Data| |Iglooghost ft. Marina Herlop|132|140,00|BR+|Medium|9|Exschwasion|Egg Carton 2|single
+477|Collision Data| |Iglooghost ft. Marina Herlop|132|140,00|BR+|Hard|11|Exschwasion|Egg Carton 2|single
+478|Collision Data| |Iglooghost ft. Marina Herlop|132|140,00|BR+ FS+|Challenge|13|Exschwasion|Egg Carton 2|single
+479|Collision Data| |Iglooghost ft. Marina Herlop|132|140,00|BR+ FS+ SS+|Edit|14|Exschwasion|Egg Carton 2|single
+480|Dada| |NOMELON NOLEMON|155|127,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+481|Dada| |NOMELON NOLEMON|155|127,00| |Easy|4|Exschwasion|Egg Carton 2|single
+482|Dada| |NOMELON NOLEMON|155|127,00|RH-|Medium|7|Exschwasion|Egg Carton 2|single
+483|Dada| |NOMELON NOLEMON|155|127,00|DS RH-|Hard|9|Exschwasion|Egg Carton 2|single
+484|Dada| |NOMELON NOLEMON|155|127,00|DS BR RH|Challenge|10|Exschwasion|Egg Carton 2|single
+485|Day After Day| |Pasocom Music Club feat. Mei Takahashi|136|135,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+486|Day After Day| |Pasocom Music Club feat. Mei Takahashi|136|135,00| |Easy|3|Exschwasion|Egg Carton 2|single
+487|Day After Day| |Pasocom Music Club feat. Mei Takahashi|136|135,00| |Medium|6|Exschwasion|Egg Carton 2|single
+488|Day After Day| |Pasocom Music Club feat. Mei Takahashi|136|135,00|DS+|Hard|8|Exschwasion|Egg Carton 2|single
+489|Day After Day| |Pasocom Music Club feat. Mei Takahashi|136|135,00|DS+ XO|Challenge|9|Exschwasion|Egg Carton 2|single
+490|Day After Day| |Pasocom Music Club feat. Mei Takahashi|136|135,00|DS|Edit|12|Exschwasion|Egg Carton 2|single
+491|deadeye| |Acotto|144|167,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+492|deadeye| |Acotto|144|167,00|FS DS|Easy|8|Exschwasion|Egg Carton 2|single
+493|deadeye| |Acotto|144|167,00|FS DS|Medium|11|Exschwasion|Egg Carton 2|single
+494|deadeye| |Acotto|144|167,00|BR FS|Hard|13|Exschwasion|Egg Carton 2|single
+495|deadeye| |Acotto|144|167,00|FS+ XO+ BR SS BU DS|Challenge|15|Exschwasion|Egg Carton 2|single
+496|Donkey Stomp| |GOLEMM x BUGCORE|137|130,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+497|Donkey Stomp| |GOLEMM x BUGCORE|137|130,00| |Easy|4|Exschwasion|Egg Carton 2|single
+498|Donkey Stomp| |GOLEMM x BUGCORE|137|130,00| |Medium|7|Exschwasion|Egg Carton 2|single
+499|Donkey Stomp| |GOLEMM x BUGCORE|137|130,00|FS+|Hard|10|Exschwasion|Egg Carton 2|single
+500|Donkey Stomp| |GOLEMM x BUGCORE|137|130,00|BR+ FS+ BT|Challenge|12|Exschwasion|Egg Carton 2|single
+501|Fidget Dancer| |nora2r|136|175,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+502|Fidget Dancer| |nora2r|136|175,00| |Easy|5|Exschwasion|Egg Carton 2|single
+503|Fidget Dancer| |nora2r|136|175,00| |Medium|8|Exschwasion|Egg Carton 2|single
+504|Fidget Dancer| |nora2r|136|175,00|HS+|Hard|11|Exschwasion|Egg Carton 2|single
+505|Fidget Dancer| |nora2r|136|175,00|HS+|Challenge|13|Exschwasion|Egg Carton 2|single
+506|Fidget Dancer| |nora2r|136|175,00|HS+|Edit|13|Exschwasion|Egg Carton 2|single
+507|Good Time| |pengaton|134|160,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+508|Good Time| |pengaton|134|160,00| |Easy|4|Exschwasion|Egg Carton 2|single
+509|Good Time| |pengaton|134|160,00| |Medium|8|Exschwasion|Egg Carton 2|single
+510|Good Time| |pengaton|134|160,00|FS DS|Hard|10|Exschwasion|Egg Carton 2|single
+511|Good Time| |pengaton|134|160,00|FS+ JA DS|Challenge|12|Exschwasion|Egg Carton 2|single
+512|Good Time| |pengaton|134|160,00|FS+ DS|Edit|13|Exschwasion|Egg Carton 2|single
+513|HAGAKIRI| |Masayoshi Iimori|135|172,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+514|HAGAKIRI| |Masayoshi Iimori|135|172,00| |Easy|4|Exschwasion|Egg Carton 2|single
+515|HAGAKIRI| |Masayoshi Iimori|135|172,00|FS+|Medium|9|Exschwasion|Egg Carton 2|single
+516|HAGAKIRI| |Masayoshi Iimori|135|172,00|FS+|Hard|11|Exschwasion|Egg Carton 2|single
+517|HAGAKIRI| |Masayoshi Iimori|135|172,00|FS+|Challenge|13|Exschwasion|Egg Carton 2|single
+518|Hide and Seek| |NOMELON NOLEMON|151|139,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+519|Hide and Seek| |NOMELON NOLEMON|151|139,00| |Easy|4|Exschwasion|Egg Carton 2|single
+520|Hide and Seek| |NOMELON NOLEMON|151|139,00| |Medium|7|Exschwasion|Egg Carton 2|single
+521|Hide and Seek| |NOMELON NOLEMON|151|139,00| |Hard|8|Exschwasion|Egg Carton 2|single
+522|Hide and Seek| |NOMELON NOLEMON|151|139,00|Jumps FS|Challenge|10|Exschwasion|Egg Carton 2|single
+523|Hide and Seek| |NOMELON NOLEMON|151|139,00|Jumps+ FS|Edit|11|Exschwasion|Egg Carton 2|single
+524|HiTECH Stay Alive| |siqlo|146|152,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+525|HiTECH Stay Alive| |siqlo|146|152,00| |Easy|5|Exschwasion|Egg Carton 2|single
+526|HiTECH Stay Alive| |siqlo|146|152,00|FS+|Medium|9|Exschwasion|Egg Carton 2|single
+527|HiTECH Stay Alive| |siqlo|146|152,00|FS+|Hard|11|Exschwasion|Egg Carton 2|single
+528|HiTECH Stay Alive| |siqlo|146|152,00|BR FS XO KS|Challenge|13|Exschwasion|Egg Carton 2|single
+529|HiTECH Stay Alive| |siqlo|146|152,00|BR FS XO DS|Edit|15|Exschwasion|Egg Carton 2|single
+530|Hyper Active| |HiTECH NINJA|141|160,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+531|Hyper Active| |HiTECH NINJA|141|160,00| |Easy|8|Exschwasion|Egg Carton 2|single
+532|Hyper Active| |HiTECH NINJA|141|160,00|DS+|Medium|9|Exschwasion|Egg Carton 2|single
+533|Hyper Active| |HiTECH NINJA|141|160,00|FS+|Hard|11|Exschwasion|Egg Carton 2|single
+534|Hyper Active| |HiTECH NINJA|141|160,00|KS+|Challenge|12|Exschwasion|Egg Carton 2|single
+535|Kissing Game| |GOLEMM|122|140,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+536|Kissing Game| |GOLEMM|122|140,00| |Easy|3|Exschwasion|Egg Carton 2|single
+537|Kissing Game| |GOLEMM|122|140,00| |Medium|6|Exschwasion|Egg Carton 2|single
+538|Kissing Game| |GOLEMM|122|140,00| |Hard|7|Exschwasion|Egg Carton 2|single
+539|Kissing Game| |GOLEMM|122|140,00|No Tech|Challenge|9|Exschwasion|Egg Carton 2|single
+540|Kissing Game| |GOLEMM|122|140,00|No Tech|Edit|12|Exschwasion|Egg Carton 2|single
+541|Marshall Maximizer| |Hiiragi Magnetite|136|190,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+542|Marshall Maximizer| |Hiiragi Magnetite|136|190,00| |Easy|5|Exschwasion|Egg Carton 2|single
+543|Marshall Maximizer| |Hiiragi Magnetite|136|190,00| |Medium|6|Exschwasion|Egg Carton 2|single
+544|Marshall Maximizer| |Hiiragi Magnetite|136|190,00|XO-|Hard|8|Exschwasion|Egg Carton 2|single
+545|Marshall Maximizer| |Hiiragi Magnetite|136|190,00|FS SS DS-|Challenge|10|Exschwasion|Egg Carton 2|single
+546|Marshall Maximizer| |Hiiragi Magnetite|136|190,00|No Tech|Edit|14|Exschwasion|Egg Carton 2|single
+547|MΔX FLAVØR| |EmoCosine overlay|113|125,00 - 261,00| |Beginner|3|Exschwasion|Egg Carton 2|single
+548|MΔX FLAVØR| |EmoCosine overlay|113|125,00 - 261,00| |Easy|6|Exschwasion|Egg Carton 2|single
+549|MΔX FLAVØR| |EmoCosine overlay|113|125,00 - 261,00|BR FS XO DS JA SS|Medium|10|Exschwasion|Egg Carton 2|single
+550|MΔX FLAVØR| |EmoCosine overlay|113|125,00 - 261,00|BR FS XO DS JA SS BU|Hard|12|Exschwasion|Egg Carton 2|single
+551|MΔX FLAVØR| |EmoCosine overlay|113|125,00 - 261,00|BR FS XO DS JA KS SS BU XMOD|Challenge|14|Exschwasion|Egg Carton 2|single
+552|MAXIMAL TECHNO| |t+pazolite|136|144,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+553|MAXIMAL TECHNO| |t+pazolite|136|144,00|XO+|Easy|8|Exschwasion|Egg Carton 2|single
+554|MAXIMAL TECHNO| |t+pazolite|136|144,00|XO+|Medium|10|Exschwasion|Egg Carton 2|single
+555|MAXIMAL TECHNO| |t+pazolite|136|144,00|XO+|Hard|12|Exschwasion|Egg Carton 2|single
+556|MAXIMAL TECHNO| |t+pazolite|136|144,00|XO FS SS|Challenge|13|Exschwasion|Egg Carton 2|single
+557|Miira Killer| |TEMPURA KIDZ vs Charisma.com|150|127,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+558|Miira Killer| |TEMPURA KIDZ vs Charisma.com|150|127,00| |Easy|4|Exschwasion|Egg Carton 2|single
+559|Miira Killer| |TEMPURA KIDZ vs Charisma.com|150|127,00| |Medium|7|Exschwasion|Egg Carton 2|single
+560|Miira Killer| |TEMPURA KIDZ vs Charisma.com|150|127,00|JA|Hard|9|Exschwasion|Egg Carton 2|single
+561|Miira Killer| |TEMPURA KIDZ vs Charisma.com|150|127,00|FS+ KS|Challenge|11|Exschwasion|Egg Carton 2|single
+562|Ms.Rave & Mr.Bounce| |C-Show & DJ Noriken|136|152,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+563|Ms.Rave & Mr.Bounce| |C-Show & DJ Noriken|136|152,00| |Easy|4|Exschwasion|Egg Carton 2|single
+564|Ms.Rave & Mr.Bounce| |C-Show & DJ Noriken|136|152,00|FS+|Medium|9|Exschwasion|Egg Carton 2|single
+565|Ms.Rave & Mr.Bounce| |C-Show & DJ Noriken|136|152,00|FS+|Hard|10|Exschwasion|Egg Carton 2|single
+566|Ms.Rave & Mr.Bounce| |C-Show & DJ Noriken|136|152,00|FS+ BR|Challenge|12|Exschwasion|Egg Carton 2|single
+567|MVURBD| |ETIA.|136|175,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+568|MVURBD| |ETIA.|136|175,00| |Easy|5|Exschwasion|Egg Carton 2|single
+569|MVURBD| |ETIA.|136|175,00|MD-|Medium|8|Exschwasion|Egg Carton 2|single
+570|MVURBD| |ETIA.|136|175,00|FS MD-|Hard|11|Exschwasion|Egg Carton 2|single
+571|MVURBD| |ETIA.|136|175,00|BR FS BT- MD-|Challenge|13|Exschwasion|Egg Carton 2|single
+572|NITE 2 FLOW| |icesawder x moyu|126|155,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+573|NITE 2 FLOW| |icesawder x moyu|126|155,00| |Easy|6|Exschwasion|Egg Carton 2|single
+574|NITE 2 FLOW| |icesawder x moyu|126|155,00|FS DS|Medium|9|Exschwasion|Egg Carton 2|single
+575|NITE 2 FLOW| |icesawder x moyu|126|155,00|BR FS KS|Hard|11|Exschwasion|Egg Carton 2|single
+576|NITE 2 FLOW| |icesawder x moyu|126|155,00|BR+ FS XO SS KS|Challenge|12|Exschwasion|Egg Carton 2|single
+577|NO, I DONT KNOW| |nemy|142|85,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+578|NO, I DONT KNOW| |nemy|142|85,00| |Easy|2|Exschwasion|Egg Carton 2|single
+579|NO, I DONT KNOW| |nemy|142|85,00| |Medium|5|Exschwasion|Egg Carton 2|single
+580|NO, I DONT KNOW| |nemy|142|85,00|JA|Hard|9|Exschwasion|Egg Carton 2|single
+581|NO, I DONT KNOW| |nemy|142|85,00|DS+|Challenge|10|Exschwasion|Egg Carton 2|single
+582|O・La| |chelmico|152|122,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+583|O・La| |chelmico|152|122,00| |Easy|3|Exschwasion|Egg Carton 2|single
+584|O・La| |chelmico|152|122,00|RH-|Medium|7|Exschwasion|Egg Carton 2|single
+585|O・La| |chelmico|152|122,00|RH-|Hard|9|Exschwasion|Egg Carton 2|single
+586|O・La| |chelmico|152|122,00|BR+ DS RH-|Challenge|11|Exschwasion|Egg Carton 2|single
+587|O・La| |chelmico|152|122,00|BR+ FS DS RH-|Edit|12|Exschwasion|Egg Carton 2|single
+588|p.h.| |SEVENTHLINKS feat. flower|110|132,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+589|p.h.| |SEVENTHLINKS feat. flower|110|132,00| |Easy|4|Exschwasion|Egg Carton 2|single
+590|p.h.| |SEVENTHLINKS feat. flower|110|132,00| |Medium|6|Exschwasion|Egg Carton 2|single
+591|p.h.| |SEVENTHLINKS feat. flower|110|132,00|JA|Hard|8|Exschwasion|Egg Carton 2|single
+592|p.h.| |SEVENTHLINKS feat. flower|110|132,00|Rolls DS RH-|Challenge|10|Exschwasion|Egg Carton 2|single
+593|p.h.| |SEVENTHLINKS feat. flower|110|132,00|XO Rolls DS RH-|Edit|11|Exschwasion|Egg Carton 2|single
+594|Phantasm| |Red Spear|130|128,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+595|Phantasm| |Red Spear|130|128,00| |Easy|3|Exschwasion|Egg Carton 2|single
+596|Phantasm| |Red Spear|130|128,00|Rolls FS+|Medium|8|Exschwasion|Egg Carton 2|single
+597|Phantasm| |Red Spear|130|128,00|Rolls FS+|Hard|9|Exschwasion|Egg Carton 2|single
+598|Phantasm| |Red Spear|130|128,00|Rolls FS+|Challenge|11|Exschwasion|Egg Carton 2|single
+599|Phantasm| |Red Spear|130|128,00|Rolls SS+ FS|Edit|12|Exschwasion|Egg Carton 2|single
+600|PUSH UR T3MPRR| |Femtanyl|124|155,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+601|PUSH UR T3MPRR| |Femtanyl|124|155,00| |Easy|4|Exschwasion|Egg Carton 2|single
+602|PUSH UR T3MPRR| |Femtanyl|124|155,00| |Medium|8|Exschwasion|Egg Carton 2|single
+603|PUSH UR T3MPRR| |Femtanyl|124|155,00|BR+|Hard|10|Exschwasion|Egg Carton 2|single
+604|PUSH UR T3MPRR| |Femtanyl|124|155,00|BR|Challenge|11|Exschwasion|Egg Carton 2|single
+605|PUSH UR T3MPRR| |Femtanyl|124|155,00|BR+ KS+|Edit|12|Exschwasion|Egg Carton 2|single
+606|Rave Ball| |Qteku & GOLEMM|144|130,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+607|Rave Ball| |Qteku & GOLEMM|144|130,00| |Easy|4|Exschwasion|Egg Carton 2|single
+608|Rave Ball| |Qteku & GOLEMM|144|130,00|FS|Medium|8|Exschwasion|Egg Carton 2|single
+609|Rave Ball| |Qteku & GOLEMM|144|130,00|FS+|Hard|10|Exschwasion|Egg Carton 2|single
+610|Rave Ball| |Qteku & GOLEMM|144|130,00|FS|Challenge|11|Exschwasion|Egg Carton 2|single
+611|Rave Ball| |Qteku & GOLEMM|144|130,00|XO+ SS|Edit|12|Exschwasion|Egg Carton 2|single
+612|Spin Cycle| |Skybreak, BilliumMoto & Miyolophone|133|150,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+613|Spin Cycle| |Skybreak, BilliumMoto & Miyolophone|133|150,00| |Easy|4|Exschwasion|Egg Carton 2|single
+614|Spin Cycle| |Skybreak, BilliumMoto & Miyolophone|133|150,00| |Medium|6|Exschwasion|Egg Carton 2|single
+615|Spin Cycle| |Skybreak, BilliumMoto & Miyolophone|133|150,00|JA|Hard|8|Exschwasion|Egg Carton 2|single
+616|Spin Cycle| |Skybreak, BilliumMoto & Miyolophone|133|150,00|BR FS|Challenge|10|Exschwasion|Egg Carton 2|single
+617|Spin Cycle| |Skybreak, BilliumMoto & Miyolophone|133|150,00|RS+|Edit|10|Exschwasion|Egg Carton 2|single
+618|Stylus| |HuΣeR|116|165,00| |Beginner|2|Exschwasion|Egg Carton 2|single
+619|Stylus| |HuΣeR|116|165,00| |Easy|4|Exschwasion|Egg Carton 2|single
+620|Stylus| |HuΣeR|116|165,00|FS XO SS|Medium|9|Exschwasion|Egg Carton 2|single
+621|Stylus| |HuΣeR|116|165,00|FS XO SS|Hard|11|Exschwasion|Egg Carton 2|single
+622|Stylus| |HuΣeR|116|165,00|FS XO SS|Challenge|13|Exschwasion|Egg Carton 2|single
+623|toa's toybox| |linear ring|132|106,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+624|toa's toybox| |linear ring|132|106,00| |Easy|3|Exschwasion|Egg Carton 2|single
+625|toa's toybox| |linear ring|132|106,00| |Medium|7|Exschwasion|Egg Carton 2|single
+626|toa's toybox| |linear ring|132|106,00|BR|Hard|9|Exschwasion|Egg Carton 2|single
+627|toa's toybox| |linear ring|132|106,00|BR BU|Challenge|10|Exschwasion|Egg Carton 2|single
+628|toa's toybox| |linear ring|132|106,00|BU+|Edit|14|Exschwasion|Egg Carton 2|single
+629|UROBOROX| |BlackYooh vs. siromaru|142|180,00| |Beginner|3|Exschwasion|Egg Carton 2|single
+630|UROBOROX| |BlackYooh vs. siromaru|142|180,00| |Easy|5|Exschwasion|Egg Carton 2|single
+631|UROBOROX| |BlackYooh vs. siromaru|142|180,00|FS DS|Medium|9|Exschwasion|Egg Carton 2|single
+632|UROBOROX| |BlackYooh vs. siromaru|142|180,00|FS BR DS|Hard|12|Exschwasion|Egg Carton 2|single
+633|UROBOROX| |BlackYooh vs. siromaru|142|180,00|FS BR DS KS|Challenge|14|Exschwasion|Egg Carton 2|single
+634|UROBOROX| |BlackYooh vs. siromaru|142|180,00|FS BR|Edit|15|Exschwasion|Egg Carton 2|single
+635|Voltage| |Juggernaut.|119|145,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+636|Voltage| |Juggernaut.|119|145,00| |Easy|4|Exschwasion|Egg Carton 2|single
+637|Voltage| |Juggernaut.|119|145,00| |Medium|7|Exschwasion|Egg Carton 2|single
+638|Voltage| |Juggernaut.|119|145,00|DS|Hard|9|Exschwasion|Egg Carton 2|single
+639|Voltage| |Juggernaut.|119|145,00|DS XO BU-|Challenge|11|Exschwasion|Egg Carton 2|single
+640|With u| |moyu|121|150,00| |Beginner|1|Exschwasion|Egg Carton 2|single
+641|With u| |moyu|121|150,00| |Easy|3|Exschwasion|Egg Carton 2|single
+642|With u| |moyu|121|150,00| |Medium|6|Exschwasion|Egg Carton 2|single
+643|With u| |moyu|121|150,00|FS|Hard|9|Exschwasion|Egg Carton 2|single
+644|With u| |moyu|121|150,00|BR BT FS|Challenge|11|Exschwasion|Egg Carton 2|single
+645|With u| |moyu|121|150,00|Lifts BR BT FS|Edit|11|Exschwasion|Egg Carton 2|single
+646|YukiOtoko| |Kaneko Chiharu|148|256,00| |Beginner|3|Exschwasion|Egg Carton 2|single
+647|YukiOtoko| |Kaneko Chiharu|148|256,00| |Easy|7|Exschwasion|Egg Carton 2|single
+648|YukiOtoko| |Kaneko Chiharu|148|256,00| |Medium|10|Exschwasion|Egg Carton 2|single
+649|YukiOtoko| |Kaneko Chiharu|148|256,00|BU XO|Hard|12|Exschwasion|Egg Carton 2|single
+650|YukiOtoko| |Kaneko Chiharu|148|256,00|BU+ XO JA DS|Challenge|14|Exschwasion|Egg Carton 2|single
+651|B.B.M.| |PAS TASTA feat. ピノキオピー|128|143,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+652|B.B.M.| |PAS TASTA feat. ピノキオピー|128|143,00| |Easy|3|Exschwasion|Egg Carton 3|single
+653|B.B.M.| |PAS TASTA feat. ピノキオピー|128|143,00| |Medium|6|Exschwasion|Egg Carton 3|single
+654|B.B.M.| |PAS TASTA feat. ピノキオピー|128|143,00|XO|Hard|8|Exschwasion|Egg Carton 3|single
+655|B.B.M.| |PAS TASTA feat. ピノキオピー|128|143,00|FS XO|Challenge|10|Exschwasion|Egg Carton 3|single
+656|B.B.M.| |PAS TASTA feat. ピノキオピー|128|143,00|HS+ XO-|Edit|10|Exschwasion|Egg Carton 3|single
+657|BAD NUMBER!| |Tanger & disphing|138|180,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+658|BAD NUMBER!| |Tanger & disphing|138|180,00| |Easy|4|Exschwasion|Egg Carton 3|single
+659|BAD NUMBER!| |Tanger & disphing|138|180,00| |Medium|7|Exschwasion|Egg Carton 3|single
+660|BAD NUMBER!| |Tanger & disphing|138|180,00|FS|Hard|9|Exschwasion|Egg Carton 3|single
+661|BAD NUMBER!| |Tanger & disphing|138|180,00|BR FS|Challenge|10|Exschwasion|Egg Carton 3|single
+662|BAD NUMBER!| |Tanger & disphing|138|180,00|No Tech / 16* 48*|Edit|14|Exschwasion|Egg Carton 3|single
+663|Body Breathing| |Sixtroke|116|150,00| |Beginner|3|Exschwasion|Egg Carton 3|single
+664|Body Breathing| |Sixtroke|116|150,00|XO+|Easy|8|Exschwasion|Egg Carton 3|single
+665|Body Breathing| |Sixtroke|116|150,00|XO+|Medium|11|Exschwasion|Egg Carton 3|single
+666|Body Breathing| |Sixtroke|116|150,00|XO+|Hard|12|Exschwasion|Egg Carton 3|single
+667|Body Breathing| |Sixtroke|116|150,00|XO+|Challenge|13|Exschwasion|Egg Carton 3|single
+668|Body Breathing| |Sixtroke|116|150,00|XO+|Edit|14|Exschwasion|Egg Carton 3|single
+669|break it down!| |Ruxxi|125|110,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+670|break it down!| |Ruxxi|125|110,00| |Easy|6|Exschwasion|Egg Carton 3|single
+671|break it down!| |Ruxxi|125|110,00| |Medium|9|Exschwasion|Egg Carton 3|single
+672|break it down!| |Ruxxi|125|110,00|JA|Hard|11|Exschwasion|Egg Carton 3|single
+673|break it down!| |Ruxxi|125|110,00|BU+ JA|Challenge|12|Exschwasion|Egg Carton 3|single
+674|break it down!| |Ruxxi|125|110,00|FS+|Edit|12|Exschwasion|Egg Carton 3|single
+675|byun G| |PAS TASTA ft. JUMADIBA & LIL SOFT TENNIS|132|140,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+676|byun G| |PAS TASTA ft. JUMADIBA & LIL SOFT TENNIS|132|140,00|XO|Easy|8|Exschwasion|Egg Carton 3|single
+677|byun G| |PAS TASTA ft. JUMADIBA & LIL SOFT TENNIS|132|140,00|XO|Medium|10|Exschwasion|Egg Carton 3|single
+678|byun G| |PAS TASTA ft. JUMADIBA & LIL SOFT TENNIS|132|140,00|XO|Hard|12|Exschwasion|Egg Carton 3|single
+679|byun G| |PAS TASTA ft. JUMADIBA & LIL SOFT TENNIS|132|140,00|FS+ DS XO SS|Challenge|13|Exschwasion|Egg Carton 3|single
+680|Can't Get You Out of My Mind|(Milkfish Remix)|Dreamcatcher|121|180,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+681|Can't Get You Out of My Mind|(Milkfish Remix)|Dreamcatcher|121|180,00| |Easy|4|Exschwasion|Egg Carton 3|single
+682|Can't Get You Out of My Mind|(Milkfish Remix)|Dreamcatcher|121|180,00| |Medium|9|Exschwasion|Egg Carton 3|single
+683|Can't Get You Out of My Mind|(Milkfish Remix)|Dreamcatcher|121|180,00| |Hard|11|Exschwasion|Egg Carton 3|single
+684|Can't Get You Out of My Mind|(Milkfish Remix)|Dreamcatcher|121|180,00|FS BR|Challenge|13|Exschwasion|Egg Carton 3|single
+685|Can't Get You Out of My Mind|(Milkfish Remix)|Dreamcatcher|121|180,00|KS+|Edit|12|Exschwasion|Egg Carton 3|single
+686|Dark Room| |Crankdat|99|142,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+687|Dark Room| |Crankdat|99|142,00| |Easy|3|Exschwasion|Egg Carton 3|single
+688|Dark Room| |Crankdat|99|142,00|RH-|Medium|8|Exschwasion|Egg Carton 3|single
+689|Dark Room| |Crankdat|99|142,00|RH BU|Hard|11|Exschwasion|Egg Carton 3|single
+690|Dark Room| |Crankdat|99|142,00|RH FS XO SS|Challenge|12|Exschwasion|Egg Carton 3|single
+691|Decadence Prosper| |siqlo|130|85,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+692|Decadence Prosper| |siqlo|130|85,00| |Easy|5|Exschwasion|Egg Carton 3|single
+693|Decadence Prosper| |siqlo|130|85,00| |Medium|7|Exschwasion|Egg Carton 3|single
+694|Decadence Prosper| |siqlo|130|85,00|XO|Hard|9|Exschwasion|Egg Carton 3|single
+695|Decadence Prosper| |siqlo|130|85,00|DS+ JA XO|Challenge|10|Exschwasion|Egg Carton 3|single
+696|Decadence Prosper| |siqlo|130|85,00|No Tech / 30* 30* @ 170|Edit|13|Exschwasion|Egg Carton 3|single
+697|G.U.Y.|(I Want You)|Milkfish|115|138,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+698|G.U.Y.|(I Want You)|Milkfish|115|138,00| |Easy|4|Exschwasion|Egg Carton 3|single
+699|G.U.Y.|(I Want You)|Milkfish|115|138,00| |Medium|8|Exschwasion|Egg Carton 3|single
+700|G.U.Y.|(I Want You)|Milkfish|115|138,00|BR|Hard|10|Exschwasion|Egg Carton 3|single
+701|G.U.Y.|(I Want You)|Milkfish|115|138,00|BR FS DS KS Rolls|Challenge|12|Exschwasion|Egg Carton 3|single
+702|G.U.Y.|(I Want You)|Milkfish|115|138,00|SS+ BR BT FS DS KS Rolls|Edit|13|Exschwasion|Egg Carton 3|single
+703|GIGA OMEGA VIP| |Blacklolita|129|140,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+704|GIGA OMEGA VIP| |Blacklolita|129|140,00| |Easy|3|Exschwasion|Egg Carton 3|single
+705|GIGA OMEGA VIP| |Blacklolita|129|140,00|KS|Medium|9|Exschwasion|Egg Carton 3|single
+706|GIGA OMEGA VIP| |Blacklolita|129|140,00|KS+|Hard|10|Exschwasion|Egg Carton 3|single
+707|GIGA OMEGA VIP| |Blacklolita|129|140,00|KS+|Challenge|12|Exschwasion|Egg Carton 3|single
+708|GIGA OMEGA VIP| |Blacklolita|129|140,00|KS+ SS+|Edit|12|Exschwasion|Egg Carton 3|single
+709|Grindhouse| |Machine Girl|116|145,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+710|Grindhouse| |Machine Girl|116|145,00| |Easy|3|Exschwasion|Egg Carton 3|single
+711|Grindhouse| |Machine Girl|116|145,00| |Medium|7|Exschwasion|Egg Carton 3|single
+712|Grindhouse| |Machine Girl|116|145,00|BR|Hard|9|Exschwasion|Egg Carton 3|single
+713|Grindhouse| |Machine Girl|116|145,00|BR|Challenge|11|Exschwasion|Egg Carton 3|single
+714|Hard to Pretend| |Tennyson & Leslie|127|145,33| |Beginner|1|Exschwasion|Egg Carton 3|single
+715|Hard to Pretend| |Tennyson & Leslie|127|145,33| |Easy|3|Exschwasion|Egg Carton 3|single
+716|Hard to Pretend| |Tennyson & Leslie|127|145,33| |Medium|6|Exschwasion|Egg Carton 3|single
+717|Hard to Pretend| |Tennyson & Leslie|127|145,33| |Hard|9|Exschwasion|Egg Carton 3|single
+718|Hard to Pretend| |Tennyson & Leslie|127|145,33|DS|Challenge|10|Exschwasion|Egg Carton 3|single
+719|Hard to Pretend| |Tennyson & Leslie|127|145,33|Lifts+ DS|Edit|11|Exschwasion|Egg Carton 3|single
+720|Hyperion| |Maozon|121|135,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+721|Hyperion| |Maozon|121|135,00| |Easy|4|Exschwasion|Egg Carton 3|single
+722|Hyperion| |Maozon|121|135,00|BT+|Medium|8|Exschwasion|Egg Carton 3|single
+723|Hyperion| |Maozon|121|135,00|BT+|Hard|10|Exschwasion|Egg Carton 3|single
+724|Hyperion| |Maozon|121|135,00|BT+|Challenge|11|Exschwasion|Egg Carton 3|single
+725|Hyperion| |Maozon|121|135,00|BT+ FS BU-|Edit|12|Exschwasion|Egg Carton 3|single
+726|ISOGA♥PEACH| |chelmico|113|180,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+727|ISOGA♥PEACH| |chelmico|113|180,00| |Easy|3|Exschwasion|Egg Carton 3|single
+728|ISOGA♥PEACH| |chelmico|113|180,00| |Medium|7|Exschwasion|Egg Carton 3|single
+729|ISOGA♥PEACH| |chelmico|113|180,00| |Hard|8|Exschwasion|Egg Carton 3|single
+730|ISOGA♥PEACH| |chelmico|113|180,00|DS|Challenge|10|Exschwasion|Egg Carton 3|single
+731|LiftOff| |MAYA AKAI|138|137,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+732|LiftOff| |MAYA AKAI|138|137,00| |Easy|4|Exschwasion|Egg Carton 3|single
+733|LiftOff| |MAYA AKAI|138|137,00| |Medium|8|Exschwasion|Egg Carton 3|single
+734|LiftOff| |MAYA AKAI|138|137,00|BR FS XO SS|Hard|11|Exschwasion|Egg Carton 3|single
+735|LiftOff| |MAYA AKAI|138|137,00|BU|Challenge|13|Exschwasion|Egg Carton 3|single
+736|LiftOff| |MAYA AKAI|138|137,00|Lifts+ DS XO|Edit|11|Exschwasion|Egg Carton 3|single
+737|LOLLYGAGGING| |Milkfish|119|130,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+738|LOLLYGAGGING| |Milkfish|119|130,00| |Easy|3|Exschwasion|Egg Carton 3|single
+739|LOLLYGAGGING| |Milkfish|119|130,00| |Medium|6|Exschwasion|Egg Carton 3|single
+740|LOLLYGAGGING| |Milkfish|119|130,00|FS|Hard|9|Exschwasion|Egg Carton 3|single
+741|LOLLYGAGGING| |Milkfish|119|130,00|FS XO|Challenge|10|Exschwasion|Egg Carton 3|single
+742|Lovely Lovely Lover| |EmoCosine|135|160,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+743|Lovely Lovely Lover| |EmoCosine|135|160,00| |Easy|7|Exschwasion|Egg Carton 3|single
+744|Lovely Lovely Lover| |EmoCosine|135|160,00|BR+|Medium|10|Exschwasion|Egg Carton 3|single
+745|Lovely Lovely Lover| |EmoCosine|135|160,00|BR+|Hard|11|Exschwasion|Egg Carton 3|single
+746|Lovely Lovely Lover| |EmoCosine|135|160,00|BR+ XO|Challenge|13|Exschwasion|Egg Carton 3|single
+747|Lovely Lovely Lover| |EmoCosine|135|160,00|BR+ XO+ FS+ SS+|Edit|14|Exschwasion|Egg Carton 3|single
+748|My Mutant Ride| |PAS TASTA ft. Satoko Shibata & TAKU INOUE|140|142,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+749|My Mutant Ride| |PAS TASTA ft. Satoko Shibata & TAKU INOUE|140|142,00| |Easy|3|Exschwasion|Egg Carton 3|single
+750|My Mutant Ride| |PAS TASTA ft. Satoko Shibata & TAKU INOUE|140|142,00| |Medium|5|Exschwasion|Egg Carton 3|single
+751|My Mutant Ride| |PAS TASTA ft. Satoko Shibata & TAKU INOUE|140|142,00| |Hard|7|Exschwasion|Egg Carton 3|single
+752|My Mutant Ride| |PAS TASTA ft. Satoko Shibata & TAKU INOUE|140|142,00|No Tech|Challenge|9|Exschwasion|Egg Carton 3|single
+753|POWER OF COURAGE| |Zekk|112|230,00| |Beginner|3|Exschwasion|Egg Carton 3|single
+754|POWER OF COURAGE| |Zekk|112|230,00| |Easy|6|Exschwasion|Egg Carton 3|single
+755|POWER OF COURAGE| |Zekk|112|230,00|FS|Medium|11|Exschwasion|Egg Carton 3|single
+756|POWER OF COURAGE| |Zekk|112|230,00|XO|Hard|12|Exschwasion|Egg Carton 3|single
+757|POWER OF COURAGE| |Zekk|112|230,00|BR FS XO SS|Challenge|14|Exschwasion|Egg Carton 3|single
+758|BeFor the Dawn| |Koke|147|240,00 - 300,00| |Beginner|3|Exschwasion|Egg Carton 3|single
+759|BeFor the Dawn| |Koke|147|240,00 - 300,00| |Easy|7|Exschwasion|Egg Carton 3|single
+760|BeFor the Dawn| |Koke|147|240,00 - 300,00| |Medium|11|Exschwasion|Egg Carton 3|single
+761|BeFor the Dawn| |Koke|147|240,00 - 300,00|BU BR|Hard|12|Exschwasion|Egg Carton 3|single
+762|BeFor the Dawn| |Koke|147|240,00 - 300,00|BU+ BR|Challenge|14|Exschwasion|Egg Carton 3|single
+763|Satellite Transmission| |siqlo|149|150,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+764|Satellite Transmission| |siqlo|149|150,00| |Easy|4|Exschwasion|Egg Carton 3|single
+765|Satellite Transmission| |siqlo|149|150,00|FS|Medium|8|Exschwasion|Egg Carton 3|single
+766|Satellite Transmission| |siqlo|149|150,00|FS+|Hard|11|Exschwasion|Egg Carton 3|single
+767|Satellite Transmission| |siqlo|149|150,00|FS SS XO DS|Challenge|13|Exschwasion|Egg Carton 3|single
+768|Satellite Transmission| |siqlo|149|150,00|FS+ SS+ XO+ DS|Edit|13|Exschwasion|Egg Carton 3|single
+769|Scorpion Girl no Kichou na Hoshoku Scene| |STEAKA|135|152,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+770|Scorpion Girl no Kichou na Hoshoku Scene| |STEAKA|135|152,00| |Easy|4|Exschwasion|Egg Carton 3|single
+771|Scorpion Girl no Kichou na Hoshoku Scene| |STEAKA|135|152,00| |Medium|9|Exschwasion|Egg Carton 3|single
+772|Scorpion Girl no Kichou na Hoshoku Scene| |STEAKA|135|152,00|FS XO|Hard|12|Exschwasion|Egg Carton 3|single
+773|Scorpion Girl no Kichou na Hoshoku Scene| |STEAKA|135|152,00|FS XO BU|Challenge|13|Exschwasion|Egg Carton 3|single
+774|Showdown Tendency| |KARUT|130|156,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+775|Showdown Tendency| |KARUT|130|156,00| |Easy|4|Exschwasion|Egg Carton 3|single
+776|Showdown Tendency| |KARUT|130|156,00|FS+|Medium|8|Exschwasion|Egg Carton 3|single
+777|Showdown Tendency| |KARUT|130|156,00|FS+|Hard|11|Exschwasion|Egg Carton 3|single
+778|Showdown Tendency| |KARUT|130|156,00|FS+|Challenge|12|Exschwasion|Egg Carton 3|single
+779|Showdown Tendency| |KARUT|130|156,00|FS+|Edit|13|Exschwasion|Egg Carton 3|single
+780|Shukusei Shinpan| |suzu|119|189,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+781|Shukusei Shinpan| |suzu|119|189,00| |Easy|5|Exschwasion|Egg Carton 3|single
+782|Shukusei Shinpan| |suzu|119|189,00|XO|Medium|9|Exschwasion|Egg Carton 3|single
+783|Shukusei Shinpan| |suzu|119|189,00|XO|Hard|11|Exschwasion|Egg Carton 3|single
+784|Shukusei Shinpan| |suzu|119|189,00|XO|Challenge|13|Exschwasion|Egg Carton 3|single
+785|Soul| |A.Fruit & Itoa|121|160,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+786|Soul| |A.Fruit & Itoa|121|160,00| |Easy|7|Exschwasion|Egg Carton 3|single
+787|Soul| |A.Fruit & Itoa|121|160,00|BR+|Medium|9|Exschwasion|Egg Carton 3|single
+788|Soul| |A.Fruit & Itoa|121|160,00|BR+|Hard|11|Exschwasion|Egg Carton 3|single
+789|Soul| |A.Fruit & Itoa|121|160,00|BR+ DS|Challenge|12|Exschwasion|Egg Carton 3|single
+790|Soul| |A.Fruit & Itoa|121|160,00|BR+ FS+ DS KS-|Edit|13|Exschwasion|Egg Carton 3|single
+791|Space Creation Theory| |Sound piercer|146|138,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+792|Space Creation Theory| |Sound piercer|146|138,00| |Easy|4|Exschwasion|Egg Carton 3|single
+793|Space Creation Theory| |Sound piercer|146|138,00|XO|Medium|8|Exschwasion|Egg Carton 3|single
+794|Space Creation Theory| |Sound piercer|146|138,00|XO|Hard|10|Exschwasion|Egg Carton 3|single
+795|Space Creation Theory| |Sound piercer|146|138,00|DS+ XO|Challenge|12|Exschwasion|Egg Carton 3|single
+796|Space Creation Theory| |Sound piercer|146|138,00|Multitaps XO|Edit|12|Exschwasion|Egg Carton 3|single
+797|Space Creation Theory| |Sound piercer|146|138,00| |Edit|1| |Egg Carton 3|double
+798|Spica no Tenbin| |Acotto|149|252,00| |Beginner|3|Exschwasion|Egg Carton 3|single
+799|Spica no Tenbin| |Acotto|149|252,00| |Easy|7|Exschwasion|Egg Carton 3|single
+800|Spica no Tenbin| |Acotto|149|252,00| |Medium|11|Exschwasion|Egg Carton 3|single
+801|Spica no Tenbin| |Acotto|149|252,00|BU|Hard|12|Exschwasion|Egg Carton 3|single
+802|Spica no Tenbin| |Acotto|149|252,00|BU DS|Challenge|14|Exschwasion|Egg Carton 3|single
+803|spoopy| |Daoko & Yohji Igarashi|126|126,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+804|spoopy| |Daoko & Yohji Igarashi|126|126,00| |Easy|3|Exschwasion|Egg Carton 3|single
+805|spoopy| |Daoko & Yohji Igarashi|126|126,00| |Medium|7|Exschwasion|Egg Carton 3|single
+806|spoopy| |Daoko & Yohji Igarashi|126|126,00| |Hard|9|Exschwasion|Egg Carton 3|single
+807|spoopy| |Daoko & Yohji Igarashi|126|126,00|DS BU|Challenge|11|Exschwasion|Egg Carton 3|single
+808|spoopy| |Daoko & Yohji Igarashi|126|126,00|BR XO FS BU BT KS|Edit|12|Exschwasion|Egg Carton 3|single
+809|Tell Me| |Tatsunoshin|127|172,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+810|Tell Me| |Tatsunoshin|127|172,00| |Easy|5|Exschwasion|Egg Carton 3|single
+811|Tell Me| |Tatsunoshin|127|172,00| |Medium|9|Exschwasion|Egg Carton 3|single
+812|Tell Me| |Tatsunoshin|127|172,00|BR FS XO|Hard|11|Exschwasion|Egg Carton 3|single
+813|Tell Me| |Tatsunoshin|127|172,00|XO BU-|Challenge|13|Exschwasion|Egg Carton 3|single
+814|This Is Club Musik| |REMO-CON feat. Ookubo Momiji|122|165,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+815|This Is Club Musik| |REMO-CON feat. Ookubo Momiji|122|165,00| |Easy|8|Exschwasion|Egg Carton 3|single
+816|This Is Club Musik| |REMO-CON feat. Ookubo Momiji|122|165,00|FS|Medium|9|Exschwasion|Egg Carton 3|single
+817|This Is Club Musik| |REMO-CON feat. Ookubo Momiji|122|165,00|FS DS|Hard|11|Exschwasion|Egg Carton 3|single
+818|This Is Club Musik| |REMO-CON feat. Ookubo Momiji|122|165,00|Rolls BR FS XO|Challenge|13|Exschwasion|Egg Carton 3|single
+819|TRAFIK!| |Käärijä & Joost|132|165,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+820|TRAFIK!| |Käärijä & Joost|132|165,00| |Easy|4|Exschwasion|Egg Carton 3|single
+821|TRAFIK!| |Käärijä & Joost|132|165,00| |Medium|8|Exschwasion|Egg Carton 3|single
+822|TRAFIK!| |Käärijä & Joost|132|165,00| |Hard|10|Exschwasion|Egg Carton 3|single
+823|TRAFIK!| |Käärijä & Joost|132|165,00|No Tech|Challenge|12|Exschwasion|Egg Carton 3|single
+824|TRAFIK!| |Käärijä & Joost|132|165,00|BR FS XO SS BT|Edit|14|Exschwasion|Egg Carton 3|single
+825|Voice 2 Voice n Voice| |Acotto|122|157,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+826|Voice 2 Voice n Voice| |Acotto|122|157,00| |Easy|8|Exschwasion|Egg Carton 3|single
+827|Voice 2 Voice n Voice| |Acotto|122|157,00| |Medium|10|Exschwasion|Egg Carton 3|single
+828|Voice 2 Voice n Voice| |Acotto|122|157,00|FS+|Hard|12|Exschwasion|Egg Carton 3|single
+829|Voice 2 Voice n Voice| |Acotto|122|157,00|BR FS XO SS BU JA|Challenge|14|Exschwasion|Egg Carton 3|single
+830|WDM2000|(GT800)|ZoeEngine|144|175,00| |Beginner|3|Exschwasion|Egg Carton 3|single
+831|WDM2000|(GT800)|ZoeEngine|144|175,00| |Easy|5|Exschwasion|Egg Carton 3|single
+832|WDM2000|(GT800)|ZoeEngine|144|175,00|FS+|Medium|9|Exschwasion|Egg Carton 3|single
+833|WDM2000|(GT800)|ZoeEngine|144|175,00|FS|Hard|11|Exschwasion|Egg Carton 3|single
+834|WDM2000|(GT800)|ZoeEngine|144|175,00|FS+ DS|Challenge|13|Exschwasion|Egg Carton 3|single
+835|We Gonna Journey| |Queen P.A.L.|137|160,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+836|We Gonna Journey| |Queen P.A.L.|137|160,00| |Easy|5|Exschwasion|Egg Carton 3|single
+837|We Gonna Journey| |Queen P.A.L.|137|160,00|XO|Medium|8|Exschwasion|Egg Carton 3|single
+838|We Gonna Journey| |Queen P.A.L.|137|160,00|FS XO|Hard|10|Exschwasion|Egg Carton 3|single
+839|We Gonna Journey| |Queen P.A.L.|137|160,00|BR FS XO|Challenge|12|Exschwasion|Egg Carton 3|single
+840|Whipdash| |Sixtroke|142|150,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+841|Whipdash| |Sixtroke|142|150,00| |Easy|4|Exschwasion|Egg Carton 3|single
+842|Whipdash| |Sixtroke|142|150,00| |Medium|7|Exschwasion|Egg Carton 3|single
+843|Whipdash| |Sixtroke|142|150,00|BR|Hard|9|Exschwasion|Egg Carton 3|single
+844|Whipdash| |Sixtroke|142|150,00|BR+ DS|Challenge|11|Exschwasion|Egg Carton 3|single
+845|Whipdash| |Sixtroke|142|150,00|BR+ KS+ BU-|Edit|12|Exschwasion|Egg Carton 3|single
+846|Whisper City| |NOMELON NOLEMON|148|123,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+847|Whisper City| |NOMELON NOLEMON|148|123,00| |Easy|3|Exschwasion|Egg Carton 3|single
+848|Whisper City| |NOMELON NOLEMON|148|123,00| |Medium|5|Exschwasion|Egg Carton 3|single
+849|Whisper City| |NOMELON NOLEMON|148|123,00| |Hard|7|Exschwasion|Egg Carton 3|single
+850|Whisper City| |NOMELON NOLEMON|148|123,00|XO-|Challenge|9|Exschwasion|Egg Carton 3|single
+851|Wobbpotato| |Philce|103|140,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+852|Wobbpotato| |Philce|103|140,00| |Easy|3|Exschwasion|Egg Carton 3|single
+853|Wobbpotato| |Philce|103|140,00| |Medium|7|Exschwasion|Egg Carton 3|single
+854|Wobbpotato| |Philce|103|140,00| |Hard|8|Exschwasion|Egg Carton 3|single
+855|Wobbpotato| |Philce|103|140,00|No Tech|Challenge|10|Exschwasion|Egg Carton 3|single
+856|Wobbpotato| |Philce|103|140,00|Mods|Edit|9|TaroNuke (adapted by Exschwasion)|Egg Carton 3|single
+857|Wonder Panda Traveler|（ワンダーパンダートラベラー）|FANTAGIRAFF|143|158,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+858|Wonder Panda Traveler|（ワンダーパンダートラベラー）|FANTAGIRAFF|143|158,00| |Easy|8|Exschwasion|Egg Carton 3|single
+859|Wonder Panda Traveler|（ワンダーパンダートラベラー）|FANTAGIRAFF|143|158,00| |Medium|11|Exschwasion|Egg Carton 3|single
+860|Wonder Panda Traveler|（ワンダーパンダートラベラー）|FANTAGIRAFF|143|158,00|FS|Hard|12|Exschwasion|Egg Carton 3|single
+861|Wonder Panda Traveler|（ワンダーパンダートラベラー）|FANTAGIRAFF|143|158,00|FS XO BU|Challenge|14|Exschwasion|Egg Carton 3|single
+862|Workaholic| |midy feat. Kosuzu|136|146,00| |Beginner|1|Exschwasion|Egg Carton 3|single
+863|Workaholic| |midy feat. Kosuzu|136|146,00| |Easy|4|Exschwasion|Egg Carton 3|single
+864|Workaholic| |midy feat. Kosuzu|136|146,00| |Medium|7|Exschwasion|Egg Carton 3|single
+865|Workaholic| |midy feat. Kosuzu|136|146,00|DS KS|Hard|9|Exschwasion|Egg Carton 3|single
+866|Workaholic| |midy feat. Kosuzu|136|146,00|FS DS KS|Challenge|11|Exschwasion|Egg Carton 3|single
+867|You Know| |REXY=DEXY|133|150,00| |Beginner|2|Exschwasion|Egg Carton 3|single
+868|You Know| |REXY=DEXY|133|150,00|XO+|Easy|8|Exschwasion|Egg Carton 3|single
+869|You Know| |REXY=DEXY|133|150,00|XO+|Medium|10|Exschwasion|Egg Carton 3|single
+870|You Know| |REXY=DEXY|133|150,00|XO+ SS|Hard|12|Exschwasion|Egg Carton 3|single
+871|You Know| |REXY=DEXY|133|150,00|SS+ FS XO BR|Challenge|13|Exschwasion|Egg Carton 3|single
+872|[Mix] Low-Frequency Weapons| |Red Spear|452|125,00 - 128,00| |Beginner|8|Exschwasion|Egg Carton 3|single
+873|[Mix] Low-Frequency Weapons| |Red Spear|452|125,00 - 128,00| |Easy|10|Exschwasion|Egg Carton 3|single
+874|[Mix] Low-Frequency Weapons| |Red Spear|452|125,00 - 128,00|FS|Medium|11|Exschwasion|Egg Carton 3|single
+875|[Mix] Low-Frequency Weapons| |Red Spear|452|125,00 - 128,00|26* / 26* / 26* / 30* / 18* / 18*|Hard|12|Exschwasion|Egg Carton 3|single
+876|[Mix] Low-Frequency Weapons| |Red Spear|452|125,00 - 128,00|FS+ BR XO DS SS KS BU- Rolls-|Challenge|13|Exschwasion|Egg Carton 3|single
+877|[Mix] VICIOUS CYQLE| |siqlo|443|150,00| |Beginner|9|Exschwasion|Egg Carton 3|single
+878|[Mix] VICIOUS CYQLE| |siqlo|443|150,00|FS|Easy|10|Exschwasion|Egg Carton 3|single
+879|[Mix] VICIOUS CYQLE| |siqlo|443|150,00|FS|Medium|12|Exschwasion|Egg Carton 3|single
+880|[Mix] VICIOUS CYQLE| |siqlo|443|150,00|40* / 72* / 44* / 19* / 34*|Hard|14|Exschwasion|Egg Carton 3|single
+881|[Mix] VICIOUS CYQLE| |siqlo|443|150,00|BR FS XO BU|Challenge|14|Exschwasion|Egg Carton 3|single
+882|Lovers| |7!!|89|164,00| |Beginner|1|underjoy|Paczka Ziemniaczka v2|single
+883|Lovers| |7!!|89|164,00| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+884|Lovers| |7!!|89|164,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+885|Lovers| |7!!|89|164,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+886|Przez Twe Oczy Zielone| |Akcent|114|137,72| |Beginner|1|underjoy|Paczka Ziemniaczka v2|single
+887|Przez Twe Oczy Zielone| |Akcent|114|137,72| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+888|Przez Twe Oczy Zielone| |Akcent|114|137,72| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+889|Przez Twe Oczy Zielone| |Akcent|114|137,72| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+890|Dango Daikazoku|Dango Ma Nigga|Chata ft. Busta Rhymes|115|99,99 - 103,50| |Beginner|2|underjoy|Paczka Ziemniaczka v2|single
+891|Dango Daikazoku|Dango Ma Nigga|Chata ft. Busta Rhymes|115|99,99 - 103,50| |Easy|5|underjoy|Paczka Ziemniaczka v2|single
+892|Dango Daikazoku|Dango Ma Nigga|Chata ft. Busta Rhymes|115|99,99 - 103,50| |Hard|8|underjoy|Paczka Ziemniaczka v2|single
+893|Dango Daikazoku|Dango Ma Nigga|Chata ft. Busta Rhymes|115|99,99 - 103,50| |Challenge|9|underjoy|Paczka Ziemniaczka v2|single
+894|I Can Fly In The Universe| |Camellia|168|175,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+895|I Can Fly In The Universe| |Camellia|168|175,00| |Challenge|12|underjoy|Paczka Ziemniaczka v2|single
+896|Bassdrop Freaks| |Camellia feat. Nanahira|120|179,00| |Easy|2|underjoy|Paczka Ziemniaczka v2|single
+897|Bassdrop Freaks| |Camellia feat. Nanahira|120|179,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+898|Bassdrop Freaks| |Camellia feat. Nanahira|120|179,00| |Hard|10|underjoy|Paczka Ziemniaczka v2|single
+899|Bassdrop Freaks| |Camellia feat. Nanahira|120|179,00| |Challenge|12|underjoy|Paczka Ziemniaczka v2|single
+900|Torero| |Chayanne|123|136,00| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+901|Torero| |Chayanne|123|136,00| |Medium|7|underjoy|Paczka Ziemniaczka v2|single
+902|Torero| |Chayanne|123|136,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+903|Torero| |Chayanne|123|136,00| |Challenge|12|underjoy|Paczka Ziemniaczka v2|single
+904|Faced| |DJ Genki|106|180,00| |Easy|2|underjoy|Paczka Ziemniaczka v2|single
+905|Faced| |DJ Genki|106|180,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+906|Faced| |DJ Genki|106|180,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+907|Faced| |DJ Genki|106|180,00| |Challenge|11|underjoy|Paczka Ziemniaczka v2|single
+908|Japanese Transformation| |DJKurara|231|260,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+909|Japanese Transformation| |DJKurara|231|260,00| |Hard|11|underjoy|Paczka Ziemniaczka v2|single
+910|Japanese Transformation| |DJKurara|231|260,00| |Challenge|12|underjoy|Paczka Ziemniaczka v2|single
+911|Andrzej Duda Nam Sie Udal| |Emilia Golaszewska|127|24,80 - 87,91| |Easy|2|underjoy|Paczka Ziemniaczka v2|single
+912|Andrzej Duda Nam Sie Udal| |Emilia Golaszewska|127|24,80 - 87,91| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+913|Andrzej Duda Nam Sie Udal| |Emilia Golaszewska|127|24,80 - 87,91| |Hard|12|underjoy|Paczka Ziemniaczka v2|single
+914|Gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Hard|11|Ziemniax|Paczka Ziemniaczka v2|single
+915|Gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Challenge|13|Ziemniax|Paczka Ziemniaczka v2|single
+916|Gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Beginner|2|Kacpi|Paczka Ziemniaczka v2|single
+917|Gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Easy|5|Kacpi|Paczka Ziemniaczka v2|single
+918|Gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Medium|8|Kacpi|Paczka Ziemniaczka v2|single
+919|Dadadadadadadadadada| |Hige Driver join. SELEN|106|156,00| |Beginner|2|underjoy|Paczka Ziemniaczka v2|single
+920|Dadadadadadadadadada| |Hige Driver join. SELEN|106|156,00| |Easy|4|underjoy|Paczka Ziemniaczka v2|single
+921|Dadadadadadadadadada| |Hige Driver join. SELEN|106|156,00| |Medium|8|underjoy|Paczka Ziemniaczka v2|single
+922|Dadadadadadadadadada| |Hige Driver join. SELEN|106|156,00| |Hard|10|underjoy|Paczka Ziemniaczka v2|single
+923|Dadadadadadadadadada| |Hige Driver join. SELEN|106|156,00| |Challenge|13|underjoy|Paczka Ziemniaczka v2|single
+924|gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Hard|10|underjoy|Paczka Ziemniaczka v2|single
+925|gigadelic|Camellia's THE TERA RMX|ikaruga_nex|119|183,00| |Challenge|12|underjoy|Paczka Ziemniaczka v2|single
+926|Usatei 2011| |IOSYS|184|190,00| |Easy|2|underjoy|Paczka Ziemniaczka v2|single
+927|Usatei 2011| |IOSYS|184|190,00| |Medium|5|underjoy|Paczka Ziemniaczka v2|single
+928|Usatei 2011| |IOSYS|184|190,00| |Hard|7|underjoy|Paczka Ziemniaczka v2|single
+929|Usatei 2011| |IOSYS|184|190,00| |Challenge|9|underjoy|Paczka Ziemniaczka v2|single
+930|Japanese Transformation| |DJKurara|231|260,00| |Medium|10|Ziemniax & Kacpi|Paczka Ziemniaczka v2|single
+931|Japanese Transformation| |DJKurara|231|260,00| |Hard|13|Ziemniax & Kacpi|Paczka Ziemniaczka v2|single
+932|Japanese Transformation| |DJKurara|231|260,00| |Challenge|14|Ziemniax|Paczka Ziemniaczka v2|single
+933|Japanese Transformation| |DJKurara|231|260,00| |Beginner|4|Kacpi|Paczka Ziemniaczka v2|single
+934|Japanese Transformation| |DJKurara|231|260,00| |Easy|7|Kacpi|Paczka Ziemniaczka v2|single
+935|Japanese Transformation| |DJKurara|231|260,00| |Edit|16|EXTREME|Paczka Ziemniaczka v2|single
+936|Cyber Thunder Cider| |Jyaanii|149|145,00| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+937|Cyber Thunder Cider| |Jyaanii|149|145,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+938|Cyber Thunder Cider| |Jyaanii|149|145,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+939|Cyber Thunder Cider| |Jyaanii|149|145,00| |Challenge|11|underjoy|Paczka Ziemniaczka v2|single
+940|Kitsune no Yomeiri| |Masa|154|240,00| |Hard|12|Ziemniax & Kacpi|Paczka Ziemniaczka v2|single
+941|Kitsune no Yomeiri| |Masa|154|240,00| |Challenge|13|Ziemniax|Paczka Ziemniaczka v2|single
+942|Kitsune no Yomeiri| |Masa|154|240,00| |Medium|9|Kacpi|Paczka Ziemniaczka v2|single
+943|Kitsune no Yomeiri| |Masa|154|240,00| |Easy|6|Kacpi|Paczka Ziemniaczka v2|single
+944|Kitsune no Yomeiri| |Masa|154|240,00| |Beginner|3|Kacpi|Paczka Ziemniaczka v2|single
+945|Poison AND/OR Affection|CMOD = Easy Mode|LeaF|124|120,00| |Hard|6|underjoy|Paczka Ziemniaczka v2|single
+946|Poison AND/OR Affection|CMOD = Easy Mode|LeaF|124|120,00| |Challenge|10|underjoy|Paczka Ziemniaczka v2|single
+947|Kitsune no Yomeiri| |Masa|154|240,00| |Hard|11|underjoy|Paczka Ziemniaczka v2|single
+948|Kitsune no Yomeiri| |Masa|154|240,00| |Challenge|12|underjoy|Paczka Ziemniaczka v2|single
+949|NO NIGHT MORE SOUL!| |nekomirin|141|165,00| |Beginner|3|underjoy|Paczka Ziemniaczka v2|single
+950|NO NIGHT MORE SOUL!| |nekomirin|141|165,00| |Easy|7|underjoy|Paczka Ziemniaczka v2|single
+951|NO NIGHT MORE SOUL!| |nekomirin|141|165,00| |Medium|10|underjoy|Paczka Ziemniaczka v2|single
+952|NO NIGHT MORE SOUL!| |nekomirin|141|165,00| |Hard|12|underjoy|Paczka Ziemniaczka v2|single
+953|NO NIGHT MORE SOUL!| |nekomirin|141|165,00| |Challenge|14|underjoy|Paczka Ziemniaczka v2|single
+954|Flicker|CMOD = Easy Mode|Porter Robinson|141|92,00| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+955|Flicker|CMOD = Easy Mode|Porter Robinson|141|92,00| |Medium|7|underjoy|Paczka Ziemniaczka v2|single
+956|Flicker|CMOD = Easy Mode|Porter Robinson|141|92,00| |Hard|10|underjoy|Paczka Ziemniaczka v2|single
+957|Energy Flower 3007| |r300k|125|133,00| |Easy|2|underjoy|Paczka Ziemniaczka v2|single
+958|Energy Flower 3007| |r300k|125|133,00| |Medium|5|underjoy|Paczka Ziemniaczka v2|single
+959|Energy Flower 3007| |r300k|125|133,00| |Hard|8|underjoy|Paczka Ziemniaczka v2|single
+960|Energy Flower 3007| |r300k|125|133,00| |Challenge|11|underjoy|Paczka Ziemniaczka v2|single
+961|No title| |REOL|91|200,02| |Beginner|2|underjoy|Paczka Ziemniaczka v2|single
+962|No title| |REOL|91|200,02| |Easy|4|underjoy|Paczka Ziemniaczka v2|single
+963|No title| |REOL|91|200,02| |Medium|7|underjoy|Paczka Ziemniaczka v2|single
+964|No title| |REOL|91|200,02| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+965|Unshakable| |RiraN|113|150,00| |Beginner|1|underjoy|Paczka Ziemniaczka v2|single
+966|Unshakable| |RiraN|113|150,00| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+967|Unshakable| |RiraN|113|150,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+968|Unshakable| |RiraN|113|150,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+969|Hurting For A Very Hurtful Pain| |VY1VY2|96|140,00| |Beginner|1|underjoy|Paczka Ziemniaczka v2|single
+970|Hurting For A Very Hurtful Pain| |VY1VY2|96|140,00| |Easy|4|underjoy|Paczka Ziemniaczka v2|single
+971|Hurting For A Very Hurtful Pain| |VY1VY2|96|140,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+972|Hurting For A Very Hurtful Pain| |VY1VY2|96|140,00| |Hard|8|underjoy|Paczka Ziemniaczka v2|single
+973|Hurting For A Very Hurtful Pain| |VY1VY2|96|140,00| |Challenge|11|underjoy|Paczka Ziemniaczka v2|single
+974|Kounaru Senritsu|-the solitary melody-|xenothium remixed by gmtn.|143|162,00| |Easy|2|underjoy|Paczka Ziemniaczka v2|single
+975|Kounaru Senritsu|-the solitary melody-|xenothium remixed by gmtn.|143|162,00| |Medium|5|underjoy|Paczka Ziemniaczka v2|single
+976|Kounaru Senritsu|-the solitary melody-|xenothium remixed by gmtn.|143|162,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+977|Kounaru Senritsu|-the solitary melody-|xenothium remixed by gmtn.|143|162,00| |Challenge|11|underjoy|Paczka Ziemniaczka v2|single
+978|Master of Genocide| |yukitani feat. DJ YKTN and DJ UMA|134|125,00| |Easy|3|underjoy|Paczka Ziemniaczka v2|single
+979|Master of Genocide| |yukitani feat. DJ YKTN and DJ UMA|134|125,00| |Medium|6|underjoy|Paczka Ziemniaczka v2|single
+980|Master of Genocide| |yukitani feat. DJ YKTN and DJ UMA|134|125,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+981|Master of Genocide| |yukitani feat. DJ YKTN and DJ UMA|134|125,00| |Challenge|13|underjoy|Paczka Ziemniaczka v2|single
+982|AiAe| |Yuyoyuppe|238|180,00| |Beginner|2|underjoy|Paczka Ziemniaczka v2|single
+983|AiAe| |Yuyoyuppe|238|180,00| |Easy|4|underjoy|Paczka Ziemniaczka v2|single
+984|AiAe| |Yuyoyuppe|238|180,00| |Medium|7|underjoy|Paczka Ziemniaczka v2|single
+985|AiAe| |Yuyoyuppe|238|180,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+986|AiAe| |Yuyoyuppe|238|180,00| |Challenge|11|underjoy|Paczka Ziemniaczka v2|single
+987|Bad Apple| |Yuyoyuppe|194|149,00| |Beginner|2|underjoy|Paczka Ziemniaczka v2|single
+988|Bad Apple| |Yuyoyuppe|194|149,00| |Easy|4|underjoy|Paczka Ziemniaczka v2|single
+989|Bad Apple| |Yuyoyuppe|194|149,00| |Medium|8|underjoy|Paczka Ziemniaczka v2|single
+990|Bad Apple| |Yuyoyuppe|194|149,00| |Hard|9|underjoy|Paczka Ziemniaczka v2|single
+991|Ziemniak's BOSS Sad Piano| |super sad|56|76,35 - 160,49| |Hard|10|underjoy|Paczka Ziemniaczka v2|single
+992|Ziemniak's BOSS Sad Piano| |super sad|56|76,35 - 160,49| |Challenge|13|underjoy|Paczka Ziemniaczka v2|single
+993|Angel of Death| |Axxis|152|124,00| |Challenge|11|Rikame|Rikame's Simfiles|single
+994|Angel of Death| |Axxis|152|124,00| |Hard|9|Rikame|Rikame's Simfiles|single
+995|Angel of Death| |Axxis|152|124,00| |Medium|7|Rikame|Rikame's Simfiles|single
+996|Angel of Death| |Axxis|152|124,00| |Easy|4|Rikame|Rikame's Simfiles|single
+997|Angel of Death| |Axxis|152|124,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+998|Black Lawn Finale| |The Flashbulb|162|182,00| |Hard|12|Rikame|Rikame's Simfiles|single
+999|Black Lawn Finale| |The Flashbulb|162|182,00| |Easy|6|Rikame|Rikame's Simfiles|single
+1000|Black Lawn Finale| |The Flashbulb|162|182,00| |Challenge|15|Rikame|Rikame's Simfiles|single
+1001|Black Lawn Finale| |The Flashbulb|162|182,00| |Medium|9|Rikame|Rikame's Simfiles|single
+1002|Black Lawn Finale| |The Flashbulb|162|182,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1003|Black Sheep| |Thomas Howard Lichtenstein|109|200,00| |Challenge|13|Rikame|Rikame's Simfiles|single
+1004|Black Sheep| |Thomas Howard Lichtenstein|109|200,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1005|Black Sheep| |Thomas Howard Lichtenstein|109|200,00| |Medium|8|Rikame|Rikame's Simfiles|single
+1006|Black Sheep| |Thomas Howard Lichtenstein|109|200,00| |Easy|5|Rikame|Rikame's Simfiles|single
+1007|Black Sheep| |Thomas Howard Lichtenstein|109|200,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1008|Bye Bye Bye| |'N Sync|128|86,29| |Challenge|9|Rikame|Rikame's Simfiles|single
+1009|Bye Bye Bye| |'N Sync|128|86,29| |Beginner|2|Rikame|Rikame's Simfiles|single
+1010|Bye Bye Bye| |'N Sync|128|86,29| |Easy|3|Rikame|Rikame's Simfiles|single
+1011|Bye Bye Bye| |'N Sync|128|86,29| |Medium|6|Rikame|Rikame's Simfiles|single
+1012|Bye Bye Bye| |'N Sync|128|86,29| |Hard|7|Rikame|Rikame's Simfiles|single
+1013|Cirno's Perfect Math Class| |IOSYS|122|175,00| |Challenge|12|Rikame|Rikame's Simfiles|single
+1014|Cirno's Perfect Math Class| |IOSYS|122|175,00| |Beginner|1|Blank|Rikame's Simfiles|single
+1015|Cirno's Perfect Math Class| |IOSYS|122|175,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1016|Cirno's Perfect Math Class| |IOSYS|122|175,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1017|Cirno's Perfect Math Class| |IOSYS|122|175,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1018|Dancing Samurai| |Gakupo|137|142,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1019|Dancing Samurai| |Gakupo|137|142,00| |Challenge|11|Rikame|Rikame's Simfiles|single
+1020|Dancing Samurai| |Gakupo|137|142,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1021|Dancing Samurai| |Gakupo|137|142,00| |Easy|5|Rikame|Rikame's Simfiles|single
+1022|Dancing Samurai| |Gakupo|137|142,00| |Beginner|3|Rikame|Rikame's Simfiles|single
+1023|Denjin Akatsuniki Taoreru| |Sota Fujimori|130|165,00| |Hard|12|Rikame|Rikame's Simfiles|single
+1024|Denjin Akatsuniki Taoreru| |Sota Fujimori|130|165,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1025|Denjin Akatsuniki Taoreru| |Sota Fujimori|130|165,00| |Easy|6|Rikame|Rikame's Simfiles|single
+1026|Denjin Akatsuniki Taoreru| |Sota Fujimori|130|165,00| |Medium|8|Rikame|Rikame's Simfiles|single
+1027|Denjin Akatsuniki Taoreru| |Sota Fujimori|130|165,00| |Challenge|13|Rikame|Rikame's Simfiles|single
+1028|Evergreen| |kors k|123|133,00| |Challenge|10|Rikame|Rikame's Simfiles|single
+1029|Evergreen| |kors k|123|133,00| |Easy|3|Rikame|Rikame's Simfiles|single
+1030|Evergreen| |kors k|123|133,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1031|Evergreen| |kors k|123|133,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1032|Evergreen| |kors k|123|133,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1033|Everything or Nothing| |Mya|166|-3,99 - 120,06| |Challenge|9|Rikame|Rikame's Simfiles|single
+1034|Everything or Nothing| |Mya|166|-3,99 - 120,06| |Hard|6|Rikame|Rikame's Simfiles|single
+1035|Everything or Nothing| |Mya|166|-3,99 - 120,06| |Medium|5|Rikame|Rikame's Simfiles|single
+1036|Everything or Nothing| |Mya|166|-3,99 - 120,06| |Easy|3|Rikame|Rikame's Simfiles|single
+1037|Everything or Nothing| |Mya|166|-3,99 - 120,06| |Beginner|1|Rikame|Rikame's Simfiles|single
+1038|Futurescope.NEXT| |Kernel400|129|0,50 - 175,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1039|Futurescope.NEXT| |Kernel400|129|0,50 - 175,00| |Challenge|12|Rikame|Rikame's Simfiles|single
+1040|Futurescope.NEXT| |Kernel400|129|0,50 - 175,00| |Medium|8|Rikame|Rikame's Simfiles|single
+1041|Futurescope.NEXT| |Kernel400|129|0,50 - 175,00| |Easy|5|Rikame|Rikame's Simfiles|single
+1042|Futurescope.NEXT| |Kernel400|129|0,50 - 175,00| |Beginner|3|Rikame|Rikame's Simfiles|single
+1043|Futurescope.NEXT| |Kernel400|129|0,50 - 175,00| |Edit|12|Twinsen|Rikame's Simfiles|single
+1044|Going On|- (AC Ver.)|S.S.H|97|108,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1045|Going On|- (AC Ver.)|S.S.H|97|108,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1046|Going On|- (AC Ver.)|S.S.H|97|108,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1047|Going On|- (AC Ver.)|S.S.H|97|108,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1048|Going On|- (AC Ver.)|S.S.H|97|108,00| |Challenge|10|Rikame|Rikame's Simfiles|single
+1049|I Like Trains| |Todd Bryanton|117|185,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1050|I Like Trains| |Todd Bryanton|117|185,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1051|I Like Trains| |Todd Bryanton|117|185,00| |Challenge|10|Rikame|Rikame's Simfiles|single
+1052|I Like Trains| |Todd Bryanton|117|185,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1053|I Like Trains| |Todd Bryanton|117|185,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1054|Lawn  Wake  I| |The Flashbulb|119|215,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1055|Lawn  Wake  I| |The Flashbulb|119|215,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1056|Lawn  Wake  I| |The Flashbulb|119|215,00| |Easy|3|Rikame|Rikame's Simfiles|single
+1057|Lawn  Wake  I| |The Flashbulb|119|215,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1058|Lawn  Wake  I| |The Flashbulb|119|215,00| |Challenge|15|Rikame ^^|Rikame's Simfiles|single
+1059|Legendary Tales| |Rhapsody of Fire|147|85,00| |Hard|7|Rikame|Rikame's Simfiles|single
+1060|Legendary Tales| |Rhapsody of Fire|147|85,00| |Challenge|9|Rikame|Rikame's Simfiles|single
+1061|Legendary Tales| |Rhapsody of Fire|147|85,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1062|Legendary Tales| |Rhapsody of Fire|147|85,00| |Easy|3|Rikame|Rikame's Simfiles|single
+1063|Legendary Tales| |Rhapsody of Fire|147|85,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1064|Madness Apotheosis Theme| |Sean Hodges|114|145,00| |Challenge|9|Blank|Rikame's Simfiles|single
+1065|Madness Apotheosis Theme| |Sean Hodges|114|145,00| |Hard|8|Rikame|Rikame's Simfiles|single
+1066|Madness Apotheosis Theme| |Sean Hodges|114|145,00| |Medium|5|Rikame|Rikame's Simfiles|single
+1067|Madness Apotheosis Theme| |Sean Hodges|114|145,00| |Easy|3|Rikame|Rikame's Simfiles|single
+1068|Madness Apotheosis Theme| |Sean Hodges|114|145,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1069|Maid of Orleans| |Dark Moor|120|0,00 - 180,00| |Challenge|12|Rikame|Rikame's Simfiles|single
+1070|Maid of Orleans| |Dark Moor|120|0,00 - 180,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1071|Maid of Orleans| |Dark Moor|120|0,00 - 180,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1072|Maid of Orleans| |Dark Moor|120|0,00 - 180,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1073|Maid of Orleans| |Dark Moor|120|0,00 - 180,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1074|Queen of the Dark Horizons| |Rhapsody of Fire|116|240,00| |Challenge|16|Rikame|Rikame's Simfiles|single
+1075|Queen of the Dark Horizons| |Rhapsody of Fire|116|240,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1076|Queen of the Dark Horizons| |Rhapsody of Fire|116|240,00| |Easy|6|Rikame|Rikame's Simfiles|single
+1077|Queen of the Dark Horizons| |Rhapsody of Fire|116|240,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1078|Queen of the Dark Horizons| |Rhapsody of Fire|116|240,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1079|Reign of Terror| |Rhapsody of Fire|112|0,35 - 170,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1080|Reign of Terror| |Rhapsody of Fire|112|0,35 - 170,00| |Challenge|12|Rikame|Rikame's Simfiles|single
+1081|Reign of Terror| |Rhapsody of Fire|112|0,35 - 170,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1082|Reign of Terror| |Rhapsody of Fire|112|0,35 - 170,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1083|Reign of Terror| |Rhapsody of Fire|112|0,35 - 170,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1084|Slicing the Wind| |Yoh Ohyama|124|224,00| |Challenge|10|Rikame|Rikame's Simfiles|single
+1085|Slicing the Wind| |Yoh Ohyama|124|224,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1086|Slicing the Wind| |Yoh Ohyama|124|224,00| |Easy|5|Rikame|Rikame's Simfiles|single
+1087|Slicing the Wind| |Yoh Ohyama|124|224,00| |Medium|8|Rikame|Rikame's Simfiles|single
+1088|Slicing the Wind| |Yoh Ohyama|124|224,00| |Hard|8|Rikame|Rikame's Simfiles|single
+1089|Steel Needle| |L.E.D G|129|213,00| |Challenge|13|Rikame|Rikame's Simfiles|single
+1090|Steel Needle| |L.E.D G|129|213,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1091|Steel Needle| |L.E.D G|129|213,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1092|Steel Needle| |L.E.D G|129|213,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1093|Steel Needle| |L.E.D G|129|213,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1094|The Deep Striker| |L.E.D G|118|-2,87 - 173,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1095|The Deep Striker| |L.E.D G|118|-2,87 - 173,00| |Medium|8|Rikame|Rikame's Simfiles|single
+1096|The Deep Striker| |L.E.D G|118|-2,87 - 173,00| |Easy|5|Rikame|Rikame's Simfiles|single
+1097|The Deep Striker| |L.E.D G|118|-2,87 - 173,00| |Beginner|3|Rikame|Rikame's Simfiles|single
+1098|The Deep Striker| |L.E.D G|118|-2,87 - 173,00| |Challenge|11|Rikame|Rikame's Simfiles|single
+1099|The Fourth Sequence| |Sabrepulse|129|55,00| |Easy|4|Rikame|Rikame's Simfiles|single
+1100|The Fourth Sequence| |Sabrepulse|129|55,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1101|The Fourth Sequence| |Sabrepulse|129|55,00| |Challenge|11|Rikame|Rikame's Simfiles|single
+1102|The Fourth Sequence| |Sabrepulse|129|55,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1103|The Fourth Sequence| |Sabrepulse|129|55,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1104|The Last Striker| |L.E.D G|122|185,00| |Hard|9|Rikame|Rikame's Simfiles|single
+1105|The Last Striker| |L.E.D G|122|185,00| |Easy|5|Rikame|Rikame's Simfiles|single
+1106|The Last Striker| |L.E.D G|122|185,00| |Beginner|1|Rikame|Rikame's Simfiles|single
+1107|The Last Striker| |L.E.D G|122|185,00| |Challenge|12|Rikame|Rikame's Simfiles|single
+1108|The Last Striker| |L.E.D G|122|185,00| |Medium|6|Rikame|Rikame's Simfiles|single
+1109|Valkyrie Dimension| |Spriggan|114|90,00 - 186,00| |Challenge|13|Rikame|Rikame's Simfiles|single
+1110|Valkyrie Dimension| |Spriggan|114|90,00 - 186,00| |Medium|7|Rikame|Rikame's Simfiles|single
+1111|Valkyrie Dimension| |Spriggan|114|90,00 - 186,00| |Hard|10|Rikame|Rikame's Simfiles|single
+1112|Valkyrie Dimension| |Spriggan|114|90,00 - 186,00| |Easy|6|Rikame|Rikame's Simfiles|single
+1113|Valkyrie Dimension| |Spriggan|114|90,00 - 186,00| |Beginner|2|Rikame|Rikame's Simfiles|single
+1114|Xephon| |DJ Sharpnel|134|179,50| |Challenge|11|Rikame|Rikame's Simfiles|single
+1115|Xephon| |DJ Sharpnel|134|179,50| |Hard|9|Rikame|Rikame's Simfiles|single
+1116|Xephon| |DJ Sharpnel|134|179,50| |Medium|6|Rikame|Rikame's Simfiles|single
+1117|Xephon| |DJ Sharpnel|134|179,50| |Easy|4|Rikame|Rikame's Simfiles|single
+1118|Xephon| |DJ Sharpnel|134|179,50| |Beginner|2|Rikame|Rikame's Simfiles|single
+1119|Collision| |Laur|182|200,00|No Tech|Easy|7|Tidek|The Abyss of Despair|single
+1120|Collision| |Laur|182|200,00|XO HS-|Medium|9|Tidek|The Abyss of Despair|single
+1121|Collision| |Laur|182|200,00|BXF HS-|Hard|11|Tidek|The Abyss of Despair|single
+1122|Collision| |Laur|182|200,00|SPD BXF HS-|Challenge|13|Tidek|The Abyss of Despair|single
+1123|Diabolic Enemy| |Laur|188|135,00|No Tech|Easy|8|Tidek|The Abyss of Despair|single
+1124|Diabolic Enemy| |Laur|188|135,00|BXF|Medium|11|Tidek|The Abyss of Despair|single
+1125|Diabolic Enemy| |Laur|188|135,00|BXF SS- BT-|Hard|12|Tidek|The Abyss of Despair|single
+1126|Diabolic Enemy| |Laur|188|135,00|BU++ BX-F SS BT-|Challenge|14|Tidek|The Abyss of Despair|single
+1127|End of Celestia| |Laur|200|175,00|No Tech|Easy|7|Tidek|The Abyss of Despair|single
+1128|End of Celestia| |Laur|200|175,00|XO FS|Medium|9|Tidek|The Abyss of Despair|single
+1129|End of Celestia| |Laur|200|175,00|BXF BT|Hard|11|Tidek|The Abyss of Despair|single
+1130|End of Celestia| |Laur|200|175,00|STR BXF BU BT SS-|Challenge|14|Tidek|The Abyss of Despair|single
+1131|Evoke| |Laur|146|175,00|No Tech|Medium|7|Tidek|The Abyss of Despair|single
+1132|Evoke| |Laur|146|175,00|JU|Hard|9|Tidek|The Abyss of Despair|single
+1133|Evoke| |Laur|146|175,00|BR+|Challenge|11|Tidek|The Abyss of Despair|single
+1134|Executioner| |Laur|240|135,00|XO|Easy|8|Tidek|The Abyss of Despair|single
+1135|Executioner| |Laur|240|135,00|BXF|Medium|11|Tidek|The Abyss of Despair|single
+1136|Executioner| |Laur|240|135,00|BXF SS BU|Hard|13|Tidek|The Abyss of Despair|single
+1137|Executioner| |Laur|240|135,00|BU++ BX-F|Challenge|14|Tidek|The Abyss of Despair|single
+1138|Latent Kingdom|(Extended)|Laur vs Oguni Kanon|300|175,00 - 201,00|No Tech|Easy|7|Tidek|The Abyss of Despair|single
+1139|Latent Kingdom|(Extended)|Laur vs Oguni Kanon|300|175,00 - 201,00|XO FS|Medium|10|Tidek|The Abyss of Despair|single
+1140|Latent Kingdom|(Extended)|Laur vs Oguni Kanon|300|175,00 - 201,00|SPD BXF HS-|Hard|12|Tidek|The Abyss of Despair|single
+1141|Latent Kingdom|(Extended)|Laur vs Oguni Kanon|300|175,00 - 201,00|SPD BXF DS BU BT SS-|Challenge|13|Tidek|The Abyss of Despair|single
+1142|Scarlet Garland| |Laur|209|150,00|XO|Medium|8|Tidek|The Abyss of Despair|single
+1143|Scarlet Garland| |Laur|209|150,00|XM XO BR|Hard|10|Tidek|The Abyss of Despair|single
+1144|Scarlet Garland| |Laur|209|150,00|XM BXF BU-|Challenge|12|Tidek|The Abyss of Despair|single
+1145|The Abyss of Despair|feat. Aitsuki Nakuru|Laur|247|175,00|XM-|Medium|7|Tidek|The Abyss of Despair|single
+1146|The Abyss of Despair|feat. Aitsuki Nakuru|Laur|247|175,00|XM BR|Hard|9|Tidek|The Abyss of Despair|single
+1147|The Abyss of Despair|feat. Aitsuki Nakuru|Laur|247|175,00|XM+ BR|Challenge|10|Tidek|The Abyss of Despair|single
+1148|Viper| |Laur|180|105,00|DS|Medium|8|Tidek|The Abyss of Despair|single
+1149|Viper| |Laur|180|105,00|FS HS|Hard|10|Tidek|The Abyss of Despair|single
+1150|Viper| |Laur|180|105,00|BXF HS BT- BU-|Challenge|11|Tidek|The Abyss of Despair|single
+1151|Viyella's Malice| |Laur|255|105,00|No Tech|Easy|7|Tidek|The Abyss of Despair|single
+1152|Viyella's Malice| |Laur|255|105,00|FS|Medium|9|Tidek|The Abyss of Despair|single
+1153|Viyella's Malice| |Laur|255|105,00|STR BXF DS-|Hard|11|Tidek|The Abyss of Despair|single
+1154|Viyella's Malice| |Laur|255|105,00|BXF BU HS SS-|Challenge|12|Tidek|The Abyss of Despair|single
+1155|2nd Sucks| |A Day to Remember|134|1,28 - 140,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1156|2nd Sucks| |A Day to Remember|134|1,28 - 140,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1157|2nd Sucks| |A Day to Remember|134|1,28 - 140,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1158|2nd Sucks| |A Day to Remember|134|1,28 - 140,00| |Easy|3|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1159|2nd Sucks| |A Day to Remember|134|1,28 - 140,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1160|Ain't That Funny| |Sick YG|105|130,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1161|Ain't That Funny| |Sick YG|105|130,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1162|Ain't That Funny| |Sick YG|105|130,00| |Challenge|11|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1163|Ain't That Funny| |Sick YG|105|130,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1164|Ain't That Funny| |Sick YG|105|130,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1165|Better Than Revenge| |Taylor Swift|149|73,00 - 146,00| |Challenge|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1166|Better Than Revenge| |Taylor Swift|149|73,00 - 146,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1167|Better Than Revenge| |Taylor Swift|149|73,00 - 146,00| |Medium|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1168|Better Than Revenge| |Taylor Swift|149|73,00 - 146,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1169|Better Than Revenge| |Taylor Swift|149|73,00 - 146,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1170|Break the Beat in Half, Dr. Wily|(Extra Pie Mix)|Shael Riley|104|125,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1171|Break the Beat in Half, Dr. Wily|(Extra Pie Mix)|Shael Riley|104|125,00| |Hard|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1172|Break the Beat in Half, Dr. Wily|(Extra Pie Mix)|Shael Riley|104|125,00| |Medium|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1173|Break the Beat in Half, Dr. Wily|(Extra Pie Mix)|Shael Riley|104|125,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1174|Break the Beat in Half, Dr. Wily|(Extra Pie Mix)|Shael Riley|104|125,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1175|BREATH| |SPARKER|106|160,00| |Hard|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1176|BREATH| |SPARKER|106|160,00| |Medium|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1177|BREATH| |SPARKER|106|160,00| |Challenge|11|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1178|BREATH| |SPARKER|106|160,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1179|BREATH| |SPARKER|106|160,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1180|Comic Bakery| |Press Play On Tape|96|108,01| |Challenge|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1181|Comic Bakery| |Press Play On Tape|96|108,01| |Hard|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1182|Comic Bakery| |Press Play On Tape|96|108,01| |Medium|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1183|Comic Bakery| |Press Play On Tape|96|108,01| |Easy|2|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1184|Comic Bakery| |Press Play On Tape|96|108,01| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1185|Dirty Talk| |Wynter Gordon|90|130,00| |Hard|8|JukuGuy|Valex's Magical 4-Arrow Adventure|single
+1186|Dirty Talk| |Wynter Gordon|90|130,00| |Medium|5|JukuGuy|Valex's Magical 4-Arrow Adventure|single
+1187|Dirty Talk| |Wynter Gordon|90|130,00| |Easy|3|JukuGuy|Valex's Magical 4-Arrow Adventure|single
+1188|Dirty Talk| |Wynter Gordon|90|130,00| |Beginner|1|JukuGuy|Valex's Magical 4-Arrow Adventure|single
+1189|Dirty Talk| |Wynter Gordon|90|130,00| |Challenge|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1190|Enemy Storm| |Croove|122|129,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1191|Enemy Storm| |Croove|122|129,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1192|Enemy Storm| |Croove|122|129,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1193|Enemy Storm| |Croove|122|129,00| |Easy|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1194|Enemy Storm| |Croove|122|129,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1195|Enemy Storm|(Dark Jungle Mix)|Paul Bazooka|120|170,00| |Challenge|11|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1196|Enemy Storm|(Dark Jungle Mix)|Paul Bazooka|120|170,00| |Hard|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1197|Enemy Storm|(Dark Jungle Mix)|Paul Bazooka|120|170,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1198|Enemy Storm|(Dark Jungle Mix)|Paul Bazooka|120|170,00| |Easy|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1199|Enemy Storm|(Dark Jungle Mix)|Paul Bazooka|120|170,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1200|Feel Good Drag| |Anberlin|137|94,00| |Challenge|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1201|Feel Good Drag| |Anberlin|137|94,00| |Hard|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1202|Feel Good Drag| |Anberlin|137|94,00| |Medium|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1203|Feel Good Drag| |Anberlin|137|94,00| |Easy|3|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1204|Feel Good Drag| |Anberlin|137|94,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1205|Fury| |Sugar Donut|104|135,00| |Hard|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1206|Fury| |Sugar Donut|104|135,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1207|Fury| |Sugar Donut|104|135,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1208|Fury| |Sugar Donut|104|135,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1209|Fury| |Sugar Donut|104|135,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1210|Gaia Bleeds|(Make Way for Man)|Set Your Goals|126|144,00| |Challenge|11|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1211|Gaia Bleeds|(Make Way for Man)|Set Your Goals|126|144,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1212|Gaia Bleeds|(Make Way for Man)|Set Your Goals|126|144,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1213|Gaia Bleeds|(Make Way for Man)|Set Your Goals|126|144,00| |Easy|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1214|Gaia Bleeds|(Make Way for Man)|Set Your Goals|126|144,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1215|Ghost Revival| |L.E.D.|0|148,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1216|Ghost Revival| |L.E.D.|0|148,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1217|Ghost Revival| |L.E.D.|0|148,00| |Hard|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1218|Ghost Revival| |L.E.D.|0|148,00| |Challenge|12|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1219|Ghost Revival| |L.E.D.|0|148,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1220|Insect Digestion Melancholy| |Hrvatski|105|84,82| |Hard|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1221|Insect Digestion Melancholy| |Hrvatski|105|84,82| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1222|Insect Digestion Melancholy| |Hrvatski|105|84,82| |Medium|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1223|Insect Digestion Melancholy| |Hrvatski|105|84,82| |Easy|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1224|Insect Digestion Melancholy| |Hrvatski|105|84,82| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1225|Made In Innocent| |Onoken|112|120,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1226|Made In Innocent| |Onoken|112|120,00| |Hard|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1227|Made In Innocent| |Onoken|112|120,00| |Medium|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1228|Made In Innocent| |Onoken|112|120,00| |Easy|3|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1229|Made In Innocent| |Onoken|112|120,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1230|Middle of the Night| |Evol Intent|114|86,50 - 173,00| |Challenge|11|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1231|Middle of the Night| |Evol Intent|114|86,50 - 173,00| |Hard|9|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1232|Middle of the Night| |Evol Intent|114|86,50 - 173,00| |Medium|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1233|Middle of the Night| |Evol Intent|114|86,50 - 173,00| |Easy|5|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1234|Middle of the Night| |Evol Intent|114|86,50 - 173,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1235|Our Xenopittan| |Xenosaga Freaks|134|170,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1236|Our Xenopittan| |Xenosaga Freaks|134|170,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1237|Our Xenopittan| |Xenosaga Freaks|134|170,00| |Medium|6|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1238|Our Xenopittan| |Xenosaga Freaks|134|170,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1239|Our Xenopittan| |Xenosaga Freaks|134|170,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1240|Rawest Forest| |Marta|149|80,00 - 160,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1241|Rawest Forest| |Marta|149|80,00 - 160,00| |Medium|7|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1242|Rawest Forest| |Marta|149|80,00 - 160,00| |Easy|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1243|Rawest Forest| |Marta|149|80,00 - 160,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1244|Rawest Forest| |Marta|149|80,00 - 160,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1245|Tsukiyuki ni mau hana no you ni| |Nekomata Master|118|125,00| |Hard|8|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1246|Tsukiyuki ni mau hana no you ni| |Nekomata Master|118|125,00| |Challenge|10|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1247|Tsukiyuki ni mau hana no you ni| |Nekomata Master|118|125,00| |Medium|4|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1248|Tsukiyuki ni mau hana no you ni| |Nekomata Master|118|125,00| |Easy|3|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
+1249|Tsukiyuki ni mau hana no you ni| |Nekomata Master|118|125,00| |Beginner|1|J.Berkowitz|Valex's Magical 4-Arrow Adventure|single
