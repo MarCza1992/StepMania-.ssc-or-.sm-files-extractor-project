@@ -19,7 +19,7 @@ An .ssc/.sm file is used in the rhythm game "StepMania"; in short, each individu
 To make the extraction program work:
 - Place your StepMania song packs (available at itgpacks.com) into the following folder path:
   
-bin -> x64 -> Debug -> Packs -> (PLACE SONG PACK HERE) -> song folder -> (here .ssc and/or .sm files are located)
+bin -> x64 -> Debug -> Packs -> (PASTE SONG PACK HERE) -> song folder -> (here .ssc and/or .sm files are located)
 - Run the executable:
   
 StepMania .ssc/.sm files extractor.exe (located in the bin -> x64 -> Debug folder)
