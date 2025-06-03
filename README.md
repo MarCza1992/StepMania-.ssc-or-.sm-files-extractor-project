@@ -6,6 +6,7 @@
 ## Description:
 
 The program, written in C++, extracts all necessary information from .ssc or .sm files into ChartsData.txt and NotesData.txt, structured for easy import into tools such as Excel, Power BI, SQL, and Python.
+
 An .ssc/.sm file is used in the rhythm game "StepMania"; in short, each individual file stores all information about a song and its corresponding chart.
 
 ## What goals can I achieve with this program?
