@@ -33,11 +33,14 @@ struct Chart
 };
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Convert a float to a string with two decimal places and replace '.' with ',' (mainly for BPM data)
 string stringconversion(float value)
 {
 	string fixedvalue = to_string(value);
 =======
+=======
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 string stringconversion(float value)
 {
 	string fixedvalue = to_string(value);
@@ -51,6 +54,9 @@ string stringconversion(float value)
 void DisplayChartsData(const vector<Chart>& baza)
 {
 	cout << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Amount_of_Notes" << "|" << "Amount_of_LongNotes" << "|" << "Amount_of_Rolls" << "|" << "Amount_of_Mines" << "|" << "Pack" << "|" << "Type" << endl;
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 
 	fixedvalue = fixedvalue.substr(0, fixedvalue.find(".") + 3);
@@ -67,7 +73,11 @@ void DisplayChartsData(const vector<Chart>& database)
 	for (size_t i = 0; i < database.size(); i++)
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
 		cout << database[i].ID << "|" << database[i].title << "|" << database[i].subtitle << "|" << database[i].artist << "|" << database[i].length << "|" << database[i].MIN_BPM << "|" << database[i].MAX_BPM << "|" << database[i].technotation << "|" << database[i].difficulty << "|" << database[i].rating << "|" << database[i].stepartist << "|" << database[i].Notes << "|" << database[i].LongNotes << "|" << database[i].Rolls << "|" << database[i].Mines << "|" << database[i].pack << "|" << database[i].type << endl;
+=======
+		cout << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].Notes << "|" << baza[i].LongNotes << "|" << baza[i].Rolls << "|" << baza[i].Mines << "|" << baza[i].pack << "|" << baza[i].type << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 =======
 		cout << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].Notes << "|" << baza[i].LongNotes << "|" << baza[i].Rolls << "|" << baza[i].Mines << "|" << baza[i].pack << "|" << baza[i].type << endl;
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
@@ -88,8 +98,12 @@ void SaveToChartsData(vector<Chart>& database)
 	}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	// header line
 	file << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "MIN_BPM" << "|" << "MAX_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "|" << "Type" << endl;
+=======
+	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "|" << "Type" << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 =======
 	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "|" << "Type" << endl;
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
@@ -98,7 +112,11 @@ void SaveToChartsData(vector<Chart>& database)
 	for (size_t i = 0; i < database.size(); i++)
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
 		file << database[i].ID << "|" << database[i].title << "|" << database[i].subtitle << "|" << database[i].artist << "|" << database[i].length << "|" << database[i].MIN_BPM << "|" << database[i].MAX_BPM << "|" << database[i].technotation << "|" << database[i].difficulty << "|" << database[i].rating << "|" << database[i].stepartist << "|" << database[i].pack << "|" << database[i].type << endl;
+=======
+		plik << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].pack << "|" << baza[i].type << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 =======
 		plik << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].pack << "|" << baza[i].type << endl;
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
@@ -452,8 +470,11 @@ int main()
 						if (!file.is_open())
 						{
 <<<<<<< HEAD
+<<<<<<< HEAD
 							cout << ".ssc file not found in " << ChartName << " folder" << endl;
 =======
+=======
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							cout << ".ssc file not found in" << ChartName << " folder" << endl;
 							return 1;
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
@@ -494,6 +515,18 @@ int main()
 								}
 							}
 
+							if (linia.find("#STEPSTYPE:") == 0)
+							{
+								if (linia.find("single") != string::npos)
+								{
+									chart.type = "single";
+								}
+								else
+								{
+									chart.type = "double";
+								}
+							}
+
 							if (linia.find("#TITLETRANSLIT:") == 0)
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							{
@@ -521,6 +554,9 @@ int main()
 								size_t start = linia.find("#SUBTITLE:") + 10;
 								size_t end = linia.length() - 1;
 								if (linia.substr(start, 1) == ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.subtitle = " ";
@@ -537,6 +573,9 @@ int main()
 								size_t start = linia.find("#SUBTITLETRANSLIT:") + 18;
 								size_t end = linia.length() - 1;
 								if (linia.substr(start, 1) != ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.subtitle = result;
@@ -559,6 +598,9 @@ int main()
 								size_t start = linia.find("#ARTISTTRANSLIT:") + 16;
 								size_t end = linia.length() - 1;
 								if (linia.substr(start, 1) != ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.artist = result;
@@ -655,8 +697,11 @@ int main()
 							if (line.find("#DISPLAYBPM:") == 0)
 							{
 <<<<<<< HEAD
+<<<<<<< HEAD
 								ParseDisplayBPM(line, chart);
 =======
+=======
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								float MINBPM = -1;
 								float MAXBPM = -1;
 								float tempo = -1;
@@ -678,6 +723,15 @@ int main()
 									string fixedmaxbpm = stringconversion(MAXBPM);
 									string fixedminbpm = stringconversion(MINBPM);
 									chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+<<<<<<< HEAD
+=======
+								}
+								else
+								{
+									tempo = stof(chart.BPM);
+									string fixedtempo = stringconversion(tempo);
+									chart.BPM = fixedtempo;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								}
 								else
 								{
@@ -727,6 +781,9 @@ int main()
 								size_t start = linia.find("#DESCRIPTION:") + 13;
 								size_t end = linia.length() - 1;
 								if (linia.substr(start, 1) != ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.technotation = " ";
@@ -784,7 +841,10 @@ int main()
 						{
 							cout << ".sm file not found in " << ChartName << " folder" << endl;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							return 1;
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 						}
@@ -816,6 +876,9 @@ int main()
 								size_t start = linia.find("#TITLETRANSLIT:") + 15;
 								size_t end = linia.length() - 1;
 								if (linia.substr(start, 1) != ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.title = result;
@@ -832,6 +895,9 @@ int main()
 								size_t start = linia.find("#SUBTITLE:") + 10;
 								size_t end = linia.length() - 1;
 								if (linia.substr(start, 1) == ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.subtitle = " ";
@@ -938,6 +1004,9 @@ int main()
 								size_t end = linia.length() - 1;
 								
 								if (linia.substr(start, 1) == ";")
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									continue;
@@ -1095,11 +1164,36 @@ int main()
 								if (line != "#NOTES:")
 								{
 <<<<<<< HEAD
+<<<<<<< HEAD
 									if (chart.title.empty())
 =======
 									if (numerlinii == 1)
 									{
 										if (linia.find("single") != string::npos)
+=======
+									if (numerlinii == 1)
+									{
+										if (linia.find("single") != string::npos)
+										{
+											chart.type = "single";
+											numerlinii++;
+											continue;
+										}
+										else
+										{
+											chart.type = "double";
+											numerlinii++;
+											continue;
+										}
+									}
+
+									if (numerlinii == 2)
+									{
+										size_t start = 5;
+										size_t end = linia.length() - 1;
+
+										if (linia.substr(start, 1) == ":")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 										{
 											chart.type = "single";
 											numerlinii++;
@@ -1237,6 +1331,11 @@ int main()
 									chart = Chart();
 								}
 =======
+								if (chart.charter.find_first_not_of(' ') == string::npos)
+								{
+									chart.charter = BazaChartow.back().charter;
+								}
+
 								if (chart.charter.find_first_not_of(' ') == string::npos)
 								{
 									chart.charter = BazaChartow.back().charter;

@@ -13,7 +13,11 @@ An .ssc/.sm file is used in the rhythm game "StepMania"; in short, each individu
 
 - automate the data extraction process for entire song packs
 <<<<<<< HEAD
+<<<<<<< HEAD
 - easily identify and fix data issues or inconsistency
+=======
+- easily identify and fix data issues
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 =======
 - easily identify and fix data issues
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
@@ -21,6 +25,7 @@ An .ssc/.sm file is used in the rhythm game "StepMania"; in short, each individu
 
 ## How does the program work?
 To make the extraction program work:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Place your StepMania song packs (or custom ones made by other people available at [itgpacks.com](https://itgpacks.com)) into the following folder path:
@@ -40,6 +45,8 @@ StepMania .ssc/.sm files extractor.exe (located in the bin -> x64 -> Debug folde
 =======
 =======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 - Place your StepMania song packs (available at [itgpacks.com](https://itgpacks.com)) into the following folder path:
   
 bin -> x64 -> Debug -> Packs -> (PASTE SONG PACK HERE) -> song folder -> (here .ssc and/or .sm files are located)
@@ -54,6 +61,9 @@ StepMania .ssc/.sm files extractor.exe (located in the bin -> x64 -> Debug folde
 - VBA Folder - .bas file with excel macro (works with ChartsData.txt data) and example
 - Python Folder - .ipynb file with data cleaning and analysis in Python (Jupyter Notebook)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 =======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
