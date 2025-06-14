@@ -12,11 +12,16 @@ An .ssc/.sm file is used in the rhythm game "StepMania"; in short, each individu
 ## What goals can I achieve with this program?
 
 - automate the data extraction process for entire song packs
+<<<<<<< HEAD
 - easily identify and fix data issues or inconsistency
+=======
+- easily identify and fix data issues
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 - gain valuable insights through data analysis, which can be used to improve balance and design in your own StepMania packs!
 
 ## How does the program work?
 To make the extraction program work:
+<<<<<<< HEAD
 <<<<<<< HEAD
 - Place your StepMania song packs (or custom ones made by other people available at [itgpacks.com](https://itgpacks.com)) into the following folder path:
 
@@ -33,6 +38,8 @@ StepMania .ssc/.sm files extractor.exe (located in the bin -> x64 -> Debug folde
 - Python Folder - Contains a Python file with data cleaning and analysis (using the same data as for MySQL) + code to generate an additional table useful for Power BI visualisation
 - PowerBI visualisation Folder – Contains the Power BI .pbix visualization file using the fully prepared dataset (MySQL tables and additional table made in Python), along with example screenshots.
 =======
+=======
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 - Place your StepMania song packs (available at [itgpacks.com](https://itgpacks.com)) into the following folder path:
   
 bin -> x64 -> Debug -> Packs -> (PASTE SONG PACK HERE) -> song folder -> (here .ssc and/or .sm files are located)
@@ -46,4 +53,7 @@ StepMania .ssc/.sm files extractor.exe (located in the bin -> x64 -> Debug folde
 - PowerBI visualization Folder – visualization .pbix file and example screenshots
 - VBA Folder - .bas file with excel macro (works with ChartsData.txt data) and example
 - Python Folder - .ipynb file with data cleaning and analysis in Python (Jupyter Notebook)
+<<<<<<< HEAD
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
+=======
 >>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58

@@ -32,10 +32,26 @@ struct Chart
 	string type;
 };
 
+<<<<<<< HEAD
 // Convert a float to a string with two decimal places and replace '.' with ',' (mainly for BPM data)
 string stringconversion(float value)
 {
 	string fixedvalue = to_string(value);
+=======
+string stringconversion(float value)
+{
+	string fixedvalue = to_string(value);
+
+	fixedvalue = fixedvalue.substr(0, fixedvalue.find(".") + 3);
+	fixedvalue = fixedvalue.replace(fixedvalue.find("."), 1, ",");
+
+	return fixedvalue;
+}
+
+void DisplayChartsData(const vector<Chart>& baza)
+{
+	cout << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Amount_of_Notes" << "|" << "Amount_of_LongNotes" << "|" << "Amount_of_Rolls" << "|" << "Amount_of_Mines" << "|" << "Pack" << "|" << "Type" << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 
 	fixedvalue = fixedvalue.substr(0, fixedvalue.find(".") + 3);
 	fixedvalue = fixedvalue.replace(fixedvalue.find("."), 1, ",");
@@ -50,7 +66,11 @@ void DisplayChartsData(const vector<Chart>& database)
 
 	for (size_t i = 0; i < database.size(); i++)
 	{
+<<<<<<< HEAD
 		cout << database[i].ID << "|" << database[i].title << "|" << database[i].subtitle << "|" << database[i].artist << "|" << database[i].length << "|" << database[i].MIN_BPM << "|" << database[i].MAX_BPM << "|" << database[i].technotation << "|" << database[i].difficulty << "|" << database[i].rating << "|" << database[i].stepartist << "|" << database[i].Notes << "|" << database[i].LongNotes << "|" << database[i].Rolls << "|" << database[i].Mines << "|" << database[i].pack << "|" << database[i].type << endl;
+=======
+		cout << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].Notes << "|" << baza[i].LongNotes << "|" << baza[i].Rolls << "|" << baza[i].Mines << "|" << baza[i].pack << "|" << baza[i].type << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 	}
 	cout << endl;
 }
@@ -67,13 +87,21 @@ void SaveToChartsData(vector<Chart>& database)
 		return;
 	}
 
+<<<<<<< HEAD
 	// header line
 	file << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "MIN_BPM" << "|" << "MAX_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "|" << "Type" << endl;
+=======
+	plik << "Chart_ID" << "|" << "Song_Title" << "|" << "Song_Subtitle" << "|" << "Song_Artist" << "|" << "Song_Length" << "|" << "Song_BPM" << "|" << "Technical_Notation" << "|" << "Difficulty_Name" << "|" << "Difficulty_Rating" << "|" << "Step_Artist" << "|" << "Pack" << "|" << "Type" << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 
 	// write every chart data
 	for (size_t i = 0; i < database.size(); i++)
 	{
+<<<<<<< HEAD
 		file << database[i].ID << "|" << database[i].title << "|" << database[i].subtitle << "|" << database[i].artist << "|" << database[i].length << "|" << database[i].MIN_BPM << "|" << database[i].MAX_BPM << "|" << database[i].technotation << "|" << database[i].difficulty << "|" << database[i].rating << "|" << database[i].stepartist << "|" << database[i].pack << "|" << database[i].type << endl;
+=======
+		plik << baza[i].ID << "|" << baza[i].title << "|" << baza[i].subtitle << "|" << baza[i].artist << "|" << baza[i].length << "|" << baza[i].BPM << "|" << baza[i].technotation << "|" << baza[i].difficulty << "|" << baza[i].rating << "|" << baza[i].charter << "|" << baza[i].pack << "|" << baza[i].type << endl;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 	}
 	cout << "Data saved to ChartsData.txt!" << endl << endl;
 	file.close();
@@ -423,7 +451,12 @@ int main()
 						file.open(sscpath, ios::in);
 						if (!file.is_open())
 						{
+<<<<<<< HEAD
 							cout << ".ssc file not found in " << ChartName << " folder" << endl;
+=======
+							cout << ".ssc file not found in" << ChartName << " folder" << endl;
+							return 1;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 						}
 
 						string line;
@@ -446,7 +479,23 @@ int main()
 								RemovePipes(chart.title);
 							}
 
+<<<<<<< HEAD
 							if (line.find("#STEPSTYPE:") == 0)
+=======
+							if (linia.find("#STEPSTYPE:") == 0)
+							{
+								if (linia.find("single") != string::npos)
+								{
+									chart.type = "single";
+								}
+								else
+								{
+									chart.type = "double";
+								}
+							}
+
+							if (linia.find("#TITLETRANSLIT:") == 0)
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							{
 								chart.type = ChartType(line);
 							}
@@ -454,6 +503,7 @@ int main()
 							// #TITLETRANSLIT is prioritized over #TITLE (it provides the romanized title of a song that contains, for example, Japanese characters)
 							if (line.find("#TITLETRANSLIT:") == 0)
 							{
+<<<<<<< HEAD
 								string result = ParseTagLine(line, 15);
 								if (!result.empty())
 								{
@@ -467,6 +517,11 @@ int main()
 							{
 								chart.subtitle = ParseTagLine(line, 10);
 								if (chart.subtitle.empty())
+=======
+								size_t start = linia.find("#SUBTITLE:") + 10;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) == ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.subtitle = " ";
 								}
@@ -475,8 +530,14 @@ int main()
 
 							if (line.find("#SUBTITLETRANSLIT:") == 0)
 							{
+<<<<<<< HEAD
 								string result = ParseTagLine(line, 18);
 								if (!result.empty())
+=======
+								size_t start = linia.find("#SUBTITLETRANSLIT:") + 18;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) != ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.subtitle = result;
 								}
@@ -491,8 +552,14 @@ int main()
 
 							if (line.find("#ARTISTTRANSLIT:") == 0)
 							{
+<<<<<<< HEAD
 								string result = ParseTagLine(line, 16);
 								if (!result.empty())
+=======
+								size_t start = linia.find("#ARTISTTRANSLIT:") + 16;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) != ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.artist = result;
 								}
@@ -503,14 +570,122 @@ int main()
 							{
 								if (checkbpm != 1)
 								{
+<<<<<<< HEAD
 									ParseBPM(file, line, chart);
+=======
+
+									float tempo = -1;
+									float MINBPM = -1;
+									float MAXBPM = -1;
+									float current = -1;
+
+									size_t start = linia.find("=") + 1;
+									size_t end = linia.length();
+									tempo = stof(linia.substr(start, end - start));
+
+									while (getline(plik, linia))
+									{
+
+										if (linia.find(";") != string::npos)
+										{
+											break;
+										}
+
+										size_t start = linia.find("=") + 1;
+										size_t end = linia.length();
+										current = stof(linia.substr(start, end - start));
+
+										if (current < tempo)
+										{
+											if (MINBPM == -1)
+											{
+												MINBPM = current;
+											}
+											if (current < MINBPM)
+											{
+												MINBPM = current;
+											}
+										}
+										else
+										{
+											if (MAXBPM == -1)
+											{
+												MAXBPM = current;
+											}
+											if (current > MAXBPM)
+											{
+												MAXBPM = current;
+											}
+										}
+									}
+
+									if (MAXBPM != -1 || MINBPM != -1)
+									{
+										if (MAXBPM == -1)
+										{
+											string fixedminbpm = stringconversion(MINBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedminbpm + " - " + fixedtempo;
+										}
+										else
+										{
+											string fixedmaxbpm = stringconversion(MAXBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedtempo + " - " + fixedmaxbpm;
+										}
+									}
+
+									if (MAXBPM != -1 && MINBPM != -1)
+									{
+										string fixedmaxbpm = stringconversion(MAXBPM);
+										string fixedminbpm = stringconversion(MINBPM);
+										chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+									}
+
+									if (MAXBPM == -1 && MINBPM == -1)
+									{
+										string fixedtempo = stringconversion(tempo);
+										chart.BPM = fixedtempo;
+									}
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 									checkbpm++;
 								}
 							}
 
 							if (line.find("#DISPLAYBPM:") == 0)
 							{
+<<<<<<< HEAD
 								ParseDisplayBPM(line, chart);
+=======
+								float MINBPM = -1;
+								float MAXBPM = -1;
+								float tempo = -1;
+
+								size_t start = linia.find("#DISPLAYBPM:") + 12;
+								size_t end = linia.length() - 1;
+
+								if (linia.substr(start, 1) == ";")
+								{
+									continue;
+								}
+
+								chart.BPM = linia.substr(start, end - start);
+
+								if (chart.BPM.find(":") != string::npos)
+								{
+									MINBPM = stof(chart.BPM.substr(0, chart.BPM.find(":") - 1));
+									MAXBPM = stof(chart.BPM.substr(chart.BPM.find(":") + 1, 10));
+									string fixedmaxbpm = stringconversion(MAXBPM);
+									string fixedminbpm = stringconversion(MINBPM);
+									chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+								}
+								else
+								{
+									tempo = stof(chart.BPM);
+									string fixedtempo = stringconversion(tempo);
+									chart.BPM = fixedtempo;
+								}
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							}
 
 							// copying unique data to next difficulty of a chart
@@ -545,8 +720,14 @@ int main()
 									chart.stepartist = ChartsDatabase.back().stepartist;
 								}
 
+<<<<<<< HEAD
 								chart.technotation = ParseTagLine(line, 13);
 								if (chart.technotation.empty())
+=======
+								size_t start = linia.find("#DESCRIPTION:") + 13;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) != ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.technotation = " ";
 								}
@@ -602,6 +783,10 @@ int main()
 						if (!file.is_open())
 						{
 							cout << ".sm file not found in " << ChartName << " folder" << endl;
+<<<<<<< HEAD
+=======
+							return 1;
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 						}
 
 						string line;
@@ -624,8 +809,14 @@ int main()
 
 							if (line.find("#TITLETRANSLIT:") == 0)
 							{
+<<<<<<< HEAD
 								string result = ParseTagLine(line, 15);
 								if (!result.empty())
+=======
+								size_t start = linia.find("#TITLETRANSLIT:") + 15;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) != ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.title = result;
 								}
@@ -634,8 +825,14 @@ int main()
 
 							if (line.find("#SUBTITLE:") == 0)
 							{
+<<<<<<< HEAD
 								chart.subtitle = ParseTagLine(line, 10);
 								if (chart.subtitle.empty())
+=======
+								size_t start = linia.find("#SUBTITLE:") + 10;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) == ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									chart.subtitle = " ";
 								}
@@ -683,17 +880,186 @@ int main()
 
 							if (line.find("#CREDIT:") == 0)
 							{
+<<<<<<< HEAD
 								chart.stepartist = ParseTagLine(line, 8);
+=======
+								size_t start = linia.find("#SUBTITLETRANSLIT:") + 18;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) != ";")
+								{
+									chart.subtitle = linia.substr(start, end - start);
+								}
+
+								if (chart.subtitle.find("|") != string::npos)
+								{
+									chart.subtitle.erase(chart.subtitle.find("|"), 1);
+								}
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							}
 
 							// some very old files have that kind of information on beginning, that is useless and its messing up whole extraction process, fixing it here
 							if (line.find("//---") == 0)
 							{
+<<<<<<< HEAD
 								if (line.find("song ID:") != string::npos || line.find("song id:") != string::npos)
+=======
+								size_t start = linia.find("#ARTIST:") + 8;
+								size_t end = linia.length() - 1;
+								chart.artist = linia.substr(start, end - start);
+
+								if (chart.artist.find("|") != string::npos)
+								{
+									chart.artist.erase(chart.artist.find("|"), 1);
+								}
+							}
+
+							if (linia.find("#ARTISTTRANSLIT:") == 0)
+							{
+								size_t start = linia.find("#ARTISTTRANSLIT:") + 16;
+								size_t end = linia.length() - 1;
+								if (linia.substr(start, 1) != ";")
+								{
+									chart.artist = linia.substr(start, end - start);
+								}
+
+								if (chart.artist.find("|") != string::npos)
+								{
+									chart.artist.erase(chart.artist.find("|"), 1);
+								}
+							}
+
+							if (linia.find("#DISPLAYBPM:") == 0)
+							{
+								float MINBPM = -1;
+								float MAXBPM = -1;
+								float tempo = -1;
+
+								size_t start = linia.find("#DISPLAYBPM:") + 12;
+								size_t end = linia.length() - 1;
+								
+								if (linia.substr(start, 1) == ";")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								{
 									continue;
 								}
 
+<<<<<<< HEAD
+=======
+								chart.BPM = linia.substr(start, end - start);
+
+								if (chart.BPM.find(":") != string::npos)
+								{
+									MINBPM = stof(chart.BPM.substr(0, chart.BPM.find(":") - 1));
+									MAXBPM = stof(chart.BPM.substr(chart.BPM.find(":") + 1, 10));
+									string fixedmaxbpm = stringconversion(MAXBPM);
+									string fixedminbpm = stringconversion(MINBPM);
+									chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+								}
+								else
+								{
+									tempo = stof(chart.BPM);
+									string fixedtempo = stringconversion(tempo);
+									chart.BPM = fixedtempo;
+								}
+							}
+
+							if (linia.find("#BPMS:") == 0)
+							{
+								if (chart.BPM.empty())
+								{
+
+									float tempo = -1;
+									float MINBPM = -1;
+									float MAXBPM = -1;
+									float current = -1;
+
+									size_t start = linia.find("=") + 1;
+									size_t end = linia.length();
+									tempo = stof(linia.substr(start, end - start));
+
+
+									while (getline(plik, linia))
+									{
+
+										if (linia.find(";") != string::npos)
+										{
+											break;
+										}
+
+										size_t start = linia.find("=") + 1;
+										size_t end = linia.length();
+										current = stof(linia.substr(start, end - start));
+
+										if (current < tempo)
+										{
+											if (MINBPM == -1)
+											{
+												MINBPM = current;
+											}
+											if (current < MINBPM)
+											{
+												MINBPM = current;
+											}
+										}
+										else
+										{
+											if (MAXBPM == -1)
+											{
+												MAXBPM = current;
+											}
+											if (current > MAXBPM)
+											{
+												MAXBPM = current;
+											}
+										}
+									}
+
+									if (MAXBPM != -1 || MINBPM != -1)
+									{
+										if (MAXBPM == -1)
+										{
+											string fixedminbpm = stringconversion(MINBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedminbpm + " - " + fixedtempo;
+										}
+										else
+										{
+											string fixedmaxbpm = stringconversion(MAXBPM);
+											string fixedtempo = stringconversion(tempo);
+											chart.BPM = fixedtempo + " - " + fixedmaxbpm;
+										}
+									}
+
+									if (MAXBPM != -1 && MINBPM != -1)
+									{
+										string fixedmaxbpm = stringconversion(MAXBPM);
+										string fixedminbpm = stringconversion(MINBPM);
+										chart.BPM = fixedminbpm + " - " + fixedmaxbpm;
+									}
+
+									if (MAXBPM == -1 && MINBPM == -1)
+									{
+										string fixedtempo = stringconversion(tempo);
+										chart.BPM = fixedtempo;
+									}
+								}
+							}
+
+							if (linia.find("#CREDIT:") == 0)
+							{
+								size_t start = linia.find("#CREDIT:") + 8;
+								size_t end = linia.length() - 1;
+								chart.charter = linia.substr(start, end - start);
+
+								if (chart.charter.find("|") != string::npos)
+								{
+									chart.charter.erase(chart.charter.find("|"), 1);
+								}
+							}
+
+							if (linia.find("//---") == 0)
+							{
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 								if (chart.title.empty())
 								{
 									chart.ID = currentID++;
@@ -728,7 +1094,27 @@ int main()
 
 								if (line != "#NOTES:")
 								{
+<<<<<<< HEAD
 									if (chart.title.empty())
+=======
+									if (numerlinii == 1)
+									{
+										if (linia.find("single") != string::npos)
+										{
+											chart.type = "single";
+											numerlinii++;
+											continue;
+										}
+										else
+										{
+											chart.type = "double";
+											numerlinii++;
+											continue;
+										}
+									}
+
+									if (numerlinii == 2)
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 									{
 										chart.ID = currentID++;
 										chart.title = ChartsDatabase.back().title;
@@ -740,6 +1126,7 @@ int main()
 										chart.pack = ChartsDatabase.back().pack;
 									}
 
+<<<<<<< HEAD
 									stringstream ss(line);
 									string linepart;
 
@@ -785,6 +1172,9 @@ int main()
 									while (getline(file, line) && linenumber <= 4)
 									{
 										if (linenumber == 1)
+=======
+										if (linia.substr(start, 1) == ":")
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 										{
 											chart.type = ChartType(line);
 											linenumber++;
@@ -796,6 +1186,7 @@ int main()
 											size_t start = 5;
 											size_t end = line.length() - 1;
 
+<<<<<<< HEAD
 											if (line.substr(start, 1) == ":")
 											{
 												linenumber++;
@@ -845,6 +1236,15 @@ int main()
 									ChartsDatabase.push_back(chart);
 									chart = Chart();
 								}
+=======
+								if (chart.charter.find_first_not_of(' ') == string::npos)
+								{
+									chart.charter = BazaChartow.back().charter;
+								}
+
+								BazaChartow.push_back(chart);
+								chart = Chart();
+>>>>>>> aae0036a4ba722a77714208e6988ab92c38e8e58
 							}
 						}
 						file.close();
